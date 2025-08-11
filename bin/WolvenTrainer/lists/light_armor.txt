@@ -1,0 +1,168 @@
+Superior Feline gauntlets|NGP Lynx Gloves 3
+Mastercrafted Feline gauntlets|NGP Lynx Gloves 4
+Feline trousers|NGP Lynx Pants 1
+Enhanced Feline trousers|NGP Lynx Pants 2
+Superior Feline trousers|NGP Lynx Pants 3
+Mastercrafted Feline trousers|NGP Lynx Pants 4
+Feline boots|NGP Lynx Boots 1
+Enhanced Feline boots|NGP Lynx Boots 2
+Superior Feline boots|NGP Lynx Boots 3
+Mastercrafted Feline boots|NGP Lynx Boots 4
+Enhanced legendary Feline boots|Lynx Boots 2
+Shirt|Geralt Shirt
+Legendary Feline gauntlets|Lynx Gloves 1
+Legendary Feline armor|Lynx Armor
+Superior legendary Feline armor|Lynx Armor 2
+Mastercrafted legendary Feline armor|Lynx Armor 3
+Shirt|Geralt Shirt No Knife
+Cavalry boots|Boots 02_crafted
+Legendary Feline trousers|Lynx Pants 1
+Enhanced legendary Feline trousers|Lynx Pants 2
+Enhanced legendary Feline gauntlets|Lynx Gloves 2
+Ofieri scale armor|NGP Crafted Ofir Armor
+Ofieri boots|Ofir Boots
+Ofieri boots|NGP Crafted Ofir Boots
+Toussaint Ducal Guardsman's armor|NGP Guard Lvl1 Armor 3
+Ofieri gauntlets|NGP Crafted Ofir Gloves
+Assassin's boots|Boots 04_crafted
+Ofieri sharovary|NGP Crafted Ofir Pants
+Toussaint Color Guardsman's armor|NGP Guard Lvl1 A Armor 3
+Cidarian gambeson|Light armor 01r
+Skellige gambeson|Light armor 02r
+Kaedweni gambeson|Light armor 03r
+Spikeroog aketon|Light armor 04r
+Verden archer's gambeson|Light armor 06r
+Bounty hunter's gambeson|Light armor 07r
+Ard Skellig aketon|Light armor 08r
+Freya's Warriors' armor|Light armor 09r
+Toussaint Ducal Guardsman's gauntlets|NGP Guard Lvl1 Gloves 3
+Toussaint Color Guardsman's gauntlets|NGP Guard Lvl1 A Gloves 3
+Yennefer's dress|Yennefers Dress
+Hunting boots|Boots 01
+Hunting trousers|Pants 01
+Hunting trousers|Pants 01 q2
+Mastercrafted legendary Feline gauntlets|Lynx Gloves 4
+Mastercrafted legendary Feline trousers|Lynx Pants 4
+Mastercrafted legendary Feline boots|Lynx Boots 4
+Cidarian gambeson|Light armor 01
+Toussaint Ducal Guardsman's trousers|NGP Guard Lvl1 Pants 3
+Toussaint Color Guardsman's trousers|NGP Guard Lvl1 A Pants 3
+Skellige gambeson|Light armor 02
+Cidarian gambeson|Light armor 01_crafted
+Kaedweni gambeson|Light armor 03
+Temerian Armor|DLC1 Temerian Armor
+Temerian Boots|DLC1 Temerian Boots
+Temerian Gauntlets|DLC1 Temerian Gloves
+Temerian Trousers|DLC1 Temerian Pants
+Temerian Armor|NGP DLC1 Temerian Armor
+Temerian Boots|NGP DLC1 Temerian Boots
+Temerian Gauntlets|NGP DLC1 Temerian Gloves
+Temerian Trousers|NGP DLC1 Temerian Pants
+Mountain Folk boots|Boots 07_crafted
+Skellige gambeson|Light armor 02_crafted
+Spikeroog aketon|Light armor 04
+Kaedweni gambeson|Light armor 03_crafted
+Verden archer's gambeson|Light armor 06
+Spikeroog aketon|Light armor 04_crafted
+Bounty hunter's gambeson|Light armor 07
+Shiadhal's armor|Light armor 05_crafted
+Toussaint Ducal Guardsman's boots|NGP Guard Lvl1 Boots 3
+Verden archer's gambeson|Light armor 06_crafted
+Grandmaster Feline armor|NGP Lynx Armor 4
+Bounty hunter's gambeson|Light armor 07_crafted
+Toussaint Color Guardsman's boots|NGP Guard Lvl1 A Boots 3
+Ard Skellig aketon|Light armor 08_crafted
+Ard Skellig aketon|Light armor 08
+Grandmaster legendary Feline armor|Lynx Armor 4
+Freya's Warriors' armor|Light armor 09
+Superior legendary Feline gauntlets|Lynx Gloves 3
+Grandmaster legendary Feline gauntlets|Lynx Gloves 5
+Hunting boots|Boots 01 q2
+Superior legendary Feline trousers|Lynx Pants 3
+Grandmaster legendary Feline trousers|Lynx Pants 5
+Superior legendary Feline boots|Lynx Boots 3
+Grandmaster legendary Feline boots|Lynx Boots 5
+Assassin's trousers|Pants 04
+Elegant Beauclair doublet|Beauclair elegant suit
+Cavalry boots|Boots 02
+Ornate boots|Geralt Kontusz Boots R
+Grandmaster Feline gauntlets|NGP Lynx Gloves 5
+Ofieri boots|Ofir Boots B
+Hunting gauntlets|Gloves 01
+Hunting gauntlets|Gloves 01 q2
+Ornate robe|Geralt Kontusz R
+Ofieri tunic|Ofir Armor B
+Elegant courtier's doublet|Nilfgaardian Casual Suit 01
+Elegant courtier's doublet|Nilfgaardian Casual Suit 02
+Elegant courtier's doublet|Nilfgaardian Casual Suit 03
+Hunting boots|Boots 01_crafted
+Grandmaster Feline trousers|NGP Lynx Pants 5
+Elegant Skellige shirt|Skellige Casual Suit 01
+Skellige tunic|Skellige Casual Suit 02
+Hunting gauntlets|Gloves 01_crafted
+Elegant Beauclair boots|Beauclair elegant shoes
+Elegant Beauclair trousers|Beauclair elegant pants
+Hunting boots|Boots 012
+Cavalry boots|Boots 022
+Ofieri sharovary|Ofir Pants
+Trapper's boots|Boots 05
+Shiadhal's armor|Shiadhal armor
+Tracker's gauntlets|Gloves 03_crafted
+Mountain Folk boots|Boots 07
+Ofieri sharovary|Ofir Pants B
+Assassin's gauntlets|Gloves 04_crafted
+Grandmaster Feline boots|NGP Lynx Boots 5
+Nilfgaardian trousers|Nilfgaardian Casual Pants
+Skellige breeches|Skellige Casual Pants 01
+Skellige breeches|Skellige Casual Pants 02
+Ofieri tunic|Ofir Armor
+Ofieri scale armor|Crafted Ofir Armor
+Ofieri boots|Crafted Ofir Boots
+Ofieri gauntlets|Crafted Ofir Gloves
+Ofieri sharovary|Crafted Ofir Pants
+Cavalry trousers|Pants 02
+Assassin's gauntlets|Gloves 04
+Elegant Nilfgaardian shoes|Nilfgaardian casual shoes
+Assassin's boots|Boots 04
+Enhanced legendary Feline armor|Lynx Armor 1
+Hunting trousers|Pants 01_crafted
+Bath towel|Bath Towel Pants 01
+Cavalry trousers|Pants 02_crafted
+Skellige festive slippers|Skellige casual shoes
+Ofieri tunic|NGP Ofir Armor
+Ornate robe|Geralt Kontusz
+Ornate boots|Geralt Kontusz Boots
+Ciri's trousers|Ciri pants 01
+Tracker's gauntlets|Gloves 03
+Assassin's trousers|Pants 04_crafted
+Toussaint Ducal Guardsman's armor|Guard Lvl1 Armor 1
+Toussaint Ducal Guardsman's boots|Guard Lvl1 Boots 1
+Feline armor|NGP Lynx Armor
+Toussaint Ducal Guardsman's gauntlets|Guard Lvl1 Gloves 1
+Toussaint Ducal Guardsman's trousers|Guard Lvl1 Pants 1
+Toussaint Ducal Guardsman's armor|Guard Lvl1 Armor 2
+Toussaint Ducal Guardsman's boots|Guard Lvl1 Boots 2
+Enhanced Feline armor|NGP Lynx Armor 1
+Toussaint Ducal Guardsman's gauntlets|Guard Lvl1 Gloves 2
+Toussaint Ducal Guardsman's trousers|Guard Lvl1 Pants 2
+Toussaint Ducal Guardsman's armor|Guard Lvl1 Armor 3
+Toussaint Ducal Guardsman's boots|Guard Lvl1 Boots 3
+Toussaint Ducal Guardsman's gauntlets|Guard Lvl1 Gloves 3
+Superior Feline armor|NGP Lynx Armor 2
+Mastercrafted Feline armor|NGP Lynx Armor 3
+Toussaint Ducal Guardsman's trousers|Guard Lvl1 Pants 3
+Toussaint Color Guardsman's armor|Guard Lvl1 A Armor 1
+Toussaint Color Guardsman's boots|Guard Lvl1 A Boots 1
+Toussaint Color Guardsman's gauntlets|Guard Lvl1 A Gloves 1
+Feline gauntlets|NGP Lynx Gloves 1
+Toussaint Color Guardsman's trousers|Guard Lvl1 A Pants 1
+Enhanced Feline gauntlets|NGP Lynx Gloves 2
+Toussaint Color Guardsman's armor|Guard Lvl1 A Armor 2
+Toussaint Color Guardsman's boots|Guard Lvl1 A Boots 2
+Toussaint Color Guardsman's gauntlets|Guard Lvl1 A Gloves 2
+Toussaint Color Guardsman's trousers|Guard Lvl1 A Pants 2
+Legendary Feline boots|Lynx Boots 1
+Toussaint Color Guardsman's armor|Guard Lvl1 A Armor 3
+Toussaint Color Guardsman's boots|Guard Lvl1 A Boots 3
+Toussaint Color Guardsman's gauntlets|Guard Lvl1 A Gloves 3
+Toussaint Color Guardsman's trousers|Guard Lvl1 A Pants 3

@@ -1,0 +1,57 @@
+<!-- Wolven Trainer strings are case sentitive -->
+<?xml version="1.0"?>
+<Language>
+	<Translator Author="rejuvenate"/>                                                											
+	<Translation Original="PLAYER" Replace="Example menu title replacement."/>
+	<Translation Original="Godmode" Replace="Example menu option replacement."/>
+	<Translation Original="Your player becomes invincible." Replace="Example description replacement."/>
+	<Translation Original="Your player can fly.\nAscend: SPACE, Descend: C, Speed (hold): SHIFT" Replace="Example multi-line description replacement."/>
+	
+	<Translation Original="Player Info" Replace="Ex1"/>
+	<Translation Original="X Coord" Replace="Ex2"/>
+	<Translation Original="Y Coord" Replace="Ex3"/>
+	<Translation Original="Z Coord" Replace="Ex4"/>
+	<Translation Original="Speed" Replace="Ex5"/>
+	<Translation Original="Location" Replace="Ex6"/>
+	<Translation Original="Pitch" Replace="Ex7"/>
+	<Translation Original="Roll" Replace="Ex8"/>
+	<Translation Original="Yaw" Replace="Ex9"/>
+	<Translation Original="Heading" Replace="Ex10"/>
+	<Translation Original="Outfit" Replace="Ex11"/>
+
+	<Translation Original="Character Stats" Replace="Ex12"/>
+	<Translation Original="Vitality" Replace="Ex13"/>
+	<Translation Original="Toxicity" Replace="Ex14"/>
+	<Translation Original="Sign Intensity" Replace="Ex15"/>
+	<Translation Original="Crowns" Replace="Ex16"/>
+	<Translation Original="Level" Replace="Ex17"/>
+	<Translation Original="Playtime" Replace="Ex18"/>
+	<Translation Original="DPS (Silver)" Replace="Ex19"/>
+	<Translation Original="DPS (Steel)" Replace="Ex20"/>
+	<Translation Original="Armor" Replace="Ex21"/>
+	<Translation Original="Weight" Replace="Ex22"/>
+
+	<Translation Original="Progress on the Path" Replace="Ex23"/>
+	<Translation Original="Total Completion" Replace="Ex24"/>
+	<Translation Original="Quests" Replace="Ex25"/>
+	<Translation Original="World" Replace="Ex26"/>
+	<Translation Original="Items" Replace="Ex27"/>
+	<Translation Original="Gwent Cards" Replace="Ex28"/>
+
+	<Translation Original="Roach Info" Replace="Ex29"/>
+	<Translation Original="Distance Away" Replace="Ex30"/>
+	<Translation Original="Max Stamina" Replace="Ex31"/>
+	<Translation Original="Bonus" Replace="Ex32"/>
+
+	<Translation Original="Environment" Replace="Ex33"/>
+	<Translation Original="Time" Replace="Ex34"/>
+	<Translation Original="Forecast" Replace="Ex35"/>
+	<Translation Original="Moon" Replace="Ex36"/>	
+	
+	<Translation Original="Enter value:" Replace="Example input replacement"/>
+	<Translation Original="Search:" Replace="Example search replacement"/>
+	<Translation Original="Enter outfit name:" Replace="Example outfit replacement"/>
+	<Translation Original="Enter build name:" Replace="Example build replacement"/>
+	<Translation Original="Enter console command:" Replace="Example console replacement"/>
+
+</Language>

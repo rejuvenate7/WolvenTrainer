@@ -1,0 +1,158 @@
+Superior Ursine armor|NGP Bear Armor 2
+Enhanced legendary Ursine trousers|Bear Pants 2
+Mastercrafted Ursine armor|NGP Bear Armor 3
+Toussaint knight's trousers|NGP Knight Geralt Pants 3
+Ursine gauntlets|NGP Bear Gloves 1
+Grandmaster Ursine armor|NGP Bear Armor 4
+Enhanced Ursine gauntlets|NGP Bear Gloves 2
+Toussaint knight's tourney trousers|NGP Knight Geralt A Pants 3
+Superior Ursine gauntlets|NGP Bear Gloves 3
+Tesham Mutna trousers|NGP q702_vampire_pants
+Mastercrafted Ursine gauntlets|NGP Bear Gloves 4
+Ursine trousers|NGP Bear Pants 1
+Radovid's slippers|Radovid boots 01
+Enhanced Ursine trousers|NGP Bear Pants 2
+Axeman's boots|Heavy boots 01_crafted
+Superior Ursine trousers|NGP Bear Pants 3
+Tesham Mutna boots|q702_vampire_boots
+Tesham Mutna gauntlets|q702_vampire_gloves
+Tesham Mutna trousers|q702_vampire_pants
+Tesham Mutna armor|q702_vampire_armor
+Mastercrafted Ursine trousers|NGP Bear Pants 4
+Guardsman's boots|Heavy boots 02_crafted
+Ursine boots|NGP Bear Boots 1
+Legendary Ursine boots|Bear Boots 1
+Enhanced Ursine boots|NGP Bear Boots 2
+Toussaint knight's boots|NGP Knight Geralt Boots 3
+Superior Ursine boots|NGP Bear Boots 3
+Toussaint knight's tourney boots|NGP Knight Geralt A Boots 3
+Mastercrafted Ursine boots|NGP Bear Boots 4
+Tesham Mutna boots|NGP q702_vampire_boots
+Mag Deira cuirass|Heavy armor 01_crafted
+Grandmaster Ursine gauntlets|NGP Bear Gloves 5
+Ban Ard breastplate|Heavy armor 02_crafted
+Axeman's trousers|Heavy pants 01
+Hindarsfjall heavy armor|Heavy armor 04_crafted
+Nilfgaardian guardsman's gauntlets|Heavy gloves 04 Netflix
+Legendary Ursine armor|Bear Armor
+Order of the Flaming Rose armor|Burning Rose Armor
+Impera Brigade armor|Relic Heavy 3 crafted
+Order of the Flaming Rose armor|Burning Rose Armor B
+Enhanced legendary Ursine armor|Bear Armor 1
+Grandmaster Ursine trousers|NGP Bear Pants 5
+Superior legendary Ursine armor|Bear Armor 2
+Mastercrafted legendary Ursine armor|Bear Armor 3
+Undvik Gauntlets|DLC14 Skellige Gloves
+Mag Deira cuirass|Heavy armor 01
+Ban Ard breastplate|Heavy armor 02
+Hen Gaidth armor|q704_vampire_armor
+Axeman's gauntlets|Heavy gloves 01_crafted
+Undvik Armor|DLC14 Skellige Armor
+Order of the Flaming Rose armor|Crafted Burning Rose Armor
+Nilfgaardian guardsman armor|Heavy armor 03
+Order of the Flaming Rose armor|NGP Crafted Burning Rose Armor
+Grandmaster Ursine boots|NGP Bear Boots 5
+Order of the Flaming Rose gauntlets|Crafted Burning Rose Gloves
+Assault gauntlets|Heavy gloves 03_crafted
+Order of the Flaming Rose gauntlets|NGP Crafted Burning Rose Gloves
+Undvik Trousers|DLC14 Skellige Pants
+Nilfgaardian guardsman's gauntlets|Heavy gloves 04_crafted
+Hindarsfjall heavy armor|Heavy armor 04
+Mahakaman heavy armor|Heavy armor 05
+Toussaint knight's trousers|sq701_geralt_pants
+Hen Gaidth trousers|q704_vampire_pants
+Enhanced legendary Ursine boots|Bear Boots 2
+Lyrian hardened leather trousers|Heavy pants 03
+Axeman's gauntlets|Heavy gloves 01
+Mahakaman trousers|Heavy pants 04
+Executioner's boots|Heavy boots 04_crafted
+Axeman's trousers|Heavy pants 01_crafted
+Assault gauntlets|Heavy gloves 03
+Legendary Ursine gauntlets|Bear Gloves 1
+Axeman's boots|Heavy boots 01
+Lyrian hardened leather trousers|Heavy pants 03_crafted
+Nilfgaardian guardsman armor|Heavy armor 03 Netflix
+Toussaint knight's armor|Knight Geralt Armor 1
+Toussaint knight's boots|Knight Geralt Boots 1
+Mastercrafted legendary Ursine gauntlets|Bear Gloves 4
+Mastercrafted legendary Ursine trousers|Bear Pants 4
+Mastercrafted legendary Ursine boots|Bear Boots 4
+Toussaint knight's gauntlets|Knight Geralt Gloves 1
+Toussaint knight's trousers|Knight Geralt Pants 1
+Toussaint knight's armor|Knight Geralt Armor 2
+Toussaint knight's boots|Knight Geralt Boots 2
+Alder Folk boots|Heavy boots 08_crafted
+Toussaint knight's gauntlets|Knight Geralt Gloves 2
+Mahakaman trousers|Heavy pants 04_crafted
+Toussaint knight's trousers|Knight Geralt Pants 2
+Toussaint knight's armor|Knight Geralt Armor 3
+Toussaint knight's boots|Knight Geralt Boots 3
+Toussaint knight's gauntlets|Knight Geralt Gloves 3
+Toussaint knight's trousers|Knight Geralt Pants 3
+Toussaint knight's tourney armor|Knight Geralt A Armor 1
+Toussaint knight's tourney boots|Knight Geralt A Boots 1
+Toussaint knight's tourney gauntlets|Knight Geralt A Gloves 1
+Toussaint knight's tourney trousers|Knight Geralt A Pants 1
+Toussaint knight's tourney armor|Knight Geralt A Armor 2
+Toussaint knight's tourney boots|Knight Geralt A Boots 2
+Toussaint knight's tourney gauntlets|Knight Geralt A Gloves 2
+Grandmaster legendary Ursine armor|Bear Armor 4
+Superior legendary Ursine gauntlets|Bear Gloves 3
+Grandmaster legendary Ursine gauntlets|Bear Gloves 5
+Superior legendary Ursine trousers|Bear Pants 3
+Grandmaster legendary Ursine trousers|Bear Pants 5
+Superior legendary Ursine boots|Bear Boots 3
+Grandmaster legendary Ursine boots|Bear Boots 5
+Toussaint knight's tourney trousers|Knight Geralt A Pants 2
+Toussaint knight's tourney armor|Knight Geralt A Armor 3
+Toussaint knight's tourney boots|Knight Geralt A Boots 3
+Toussaint knight's tourney gauntlets|Knight Geralt A Gloves 3
+Toussaint knight's tourney trousers|Knight Geralt A Pants 3
+Toussaint armor|Toussaint Armor 2
+Toussaint boots|Toussaint Boots 2
+Toussaint gauntlets|Toussaint Gloves 2
+Toussaint trousers|Toussaint Pants 2
+Toussaint armor|Toussaint Armor 3
+Toussaint boots|Toussaint Boots 3
+Toussaint gauntlets|Toussaint Gloves 3
+Toussaint trousers|Toussaint Pants 3
+Sir Geralt of Rivia's armor|sq701_geralt_armor
+Ravix of Fourhorn's armor|sq701_ravix_armor
+Hen Gaidth boots|q704_vampire_boots
+Nilfgaardian guardsman armor|Heavy armor 03_crafted
+Guardsman's boots|Heavy boots 02
+Nilfgaardian guardsman armor|Heavy armor 03r
+Nilfgaardian guardsman armor|sq108_heavy_armor
+Enhanced legendary Ursine gauntlets|Bear Gloves 2
+Executioner's boots|Heavy boots 04
+Order of the Flaming Rose gauntlets|Burning Rose Gloves
+Wild Hunt warrior's trousers|Wild Hunt pants 01
+Nilfgaardian guardsman's gauntlets|Heavy gloves 04
+Mag Deira cuirass|Heavy armor 01r
+Toussaint knight's gauntlets|sq701_geralt_gloves
+Ban Ard breastplate|Heavy armor 02r
+Toussaint knight's armor|NGP Knight Geralt Armor 3
+Toussaint knight's tourney armor|NGP Knight Geralt A Armor 3
+Tesham Mutna armor|NGP q702_vampire_armor
+Toussaint knight's boots|sq701_geralt_boots
+Hindarsfjall heavy armor|Heavy armor 04r
+Mahakaman heavy armor|Heavy armor 05r
+Order of the Flaming Rose gauntlets|Burning Rose Gloves B
+Undvik Armor|NGP DLC14 Skellige Armor
+Undvik Gauntlets|NGP DLC14 Skellige Gloves
+Zireael armor|Zireael armor
+Great Sun armor|Shadaal armor
+Undvik Trousers|NGP DLC14 Skellige Pants
+Impera Brigade armor|Relic Heavy 3 armor
+Undvik Boots|NGP DLC14 Skellige Boots
+Campaigner's boots|Heavy boots 05
+Captain's boots|Heavy boots 06
+Toussaint knight's gauntlets|NGP Knight Geralt Gloves 3
+Alder Folk boots|Heavy boots 08
+Toussaint knight's tourney gauntlets|NGP Knight Geralt A Gloves 3
+Tesham Mutna gauntlets|NGP q702_vampire_gloves
+Hen Gaidth gauntlets|q704_vampire_gloves
+Ursine armor|NGP Bear Armor
+Undvik Boots|DLC14 Skellige Boots
+Enhanced Ursine armor|NGP Bear Armor 1
+Legendary Ursine trousers|Bear Pants 1

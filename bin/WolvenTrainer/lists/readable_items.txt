@@ -1,0 +1,1475 @@
+Diagram: Legendary forgotten Wolven silver sword - mastercrafted|Netflix silver sword schematic 1
+Diagram: Grandmaster legendary forgotten Wolven silver sword|Netflix silver sword schematic 2
+Witcher wanted!|mq1013_notice
+Diagram: Forgotten Wolven steel sword|NGP Netflix steel sword schematic
+Diagram: Forgotten Wolven steel sword - mastercrafted|NGP Netflix steel sword schematic 1
+Diagram: Grandmaster forgotten Wolven steel sword|NGP Netflix steel sword schematic 2
+Diagram: Forgotten Wolven silver sword|NGP Netflix silver sword schematic
+Diagram: Forgotten Wolven silver sword - mastercrafted|NGP Netflix silver sword schematic 1
+Diagram: Grandmaster forgotten Wolven silver sword|NGP Netflix silver sword schematic 2
+Diagram: Legendary forgotten Wolven armor|NGP Netflix Armor schematic
+Diagram: Mastercrafted legendary forgotten Wolven armor|NGP Netflix Armor schematic 1
+Diagram: Grandmaster legendary forgotten Wolven armor|NGP Netflix Armor schematic 2
+Diagram: Legendary forgotten Wolven gauntlets|NGP Netflix Gloves schematic
+Yennefer's letter|q001_letter_from_yenn
+Diagram: Mastercrafted legendary forgotten Wolven gauntlets|NGP Netflix Gloves schematic 1
+Unfinished book|q001_academic_book
+Fist Fights|ff300_notice
+Letter to Yennefer|q002_yenn_notes_about_ciri
+Diagram: Grandmaster legendary forgotten Wolven gauntlets|NGP Netflix Gloves schematic 2
+Hendrik's notes|q101_hendrik_notes
+Diagram: Legendary forgotten Wolven trousers|NGP Netflix Pants schematic
+Notes|q101_candle_instruction
+Diagram: Mastercrafted legendary forgotten Wolven trousers|NGP Netflix Pants schematic 1
+A prayer|q103_tamara_prayer
+Diagram: Grandmaster legendary forgotten Wolven trousers|NGP Netflix Pants schematic 2
+Letter to Tamara|q103_letter_from_graden_1
+Diagram: Legendary forgotten Wolven boots|NGP Netflix Boots schematic
+Mysterious letter|q103_letter_from_graden_2
+Diagram: Mastercrafted legendary forgotten Wolven boots|NGP Netflix Boots schematic 1
+Nilfgaardian demands|q103_nilfgaardian_demand
+Diagram: Grandmaster legendary forgotten Wolven boots|NGP Netflix Boots schematic 2
+Letter to pellar|q103_about_eve
+Of Water and Fog|Necrophage vol 2
+Love letter|q103_love_letter
+Notice about mysterious tower|item_name_sq210_notice
+The Natural Obscurity of Curses|q103_curse_book
+Beasts of the Tukaj Foothills|Relict Monsters vol 1
+Letter of safe conduct|q103_safe_conduct
+Formula for a pain-relieving heat rub|q104_cure_recipe
+Recipe for black eyeliner|q104_eye_ink_recipe
+The Heart of the Wilds|Relict Monsters vol 2
+Letter to Alexander|q104_aleksander_letter
+Sage's notes|q104_avallach_notes
+Formula: Aether|Recipe for Aether
+After the White Frost|q104_avallach_poetry
+Manuscript page: Albedo|Recipe for Albedo
+The Ladies of the Wood|q105_book_about_witches
+Formula: Hydragenum|Recipe for Hydragenum
+Letter from Keira|q106_note_from_keira
+Formula: Quebrith|Recipe for Quebrith
+The mage Alexander's log, part 1|q106_alexander_notes_01
+Of Sweat and Blood|Specters vol 1
+The mage Alexander's log, part 2|q106_alexander_notes_02
+Yennefer's journal|q201_yen_journal_1
+Behind the Great Veil|Specters vol 2
+The Poisoned Source|q201_poisoned_source
+Tales of the Wild Hunt|q201_wild_hunt_book
+Ermion's correspondence|q201_mousesack_letter
+The World Underground|Ogres vol 1
+The Corpse of Novigrad|q201_criminal
+Contract for a Witcher/Witchers: Caravan Escort|mq7018_contract
+Alexander's notes|q109_popiels_formula
+An Ancient Ballad|Ogres vol 2
+Letter to Arnvald|q206_arnvalds_letter
+Smigole Serkis' notes|poi_car_a_07_note
+Letter from Yennefer to Emhyr var Emreis|q210_letter_for_emhyr
+My Evening with a Vampire|Vampires vol 1
+Katakans: A Monograph|Vampires vol 2
+Diagram: Greater Dazhbog runestone|Rune dazhbog greater schematic
+Champion of Tesham Mutna|q702_vampire_set_note
+Message from Igor|q302_igor_note
+Diagram: Lesser Devana runestone|Rune devana lesser schematic
+Notebook with wooden cover|poi_bar_a_01_a_note
+Notes by the First Bailiff to the Hanse of Filibert Fourfingers|poi_bar_a_01_b_note
+Information from SD|q302_dijkstras_notes
+Eviction Notice|poi_bar_b_04_note
+List of debtors|q302_rico_thugs_notes
+Gisele Duret's journal|poi_bar_b_05_note
+New admissions to Miss Marabella's shelter|q105_marabella_receptions
+Report|q302_roche_report
+Balton Dubis' notes|q302_crafter_notes
+Whoreson Junior's letter to Radovid|q302_whoreson_letter_to_radowid
+Letter to the druid Artis|q206_arits_letter
+Mysterious note|q303_note_for_ciri
+Income and outlays|q302_casino_register
+Letter from Dudu|q303_dudus_briefing
+Report|q311_aen_elle_notes
+Letter to Caleb Menge|q303_contact_note
+Journal written on sow hide|poi_bar_b_06_note
+Menge's Holy Tome|q303_marked_bible
+Bill of exchange|q110_bill_of_exchange
+Dandelion's Planner|q304_dandelion_diary
+Letter from a female admirer|q304_letter_1
+Supplies Invoice|poi_bar_a_10b_note
+Letter from Frann|q304_letter_2
+Old letter|poi_car_a_05_note
+Ledger|sq304_ledger_book
+Letter from Bohmil de Rabbe|q304_letter_3
+Ballads|q304_dandelion_ballad
+Contract: Quarrelling at the Cemetery|mq7001_notice
+Lugos' letter|mq2018_lugos_note
+The Spirit from the Steppe|q604_worn_book
+Letter to Dandelion|q304_priscilla_letter
+Diplomatic report|q304_ambasador_letter
+Professor Noel Ivor's journal|poi_car_a_05b_note
+Love letter|q304_rosa_lover_letter
+Leather-bound journal|poi_san_a_03_note
+A Changeling Rescued|q305_script_drama_title1
+Gwent: Looking for New Players|cg_notice_baron
+The Doppler's Salvation|q305_script_drama_title2
+The Wild Hunt|Wild Hunt
+Gwent: Play a Round with Stjepan|cg_notice_stjepan
+A Changeling Rescued|q305_script_comedy_title1
+Letter to a father|poi_san_b_05_note
+Gwent: Vimme Vivaldi Cheats!|cg_notice_vivaldi
+The Doppler's Salvation|q305_script_comedy_title2
+Damaged journal|poi_ved_a_03b_note
+Gwent Lessons|cg_notice_mousesack
+Vandaguilder's journal|poi_ved_a_08_b_note
+Message from Hubert Rejk|q308_coroner_msg
+Orders for Calvin|poi_vin_b_04_note
+Horse Races|hr101_notice
+Concerned Citizen's sermon|q308_sermon_1
+Recipe for "Etoile blanche" pasta|poi_car_a_11_a_note
+Concerned Citizen's sermon|q308_sermon_2
+Honey spice cake recipe|poi_car_a_11_b_note
+Concerned Citizen's sermon|q308_sermon_3
+Crayfish boil recipe|poi_car_a_11_c_note
+Concerned Citizen's sermon|q308_sermon_4
+Concerned Citizen's sermon|q308_sermon_5
+Contract: Woodland Beast|sq305_notice
+Letter from Hubert Rejk|q308_psycho_farewell
+Dust-covered journal|poi_gor_a_10_note_b
+Letter found on Joris Aquinus' body|q308_vegelbud_invite
+Work order|poi_gor_b_04_note_b
+Letter found on the woodcarver's body|q308_priscilla_invite
+Unsent letter|poi_gor_b_12_note
+Murderer's note|q308_anneke_invite
+Orders for Edgar Ciseaudoigts|poi_gor_d_07_note
+Letter found on a murder victim's body|q308_last_invite
+Nathaniel's sermon|q308_nathanel_sermon_1
+Wet letter smelling of soap|poi_gor_d_18_note
+Written oath|poi_dun_a_04_note
+The Horse Whistler|Horse vol 1
+Letter from a lover|poi_dun_b_08_note_b
+Gnomish Prankings|Horse vol 2
+Recipe for scrambled slyzard eggs|poi_bar_a_13_note
+How to Avoid Colossal Vessels|Boat vol 1
+List bearing Belgaard's seal|poi_ww_bel_08_note
+Companion Wanted!|item_name_mq3031_notice
+Crumpled letter|q309_note_from_varese
+The Opposition in Nilfgaard|Boat vol 2
+Witch hunter's orders|q309_witch_hunters_orders
+A Miraculous Guide to Gwent|Gwent Almanac
+Eternal Fire letter of safe conduct|q309_glejt_from_dijkstra
+On Sound Waves: Bats and Shaelmaars|bestiary_sharley_book
+Perfumed letter|q309_mssg_from_triss
+Letter with Yennefer's instructions|ngu_gear_intro_letter
+Letter about treasure|q309_key_letters
+Warrant|q309_key_orders
+Natural Born Killers: A Study of Garkains|bestiary_garkain_book
+Trapped mage's notes|q310_journal_notes_1
+List of Prisoners|q310_journal_notes_2
+Ladies of the Night|bestiary_bruxa_book
+Ervyl's diary|q311_lost_diary1
+Monster Encounters of the Third Kind|bestiary_spriggan_book
+City secretary's diary|q311_lost_diary2
+Anna's notes|q311_lost_diary3
+The Adventures of Spikey and a Wight Called Franconi|bestiary_wight_book
+Traveler's notes|q311_lost_diary4
+Slyzards Through the Ages|bestiary_dracolizard_book
+Me, My Panther and I, by Abigail Lette|bestiary_panther_book
+Yennefer's notes|q401_yen_journal_2
+Kikimores: Truths and Myths about the Insidious Insectoids|bestiary_kikimore_book
+The Wondrous World of Insectoids: A Supplement|bestiary_scolopendromorph_book
+Journal of Research into Archespores|bestiary_archespore_book
+Forgotten Species: The Protofleder|bestiary_protofleder_book
+Discarded letter|q310_explorer_note
+Do It Yourself|Gear improvement
+Nilfgaardian's journal|q505_nilf_diary_lost1
+Letter to Martina Crisca|poi_gor_b_11_note
+Nilfgaardian report|q505_nilf_diary_lost2
+Contract: Loosey this Goosey!|q704_ft_goose_contract
+Nilfgaardian's journal|q505_nilf_diary_won1
+Diagram: Devana runestone|Rune devana schematic
+Missing merchant's letter|sq101_shipment_list
+High Stakes Gwent Tournament!|cg_notice_sq306_maverick
+Care for Your Sword, Soldier!|Weapon maintenance
+Dolores Reardon's diary|sq102_dolores_diary
+Diagram: Greater Devana runestone|Rune devana greater schematic
+Humbert Reardon's diary|sq102_huberts_diary
+Naransen, son of Gunnestad|Nilfgard arms and tactics
+Loose scraps of paper|sq102_loose_papers
+The Little Peasant Who Confounded His Lord|Norther Kingdoms arms and tactics
+Mysterious notes|sq104_notes
+The Ways and Manners of Skellige Folk|Skelige arms and tactics
+Letter written on elegant stationery|sq106_manuscript
+Ballads and Hymns|Theatre Glossary vol 1
+Diagram: Lesser Glyph of Binding|Glyph binding lesser schematic
+Morkvarg's journal|sq201_ship_manifesto
+Diagram: Lesser Glyph of Mending|Glyph mending lesser schematic
+Elemental Empires|sq202_book_1
+Diagram: Lesser Glyph of Reinforcement|Glyph reinforcement lesser schematic
+Mystery of Mysteries|sq202_book_2
+Water-damaged letter|lw_cp33_treasure_note
+Distiller's letter|sq205_brewing_instructions
+Diagram: Lesser Glyph of Warding|Glyph warding lesser schematic
+Distiller's Log|sq205_brewmasters_log
+Fist Fights|ff200_notice
+The Slaughter of Cintra|Theatre Glossary vol 2
+The Chronicles of Redania|Jacob of Varazze Chronicles
+The Collected Verse of Gonzal de Verceo|Poems of Gonzal de Verceo
+Brother Missing|mq0001_contract
+Gottfried's Omni-opening Grimoire|sq210_gog_book
+Illustrated Atlas of Insectoids - From Arachas to Zerrikanian Xanthogramma|Book of Arachases
+Temerian Dynasty|Glossary Temerian Dynasty
+Letter from an ambassador|Orders from Shilard
+Contract: Devil by the Well|mq0003_contract
+Journey into the Mind|Journey into the mind
+Necronomicon|Necronomicon
+Contract: Stolen Horn|mq2001_notice_board_holmstein
+Contract: Stolen Sword|mq2001_notice_board_kaer_trolde
+Imperial Edict Number 283|lore_imperial_edict_i
+Letter to Philippa|sq302_philippa_letter
+Imperial Decree Number 296|lore_imperial_edict_ii
+Emhyr var Emreis: A Biography|lore_nilfgaardian_royal_dynasty
+Diagram: Lesser Zoria runestone|Rune zoria lesser schematic
+Contract: Shrieker|mh101_contract
+Diagram: Zoria runestone|Rune zoria schematic
+Ledger of Income and Outlays|sq310_ledger_book
+Bandit's notes|lw_cp13_bandit_note
+Contract: Monster in the Cemetery|mh106_contract
+His Imperial Majesty, Emhyr var Emreis|lore_nilfgaardian_empire
+The Lodge of Sorceresses|lore_lodge_of_sorceresses
+The baron's notes|cg100_barons_notes
+The Nilfgaard Wars, or a History of Our Time|lore_third_war_with_nilfgaard
+Roche's notes|cg300_roches_list
+The Wars against Nilfgaard|lore_wars_with_nilfgaard
+Yellowed diary|mq0003_girls_diary
+Pearls of the North - Novigrad|lore_novigrad
+Burned papers|mq0004_burnt_papers
+Skellige: Its History and Geography|lore_skellige_island
+Druzus the hermit's notes|mq1001_locker_diary
+Letter from Cantarella|sq306_sacha_letter
+Aeramas' notes|mq1002_aeramas_journal
+Heroes of Skellige: Sove|lore_skellige_heroes_sove
+The mage Aeramas' last journal entry|mq1002_aeramas_journal_2
+Heroes of Skellige: Tyr|lore_skellige_heroes_tyr
+Letter from Nilfgaardian's wife|mq1015_hang_man_note
+Heroes of Skellige: Otkell|lore_skellige_heroes_otkell
+Stoneworker's notes|mq1014_old_mine_journal
+Heroes of Skellige: Modolf|lore_skellige_heroes_modolf
+Letter written on Nilfgaardian paper|mq1017_nilfgaardian_letter
+Heroes of Skellige: Broddr|lore_skellige_heroes_broddr
+Transit pass|mq1023_fake_papers
+Heroes of Skellige: Grymmdjarr|lore_skellige_heroes_grymmdjarr
+Letter from Toben|mq1036_refugee_letter
+Pearls of the North - Oxenfurt|lore_oxenfurt
+To the Most Beautiful Woman in the World|mq1033_fight_diary
+Lands of the North: Velen|lore_velen
+What shall become of Temeria?|lore_fate_of_temeria
+The Fall of Vizima|lore_fall_of_wyzima
+Diary of a Fire Swallower|lore_summit_of_loc_muinne
+Unsent letter|mq1055_letters
+Redania: A Power on the Rise|lore_redania
+Thief's journal|mq2001_journal_1a
+Radovid V the Stern - The Hard Slog to Greatness|lore_radovids_rise_to_power
+Thief's journal|mq2001_journal_1b
+Crumpled notes|lw_de11_note
+Thief's journal|mq2001_journal_1c
+The Redanian Special Forces|lore_redanian_secret_service
+Journal of a Thief, Part I|mq2001_journal_2a
+Kovir and Poviss|lore_kovir
+Journal of a Thief, Part II|mq2001_journal_2b
+Introduction to Applied Magic|lore_basics_of_magic
+Highwaymen's journal|mq2003_bandit_journal
+Holy Tome of the Eternal Fire|lore_principles_of_eternal_fire
+Beliefs of Skellige: Freya|lore_cult_of_freyia
+Wanted: The White Wolf|sq703_contract
+Beliefs of Skellige: Hemdall|lore_cult_of_hemdall
+Beliefs of Skellige: Druids|lore_druids
+Witchers: Not Quite the Devils You Thought|lore_witchers
+Sawmill owner's notes|mq2010_lumbermill_journal_1
+Monstrum, or a Portrayal of Witchers. Volume 1|lore_monstrum
+Lumberjack's letter to his wife|mq2010_lumbermill_journal_2
+Radovid V - Defender of the North|lore_radovid_propaganda_pamphlet
+Letter from a druid|mq2010_lumbermill_journal_3
+Report Number 1527|lore_the_great_four
+Letter to Yanne|mq2012_letter
+The Wild Hunt|lore_wild_hunt
+Notes of a pirate|mq2015_kurisus_note
+A Portrayal of the Elder Races|lore_non_humans
+Ithlinne's Prophecy|lore_prophecy_of_ithlinne
+The Conjunction of the Spheres|lore_conjunction_of_spheres
+Letter from Agda's father to Timmon|mq2037_dimun_directions
+Contract: Devil in the Woods|mh302_contract
+Travel Between Worlds|lore_theory_of_spheres
+Race for Modron Freya's Glory|hr200_notice
+Journal|mq2048_guide_notes
+The Elder Blood|lore_elder_blood
+Letter sealed with impermeable wax|mq2048_waxed_letters
+Diagram: Greater Zoria runestone|Rune zoria greater schematic
+Tristianna and Isador|mq2049_book_1
+Armed Escort Wanted!|mq7021_left_behind_contract
+Religion and Life|mq2049_book_2
+The Aen Seidhe and the Aen Elle|lore_an_seidhe_and_aen_elle
+The Curious Cases of Virtuous Vegga|mq2049_book_3
+Royal Lineages of the North|lore_cirilla_of_cintra
+The Cult of Freya|mq2049_book_4
+Diagram: Lesser Morana runestone|Rune morana lesser schematic
+Change your life! A Handbook|mq2049_book_5
+Elven Sages|lore_elven_sages
+Note left by spy|mq3002_hidden_messages_note_01
+Monumenta Elforum|lore_elven_ruins
+Note left by spy|mq3002_hidden_messages_note_02
+Lara Dorren and Cregennan of Lod|lore_elven_legends
+Note left by spy|mq3002_hidden_messages_note_03
+A Sword for Witches|lore_witch_hunters
+A mother's letter|mq3017_reds_diary
+Unsent letter|lw_gr12_ferry_man_note
+Message from Carlo Varese|mq3026_varese_invitation
+Diagram: Morana runestone|Rune morana schematic
+An invitation to the Memorial Derby|mq3026_horse_racing_leaflet
+Goetia|lore_goetia
+My Manifesto - The Life of Jacques de Aldersberg|mq3027_my_manifest
+Folk Magic and Superstitions Of Our Time|lore_oneiromancy
+Moribundia: The Vampire's Last Likeness|mq3027_fluff_book_1
+Hydromancy, or The Art of Water Magic|lore_hydromancy
+Tyromancy, or the Noble Art of Cheese Divination|mq3027_fluff_book_2
+Necromancy, the Forbidden Magic|lore_necromancy
+The Merry Adventures of Muriel the Lovely Harlot, Illustrated Edition|mq3027_fluff_book_3
+Pungent Passion: A Life in Tyromancy|lore_tyromancy
+The Treatment of Furuncles Through Cauterization: A Study|mq3027_fluff_book_4
+Polymorphy|lore_polymorphism
+Missing: Mikel|mh102_contract
+Letter from "A"|mq3027_letter
+Between Worlds|lore_war_between_astrals
+Contract: Morkvarg|item_name_sq201_werewolf_contract
+Diagram: Greater Morana runestone|Rune morana greater schematic
+Witcher Signs|lore_witcher_signs
+Diagram: Lesser Triglav runestone|Rune triglav lesser schematic
+Trial of the Grasses registry tome|mq4001_book
+The Last Wish|lore_last_wish
+Letter from the resident mage|mq4002_note
+Toussaint, a Duchy Out Of Tales of Fantasy and Wonder|lore_bells_of_beauclair
+Old letter|mq4003_letter
+The Wonders of Zerrikania|lore_sands_of_zerrikania
+Berengar's notes|mq4005_note_1
+Naglfar: the Longship Made of Deadmen's Claws|lore_naglfar_demonic_drakkar
+Monstrum, or A Portrayal of Witchers: Volume 2|mq4006_book
+The Final Age|lore_ragnarok
+Letter found in a grave|mh103_girls_journal
+The White Frost|lore_study_on_white_cold
+Letter to lighthouse keeper|mh207_lighthouse_keeper_letter
+Notes from Undvik|lore_journals_from_urskar_1
+Mercenary contract|mh301_merc_contract
+Contract: Monster on the High Road|mh202_contract
+Short letter|mh305_doppler_letter
+Journal|lore_journals_from_urskar_2
+Amaverick of Sorano's journal|mh306_mages_journal
+Journal from the Moldavie Residence|mh306_tenant_journal
+Temerian officer's journal|lw_temerian_soldiers_journal
+Fisherman's notes|lw_sb13_note
+Letter|lw_gr34_note
+Memoirs|lore_journals_from_urskar_3
+Pastoral diary of Father Glaedfried|ep1_poi_01_note_02
+Guard captain's notes|lore_journals_from_urskar_4
+Notes|lore_journals_from_urskar_5
+Nicolas Vogel's laboratory notebook|ep1_poi_02_note
+Warrior's notes|lore_journals_from_urskar_6
+Interrogation report|th1001_journal_viper_part1
+Julia Kenyon's diary|th1003_journal_cat_lady
+Professor Sigismund Gloger's notes|th1003_journal_lynx_part1
+Prince Adrien's journal|th1003_journal_lynx_part2
+Mage's notes|th1003_journal_lynx_part3
+Laboratory notebook|th1003_journal_lynx_part4
+Captain's Log|th1003_journal_lynx_part5
+Invoice for a golem|th1003_journal_lynx_part6
+Contract: Jenny o' the Woods|mh103_contract
+Witcher George's confession|th1005_journal_gryphon_part1
+Witcher George's journal|th1005_journal_gryphon_part2
+Balstick's letter|th1005_journal_gryphon_part3
+Aen N'og Mab Taedh'morc|th1005_journal_gryphon_part4
+Dobromir's journal|th1005_journal_gryphon_part5
+The knight Chalimir's letter|th1007_journal_bear_part1
+Innkeep's notes|th1007_journal_bear_part2
+The Ballad of Witcher Gerd|th1007_journal_bear_part3
+Letter to Ingeborga Kalebsdotter|th1007_journal_bear_part4
+Arrest warrant for the witcher Gerd|th1007_journal_bear_part5
+Ballad of Torgeir the Red|th1007_journal_bear_part6
+Bloody letter|ep1_poi_04_note
+Notes|lore_journals_from_urskar_7
+Letter written in blood|ep1_poi_05_note
+Contract: Dragon|mh208_contract
+Knut Kreutzman's journal|ep1_poi_08_note_a
+Nilfgaardian orders|lore_nilfgaardian_transport_orders
+Yellowed letter|ep1_poi_10_note
+Yennefer's diary|lore_yennefer_journals
+Bloodstained document|lw_gr39_note
+Intelligence report about Ciri|lore_inteligence_report_about_ciri
+Count Romilly's journal (part 2)|ep1_poi_26_note
+Unfinished war chronicle|lore_unfinished_war_annals
+Count Romilly's will|ep1_poi_26_note_b
+The mage Alexander's notes|lore_aleksanders_notes
+Vserad's journal|lore_popiels_journal
+She Who Knows|lore_about_the_fourth_witch
+Diagram: Triglav runestone|Rune triglav schematic
+Unsent letter|lw_gr40_note
+Brother Adalbert's bestiary|lore_brother_adalbert_bestiary
+Diagram: Greater Triglav runestone|Rune triglav greater schematic
+Diagram: Lesser Svarog runestone|Rune svarog lesser schematic
+Diagram: Svarog runestone|Rune svarog schematic
+Orders for Ernst Goltz|ep1_poi_14_note_b
+Crumpled notes|lw_gr41_note
+Diagram: Greater Svarog runestone|Rune svarog greater schematic
+Quartermaster's report|ep1_poi_11_note
+Diagram: Lesser Veles runestone|Rune veles lesser schematic
+Diagram: Veles runestone|Rune veles schematic
+Diagram: Greater Veles runestone|Rune veles greater schematic
+Flaming Rose scouting report|ep1_poi_13_note
+Peter's log|ep1_poi_14_note_a
+Nithing|mq2030_nithing
+Diagram: Lesser Perun runestone|Rune perun lesser schematic
+Reconnaissance commander's notes|ep1_poi_17_note
+Love letter|q603_olgierds_letters
+Soaked letter|q603_hoff_letter
+Beware of Trolls!|mq1022_notice
+Nilfgaardian's notes|lw_gr7_soldiers_note
+Master Urlich's orders|ep1_poi_23_note_a
+Diagram: Perun runestone|Rune perun schematic
+Contract: Missing Soldiers|mh104_contract
+Boots diagram - untranslated|th1010_schematic_boots
+Gauntlets diagram - untranslated|th1010_schematic_gloves
+Trousers diagram - untranslated|th1010_schematic_pants
+Careful! There's a Swindler About!|mq1050_notice
+Diagram: Greater Perun runestone|Rune perun greater schematic
+Letter|lw_gr_poi_042_letter
+Diagram: Lesser Chernobog runestone|Rune elemental lesser schematic
+Diagram: Chernobog runestone|Rune elemental schematic
+Diagram: Greater Chernobog runestone|Rune elemental greater schematic
+Manuscript page: Enhanced White Raffard's Decoction|Recipe for White Raffards Decoction 2
+Manuscript page: Superior White Raffard's Decoction|Recipe for White Raffards Decoction 3
+Manuscript page: White Raffard's Decoction|Recipe for White Raffards Decoction 1
+Manuscript page: Draconid oil|Recipe for Draconide Oil 1
+Manuscript page: Cursed oil|Recipe for Cursed Oil 1
+Manuscript page: Thunderbolt|Recipe for Thunderbolt 1
+Letter to a lover|poi_ww_ver_10_note
+Monster in my Manor!|sq102_contract
+Manuscript page: Enhanced cursed oil|Recipe for Cursed Oil 2
+Manuscript page: Enhanced Full Moon|Recipe for Full Moon 2
+Manuscript page: Superior cursed oil|Recipe for Cursed Oil 3
+Scroll from Crevan Carn|poi_gor_d_06_note03
+Vlodimir's letter to Olgierd|q602_letter_from_witold
+Manuscript page: Hanged Man's Venom|Recipe for Hanged Man Venom 1
+Orders from Robin|poi_car_b_10_note_02
+Manuscript page: Enhanced Hanged Man's Venom|Recipe for Hanged Man Venom 2
+Tales and Legends About Humans|q210_avallach_lover_notes
+Manuscript page: Superior Hanged Man's Venom|Recipe for Hanged Man Venom 3
+Manuscript page: Superior Full Moon|Recipe for Full Moon 3
+Diagram: Pyerog runestone|Rune pierog schematic
+Camerlengo's report on the liquidation of Loth Halfbreed's hanse|camm_poi_gor_d_05
+Manuscript page: Hybrid oil|Recipe for Hybrid Oil 1
+Sodden letter|poi_car_b_10_note
+Camerlengo's report on the liberation of Villa Vedette|camm_poi_ved_a_05
+Manuscript page: Enhanced hybrid oil|Recipe for Hybrid Oil 2
+Letter on elegant stationary|poi_ww_vermentino_note_stash
+Camerlengo's report on the liberation of Basane Farm.|camm_poi_bar_b_04
+Letter to Pascal Pelissier|poi_san_b_02_note
+Love letter from Bella de Gunness|poi_car_b_09_note
+Love letter signed by Bella de Gunness|poi_ved_a_04_note
+Manuscript page: Superior hybrid oil|Recipe for Hybrid Oil 3
+Orders for Clean-Up Unit|ep1_poi_04_note_b
+Sodden letter|q601_girls_letter
+Note found in the sewers|q601_girls_letter_two
+Manuscript page: Golden Oriole|Recipe for Golden Oriole 1
+Camerlengo's report on the liberation of the Silver Salamander|camm_poi_ved_a_02
+Letter from an Ofieri merchant|q601_ofir_letter
+Manuscript page: Insectoid oil|Recipe for Insectoid Oil 1
+Letter written in Elder Speech|poi_gor_d_06_note
+Contract: Apprentice Gone Missing!|mq6002_contract
+Camerlengo's report on the liquidation of Antoine Straggen's hanse|camm_poi_ved_a_01
+Scoia'tael note|lw_hs2_scoiatael_note
+Manuscript page: Enhanced insectoid oil|Recipe for Insectoid Oil 2
+Summons to payment|mq6003_tax_bill
+Manuscript page: Enhanced Golden Oriole|Recipe for Golden Oriole 2
+Prescription|q602_shani_prescription
+List of wedding expenses|q602_wedding_expenses_list
+Camerlengo's report on the liquidation of Filibert Fourfingers' hanse|camm_poi_bar_a_01
+List of wedding guests|q602_wedding_guests_list
+Wedding invitation|q602_wedding_invitation
+Song list|q602_wedding_songs_list
+Manuscript page: Superior insectoid oil|Recipe for Insectoid Oil 3
+Certificate|q302_zdenek_contract
+Camerlengo's report on the liquidation of Ernest Scrawler's group|camm_poi_bar_a_02
+Manuscript page: Elementa oil|Recipe for Magicals Oil 1
+Orders on elegant stationery|poi_ww_coronata_note_stash
+To Geralt of Rivia|mq7023_contract
+Camerlengo's report on succor to a knight-errant in distress #17/1271|camm_poi_bar_a_12
+Manuscript page: Enhanced elementa oil|Recipe for Magicals Oil 2
+Manuscript page: Superior Golden Oriole|Recipe for Golden Oriole 3
+Diagram: Legendary Viper armor|EP1 Witcher Armor schematic
+Diagram: Legendary Viper boots|EP1 Witcher Boots schematic
+Diagram: Legendary Viper gauntlets|EP1 Witcher Gloves schematic
+Diagram: Legendary Viper trousers|EP1 Witcher Pants schematic
+Camerlengo's report on the liberation of Freinte Docks|camm_poi_bar_a_03
+Orders to attack Bowdon|mq6004_broken_rose_orders
+Famous Redanian Dynasties|q602_dynasties
+Manuscript page: Superior elementa oil|Recipe for Magicals Oil 3
+Appeal to Sir Geralt of Rivia, the Bridge his Crest|q701_nml_notice
+Torn-out page: Red mutagen|Recipe for Mutagen red
+Torn-out page: Green mutagen|Recipe for Mutagen green
+Torn-out page: Blue mutagen|Recipe for Mutagen blue
+Torn-out page: Greater red mutagen|Recipe for Greater mutagen red
+Bandits on the Bridge!|mq1043_notice
+Torn-out page: Greater green mutagen|Recipe for Greater mutagen green
+Camerlengo's report on the liberation of Hortense Estate|camm_poi_car_b_03
+Torn-out page: Greater blue mutagen|Recipe for Greater mutagen blue
+Diagram: Warrior's leather jacket|Starting Armor Upgrade schematic 1
+Crumpled letter|lw_sb24_note
+Manuscript page: Necrophage oil|Recipe for Necrophage Oil 1
+Manuscript page: Killer Whale|Recipe for Killer Whale 1
+Formula: Gray armor dye|Recipe Dye Gray
+Contract on... Gods Know What On!|mh107_contract
+Formula: Brown armor dye|Recipe Dye Brown
+Formula: Red armor dye|Recipe Dye Red
+Formula: Green armor dye|Recipe Dye Green
+Formula: Blue armor dye|Recipe Dye Blue
+Formula: Black armor dye|Recipe Dye Black
+Formula: White armor dye|Recipe Dye White
+Formula: Orange armor dye|Recipe Dye Orange
+Formula: Pink armor dye|Recipe Dye Pink
+Formula: Yellow armor dye|Recipe Dye Yellow
+Formula: Purple armor dye|Recipe Dye Purple
+Diagram: Thread|Thread schematic
+Diagram: String|String schematic
+Diagram: Linen|Linen schematic
+Diagram: Legendary Viper venomous steel sword|EP1 Viper School steel sword schematic
+Diagram: Silk|Silk schematic
+Diagram: Resin|Resin schematic
+Camerlengo's report on succor to a knight-errant in distress #31/1271|camm_poi_gor_a_09
+Diagram: Zerrikanian  powder|Blasting powder schematic
+Gilian Alboco's Lesser Key|q605_black_magic_book
+Diagram: Haft|Haft schematic
+Manuscript page: Enhanced necrophage oil|Recipe for Necrophage Oil 2
+Diagram: Hardened timber|Hardened timber schematic
+Diagram: Leather scraps|Leather squares schematic
+Unfinished report|poi_vin_b_05_note02
+Diagram: Leather cured using the Rivian method|Leather schematic
+Blood Pacts, or On Foreign Presences|q604_demon_book
+Diagram: Hardened leather|Hardened leather schematic
+Diagram: Cured draconid leather|Draconide leather schematic
+Camerlengo's report on the liberation of Coopers' Slope|camm_poi_gor_b_12
+Diagram: Iron ingot|Iron ingot schematic
+Diagram: Tretogor-style steel ingot|Steel ingot schematic 1
+Adalbert Kermith's first map|th1003_map_lynx_upgrade1a
+Adalbert Kermith's second map|th1003_map_lynx_upgrade1b
+Adalbert Kermith's third map|th1003_map_lynx_upgrade2
+Adalbert Kermith's fourth map|th1003_map_lynx_upgrade3
+Edwin Greloff's first map|th1005_map_gryphon_upgrade1a
+Edwin Greloff's second map|th1005_map_gryphon_upgrade1b
+Edwin Greloff's third map|th1005_map_gryphon_upgrade2
+Edwin Greloff's fourth map|th1005_map_gryphon_upgrade3
+Ibrahim Savi's first map|th1007_map_bear_upgrade1a
+Ibrahim Savi's second map|th1007_map_bear_upgrade1b
+Ibrahim Savi's third map|th1007_map_bear_upgrade2
+Ibrahim Savi's fourth map|th1007_map_bear_upgrade3
+Manuscript page: Superior necrophage oil|Recipe for Necrophage Oil 3
+Diagram: Dark steel ingot|Dark steel ingot schematic
+Manuscript page: Maribor Forest|Recipe for Maribor Forest 1
+Contract: Monster from the Swamp|mh108_contract
+Diagram: Mahakaman-style dark steel ingot|Dark steel ingot schematic 1
+Third letter from Reinald|mq1060_witcher_discarded_note1
+Diagram: Dark steel plate|Dark steel plate schematic
+Camerlengo's report on the liberation of Cutterin Estate|camm_poi_gor_c_03
+Diagram: Refined silver ore|Silver ore schematic
+Diagram: Silver ingot|Silver ingot schematic
+Manuscript page: Specter oil|Recipe for Specter Oil 1
+Diagram: Mariborian-style silver ingot|Silver ingot schematic 1
+Diagram: Silver plate|Silver plate schematic
+Note from Father Edgar|mq1060_about_riot_notes
+Diagram: Meteorite silver ingot|Meteorite silver ingot schematic
+Missing Wife|sq104_werewolf
+Diagram: Meteorite silver plate|Meteorite silver plate schematic
+Diagram: Glowing ore ingot|Glowing ingot schematic
+Smuggler's notes|lw_sb13_smugglers_note
+Diagram: Refined dimeritium ore|Dwimeryte ore schematic
+Diagram: Mahakaman-style Dimeritium ingot|Dwimeryte ingot schematic 1
+Diagram: Dimeritium plate|Dwimeryte plate schematic
+Fourth letter from Reinald|mq1060_witcher_discarded_note2
+Diagram: Infused dust|Infused dust schematic
+Diagram: Infused shard|Infused shard schematic
+Reinald's note|mq1060_note_ab_plague_victims
+Orders from Hammond|sq106_hammond_whereabouts
+Diagram: Infused crystal|Infused crystal schematic
+Diagram: Toussaint green gold ore|Green gold ore schematic 1
+Orders on bloody paper|poi_gor_d_17_note_b
+Camerlengo's report on the liberation of Fox Hollow|camm_poi_gor_d_06
+Forgotten priest's testament|mq1060_priest_notes
+Manuscript page: Enhanced specter oil|Recipe for Specter Oil 2
+Splotchy parchment|poi_bar_a_09_note
+Announcement from the Office of Internal Revenue of the Duchy of Toussaint|wine_wars_belgard_notice
+Formula: The Decoctions of the Grasses|Recipe for Trial Potion Kit
+Formula: Cleansing mixture|q603_diarrhea_potion_recipe
+Orders|ep1_poi_12_note_b
+Letter to Gregory Pyxide|poi_ww_bel_06_note
+Thunder's journal|ep1_poi_12_note
+Letter from a pirate leader|lw_sb14_pirate_note
+Orders on torn parchment|poi_bar_a_11_note
+Pirate leader's notes|lw_sb18_camps_note
+Camerlengo's report on succor to a knight-errant in distress #43/1271|camm_poi_gor_d_07
+Grease-stained notes|poi_bar_a_08_note
+Manuscript page: Superior specter oil|Recipe for Specter Oil 3
+Pirate's notes|lw_sb2_sunken_ships_note
+Manuscript page: Enhanced Maribor Forest|Recipe for Maribor Forest 2
+Manuscript page: Vampire oil|Recipe for Vampire Oil 1
+Unsent letter|lw_sb2_base_camp_note
+Diagram: Maribor sword|No Mans Land sword 3 schematic
+Adjunct Philipp Borutt's notes|poi_car_a_06_note
+Maximus Nonius Macrinus' journal|poi_bar_a_05_note_b
+The Great Beauclair Gwent Tournament|cg700_tournament
+Manuscript page: Enhanced vampire oil|Recipe for Vampire Oil 2
+Notice about missing soldiers|item_name_mq1051_contract
+Formula: Vermilion|Recipe for Vermilion
+Needed: Master Magicker!|mq7004_notice
+Manuscript page: Petri's Philter|Recipe for Petris Philtre 1
+Formula: Vitriol|Recipe for Vitriol
+Pirate's notes|lw_sb3_camps_note
+Eadberht's farewell note|ep1_poi_01_note
+Diagram: Reaver's boots|Heavy Boots 3 schematic
+Contract: Beast in the Oxenfurt Forest|mh301_contract
+Diagram: Scoia'tael sword|Scoiatael sword 2 schematic
+Diagram: Executioner's boots|Heavy Boots 4 schematic
+Diagram: Elven steel sword|Scoiatael sword 3 schematic
+Diagram: Legendary Feline boots|Lynx Boots schematic
+Diagram: Ofieri saber|Crafted Ofir Steel Sword schematic
+Formula: Rubedo|Recipe for Rubedo
+Map fragment|lw_sb2_base_camp_map
+Diagram: Legendary Feline gauntlets|Lynx Gloves schematic
+Formula: Rebis|Recipe for Rebis
+Map fragment|lw_sb2_sunken_ships_map
+Manuscript page: Superior vampire oil|Recipe for Vampire Oil 3
+Warning letter|mq6004_supplier_note
+Diagram: Novigrad longsword|Novigraadan sword 1 schematic
+Unsent letter|lw_sb3_giggler_note_pirates
+Diagram: Legendary Feline trousers|Lynx Pants schematic
+Diagram: Blade from the Bits|Novigraadan sword 4 schematic
+Unsent letter|lw_sb3_giggler_note_workers
+Fette de'Amin's notes|ep1_poi_16_note
+Between Worlds|q604_genie_book
+Diagram: Legendary Griffin boots|Gryphon Boots schematic
+Diagram: Ofieri scale armor|Crafted Ofir Armor schematic
+Diagram: Legendary Griffin gauntlets|Gryphon Gloves schematic
+Diagram: Ofieri boots|Crafted Ofir Boots schematic
+Blood-smeared notes|lw_tm_underwater_dungeon_note
+Diagram: Ofieri gauntlets|Crafted Ofir Gloves schematic
+Diagram: Legendary Griffin trousers|Gryphon Pants schematic
+Diagram: Ofieri sharovary|Crafted Ofir Pants schematic
+Diagram: Legendary Ursine boots|Bear Boots schematic
+Diagram: Legendary Ursine gauntlets|Bear Gloves schematic
+Manuscript page: Ogroid oil|Recipe for Ogre Oil 1
+Journal bound in worn leather|poi_bar_a_01_note
+Diagram: Legendary Ursine trousers|Bear Pants schematic
+Diagram: Wolven boots|Wolf Boots schematic
+Diagram: Wolven gauntlets|Wolf Gloves schematic
+Diagram: Wolven trousers|Wolf Pants schematic
+Diagram: Skellige gambeson|Light Armor 2 schematic
+Diagram: Kaedweni gambeson|Light Armor 3 schematic
+Manuscript page: Enhanced Petri's Philter|Recipe for Petris Philtre 2
+Diagram: Spikeroog aketon|Light Armor 4 schematic
+Diagram: Shiadhal's armor|Light Armor 5 schematic
+Diagram: Verden archer's gambeson|Light Armor 6 schematic
+Diagram: Bounty hunter's gambeson|Light Armor 7 schematic
+Highwayman's notes|lw_tm12_bandit_note
+Diagram: Ard Skellig aketon|Light Armor 8 schematic
+Unsent letter|lw_tm15_treasure_hunter_note
+Diagram: Salmian brigandine|Medium Armor 1 schematic
+Orders written on a scrap of sow hide|poi_bar_a_03_note
+Diagram: Cidarian cavalry armor|Medium Armor 2 schematic
+Formula: Nigredo|Recipe for Nigredo
+Letter to a mother|poi_ved_a_07_note
+Formula: Reinald's Philter|Recipe for Signs Enhancement
+Manuscript page: Superior Maribor Forest|Recipe for Maribor Forest 3
+Diagram: Redanian halberdier's armor|Medium Armor 3 schematic
+Second letter from Reinald|mq1060_second_letter
+Diagram: Angrenian cuirass|Medium Armor 4 schematic
+Notes by a vandaguilder from Filibert's hanse|poi_bar_a_05_note
+Diagram: Mag Deira cuirass|Heavy Armor 1 schematic
+First letter from Reinald|mq1060_first_letter
+Diagram: Ban Ard breastplate|Heavy Armor 2 schematic
+Diagram: Nilfgaardian guardsman armor|Heavy Armor 3 schematic
+Diagram: Hindarsfjall heavy armor|Heavy Armor 4 schematic
+A Runewright Upon Your Shores Has Landed|mq6005_notice
+Contract: Monster in the Bits|sq106_name_ekimma_contract
+Manuscript page: Enhanced ogroid oil|Recipe for Ogre Oil 2
+The Lonesome World Guide to An Skellig|an_skellige_map
+The Lonesome World Guide to Ard Skellig|ard_skellige_map
+Contract Issued by the Temple Guard of the City of Novigrad|mh303_contract
+The Lonesome World Guide to Faroe|faroe_map
+Marauder's notes|lw_tm6_note
+Fifth letter from Reinald|mq1060_third_letter
+The Lonesome World Guide to Hindarsfjall|hindarsfjal_map
+Ernest Scrawler's journal|poi_bar_a_02_note
+The Lonesome World Guide to Undvik|undvik_map
+The Lonesome World Guide to Spikeroog|spikeroog_map
+Letter from Regis|q705_regis_reward_letter
+Manuscript page: Superior ogroid oil|Recipe for Ogre Oil 3
+Manuscript page: Superior Petri's Philter|Recipe for Petris Philtre 3
+Manuscript page: Relict oil|Recipe for Relic Oil 1
+Letter from Augustin Tonneliay|poi_ww_ver_12_note
+Orders on stained paper|poi_bar_a_10_note
+Old pamphlet|q705_note_ab_syanna
+A letter from Fringilla Vigo to Carthia van Canten|q705_note_from_sasha1
+A letter from Prince Anseis to Carthia van Canten|q705_note_from_sasha2
+Manuscript page: Enhanced relict oil|Recipe for Relic Oil 2
+Griffin in the Highlands|sq108_griffon_contract
+Manuscript page: Pops' mold antidote|Recipe for Pops Antidote
+Librarian's memoirs|th700_prison_note1
+Notes of a death-row convict|th700_prison_note2
+Convict's notes|th700_prison_note3
+My Manifesto - The Life of Jacques de Aldersberg|sq701_my_manifest
+Manuscript page: Superior relict oil|Recipe for Relic Oil 3
+Manuscript page: Dancing Star|Recipe for Dancing Star 1
+Rag scrap with writing on it|poi_gor_d_19_note
+Diagram: Bodkin bolt|Bodkin Bolt schematic
+Diagram: Tracking bolt|Tracking Bolt schematic
+Unfinished letter|th1010_gloves_note
+Diagram: Bait bolt|Bait Bolt schematic
+Diagram: Blunt crossbow bolt|Blunt Bolt schematic
+Diagram: Broadhead bolt|Broadhead Bolt schematic
+Filibert's orders|poi_bar_a_12_note
+Diagram: Precision bolt|Target Point Bolt schematic
+Osmund's notes|mq1060_armor_osmund_note
+Vesemir's note|mq1060_armor_vesemir_note
+Announcement: Kaer Trolde Boat Races|br201_notice
+Torn-out page: Katakan decoction|Recipe for Mutagen 1
+Announcement: Faroe Boat Races|br202_notice
+Diagram: Split bolt|Split Bolt schematic
+Announcement: The Novigrad Regatta|br301_notice
+Torn-out page: Arachas decoction|Recipe for Mutagen 2
+Announcement: The Oxenfurt Regatta|br302_notice
+Torn-out page: Cockatrice decoction|Recipe for Mutagen 3
+Contract: Missing Miners|mh201_contract
+Torn-out page: Archgriffin decoction|Recipe for Mutagen 4
+Beware of Trolls!|mq1006_notice
+Torn-out page: Water hag decoction|Recipe for Mutagen 5
+Save my chickens!|mq1016_notice
+Diagram: Exploding bolt|Explosive Bolt schematic
+Letter to Olgierd|q602_letter_to_olgierd
+Note|poi_bandit_camp_3_note
+Taxpayer in Good Standing Diploma|mq6003_certificate_of_citizenship
+Manuscript page: Enhanced Dancing Star|Recipe for Dancing Star 2
+Letter|lw_cp39_captains_log
+Diagram: Arbitrator|Arbitrator schematic
+Manuscript page: Swallow|Recipe for Swallow 1
+Letter|lw_de32_treasure_note
+Diagram: Longclaw|Longclaw schematic
+Manuscript page: Superior Dancing Star|Recipe for Dancing Star 3
+Diagram: Beann'shie|Beannshie schematic
+Dirtied letter|poi_ww_cor_03_note
+Diagram: Black Unicorn|Blackunicorn schematic
+Manuscript page: Devil's Puffball|Recipe for Devils Puffball 1
+Diagram: Harpy|Harpy schematic
+Manuscript page: Enhanced Swallow|Recipe for Swallow 2
+Diagram: Negotiator|Negotiator schematic
+Manuscript page: Enhanced Devil's Puffball|Recipe for Devils Puffball 2
+Diagram: Weeper|Weeper schematic
+Unsent letter|lw_gr13_slaver_note
+Diagram: Thyssen armor|Thyssen Armor schematic
+Manuscript page: Superior Devil's Puffball|Recipe for Devils Puffball 3
+Diagram: Impera Brigade armor|Relic Heavy 3 schematic
+Scrawled notes|gp_prologue_bandit_note03
+Diagram: Mountain Folk boots|Boots 7 schematic
+Manuscript page: Superior Swallow|Recipe for Swallow 3
+Diagram: Condottiere's boots|Heavy Boots 7 schematic
+Diagram: Alder Folk boots|Heavy Boots 8 schematic
+Contract: Monster in Oxenfurt|mh304_contract
+Manuscript page: Tawny Owl|Recipe for Tawny Owl 1
+Orders on dirtied parchment|poi_gor_a_09_note
+Diagram: Lesser runestone|Runestone lesser schematic
+Spy's notes|poi_telescope_note
+Diagram: Greater runestone|Runestone greater schematic
+Manuscript page: Dragon's Dream|Recipe for Dragons Dream 1
+Manuscript page: Enhanced Tawny Owl|Recipe for Tawny Owl 2
+Manuscript page: Enhanced Dragon's Dream|Recipe for Dragons Dream 2
+List marked with the seal of Liam Coronata|poi_ww_cor_02_note
+Manuscript page: Superior Dragon's Dream|Recipe for Dragons Dream 3
+Manuscript page: Superior Tawny Owl|Recipe for Tawny Owl 3
+Manuscript page: Grapeshot|Recipe for Grapeshot 1
+Manuscript page: Enhanced Grapeshot|Recipe for Grapeshot 2
+Manuscript page: Enhanced Thunderbolt|Recipe for Thunderbolt 2
+Diagram: Amateur's weapon repair kit|WeaponRepairKit_1 schematic
+Manuscript page: Superior Grapeshot|Recipe for Grapeshot 3
+Diagram: Journeyman's weapon repair kit|WeaponRepairKit_2 schematic
+Orders on bloody parchment|poi_gor_d_06_note04
+Diagram: Master's weapon repair kit|WeaponRepairKit_3 schematic
+Manuscript page: Samum|Recipe for Samum 1
+Diagram: Amateur's armor repair kit|ArmorRepairKit_1 schematic
+Manuscript page: Superior Thunderbolt|Recipe for Thunderbolt 3
+Diagram: Journeyman's armor repair kit|ArmorRepairKit_2 schematic
+Manuscript page: Enhanced Samum|Recipe for Samum 2
+Diagram: Master's armor repair kit|ArmorRepairKit_3 schematic
+Torn-out page: Nightwraith decoction|Recipe for Mutagen 6
+Diagram: Lesser Glyph of Infusion|Glyph infusion lesser schematic
+Torn-out page: Ekimmara decoction|Recipe for Mutagen 7
+Diagram: Greater Glyph of Infusion|Glyph infusion greater schematic
+Torn-out page: Chort decoction|Recipe for Mutagen 8
+Diagram: Lesser Glyph of Aard|Glyph aard lesser schematic
+Torn-out page: Foglet decoction|Recipe for Mutagen 9
+Diagram: Glyph of Aard|Glyph aard schematic
+Diagram: Greater Glyph of Aard|Glyph aard greater schematic
+Torn-out page: Wyvern decoction|Recipe for Mutagen 10
+Diagram: Lesser Glyph of Axii|Glyph axii lesser schematic
+Manuscript page: Superior Samum|Recipe for Samum 3
+Diagram: Glyph of Axii|Glyph axii schematic
+Torn-out page: Doppler decoction|Recipe for Mutagen 11
+Diagram: Greater Glyph of Axii|Glyph axii greater schematic
+Blood-soaked military orders|lw_prologue_temerian_treasure_note
+Diagram: Lesser Glyph of Igni|Glyph igni lesser schematic
+Fisticuffs!|ff701_notice
+Diagram: Glyph of Igni|Glyph igni schematic
+Torn-out page: Troll decoction|Recipe for Mutagen 12
+Diagram: Greater Glyph of Igni|Glyph igni greater schematic
+Test Yourself with the Trials of the Virtues!|mq7006_notice
+Contract: Imp|mh305_contract
+Unsent letter|lw_sk4_note
+Itinerant merchant's notes|lw_sk30_villager_note
+Manuscript page: Moon Dust|Recipe for Silver Dust Bomb 1
+Old, yellowed letter|lw_sk31_note
+Diagram: Lesser Glyph of Quen|Glyph quen lesser schematic
+Torn-out page: Noonwraith decoction|Recipe for Mutagen 13
+Diagram: Glyph of Quen|Glyph quen schematic
+Stocktaking Report|poi_ww_belgard_secret_plot_proper_note
+Contract: Woodland Spirit|sq204_forest_spirit_contract
+Diagram: Greater Glyph of Quen|Glyph quen greater schematic
+Diagram: Guardsman's boots|Heavy Boots 2 schematic
+Diagram: Lesser Glyph of Yrden|Glyph yrden lesser schematic
+Diagram: Axeman's boots|Heavy Boots 1 schematic
+Diagram: Glyph of Yrden|Glyph yrden schematic
+Diagram: Hunter's trousers|Pants 1 schematic
+Diagram: Greater Glyph of Yrden|Glyph yrden greater schematic
+Torn-out page: Succubus decoction|Recipe for Mutagen 14
+Diagram: Sapper's trousers|Heavy Pants 2 schematic
+Manuscript page: Enhanced Moon Dust|Recipe for Silver Dust Bomb 2
+Torn-out page: Alghoul decoction|Recipe for Mutagen 15
+Torn-out page: Fiend decoction|Recipe for Mutagen 16
+Manuscript page: Superior Moon Dust|Recipe for Silver Dust Bomb 3
+Torn-out page: Forktail decoction|Recipe for Mutagen 17
+Manuscript page: White Gull|Recipe for White Gull 1
+Diagram: Grandmaster legendary Feline steel sword|Lynx School steel sword Upgrade schematic 4
+Cargo list|lw_sk3_ship_note
+Diagram: Grandmaster legendary Feline silver sword|Lynx School silver sword Upgrade schematic 4
+Diagram: Grandmaster legendary Feline armor|Witcher Lynx Jacket Upgrade schematic 4
+Letter|lw_sk_poi_005_treasure_note
+Diagram: Grandmaster legendary Feline gauntlets|Witcher Lynx Gloves Upgrade schematic 5
+Diagram: Grandmaster legendary Feline boots|Witcher Lynx Boots Upgrade schematic 5
+Notes about treasure|lw_sk_poi_056_note
+Diagram: Grandmaster legendary Feline trousers|Witcher Lynx Pants Upgrade schematic 5
+Message|lw_sk57_treasure_note
+Diagram: Grandmaster legendary Griffin steel sword|Gryphon School steel sword Upgrade schematic 4
+Torn-out page: Grave hag decoction|Recipe for Mutagen 18
+Diagram: Grandmaster legendary Griffin silver sword|Gryphon School silver sword Upgrade schematic 4
+Diagram: Grandmaster legendary Griffin armor|Witcher Gryphon Jacket Upgrade schematic 4
+Diagram: Grandmaster legendary Griffin gauntlets|Witcher Gryphon Gloves Upgrade schematic 5
+Diagram: Grandmaster legendary Griffin boots|Witcher Gryphon Boots Upgrade schematic 5
+Note|lw_sk42_treasure_note
+Contract: Haunted House|mh306_contract
+Diagram: Grandmaster legendary Griffin trousers|Witcher Gryphon Pants Upgrade schematic 5
+Manuscript page: Northern Wind|Recipe for White Frost 1
+Diagram: Grandmaster legendary Ursine steel sword|Bear School steel sword Upgrade schematic 4
+Diagram: Grandmaster legendary Ursine silver sword|Bear School silver sword Upgrade schematic 4
+Diagram: Grandmaster legendary Ursine armor|Witcher Bear Jacket Upgrade schematic 4
+A frustrated warrior's notes|lw_sk38_treasure_note
+Diagram: Grandmaster legendary Ursine gauntlets|Witcher Bear Gloves Upgrade schematic 5
+Diagram: Glyph of Binding|Glyph binding schematic
+Diagram: Grandmaster legendary Ursine boots|Witcher Bear Boots Upgrade schematic 5
+Diagram: Grandmaster legendary Ursine trousers|Witcher Bear Pants Upgrade schematic 5
+Diagram: Grandmaster legendary Wolven steel sword|Wolf School steel sword Upgrade schematic 4
+Diagram: Grandmaster legendary Wolven silver sword|Wolf School silver sword Upgrade schematic 4
+Traveler's notes|sk48_splintered_ships_note
+Diagram: Grandmaster legendary Wolven armor|Witcher Wolf Jacket Upgrade schematic 4
+Diagram: Grandmaster legendary Wolven gauntlets|Witcher Wolf Gloves Upgrade schematic 5
+Diagram: Grandmaster legendary Wolven boots|Witcher Wolf Boots Upgrade schematic 5
+Willing to Trade a Leaky Pot for a Cart|q601_fluff_note_one
+Diagram: Grandmaster legendary Wolven trousers|Witcher Wolf Pants Upgrade schematic 5
+Diagram: Legendary Manticore steel sword|Red Wolf School steel sword schematic 1
+Diagram: Legendary Manticore silver sword|Red Wolf School silver sword schematic 1
+Diagram: Legendary Manticore armor|Witcher Red Wolf Jacket schematic 1
+Diagram: Mastercrafted legendary Feline boots|Witcher Lynx Boots Upgrade schematic 3
+Diagram: Legendary Manticore gauntlets|Witcher Red Wolf Gloves schematic 1
+Diagram: Mastercrafted legendary Feline trousers|Witcher Lynx Pants Upgrade schematic 3
+Diagram: Grandmaster legendary Manticore boots|Witcher Red Wolf Boots schematic 1
+Diagram: Mastercrafted legendary Feline gauntlets|Witcher Lynx Gloves Upgrade schematic 3
+Diagram: Legendary Manticore trousers|Witcher Red Wolf Pants schematic 1
+Diagram: Glyph of Mending|Glyph mending schematic
+Torn-out page: Wraith decoction|Recipe for Mutagen 19
+Diagram: Superior legendary Feline boots|Witcher Lynx Boots Upgrade schematic 2
+Diagram: Glyph of Reinforcement|Glyph reinforcement schematic
+Diagram: Superior legendary Feline trousers|Witcher Lynx Pants Upgrade schematic 2
+Wanted: Cradle, Used but Unworn|q601_fluff_note_two
+Diagram: Superior legendary Feline gauntlets|Witcher Lynx Gloves Upgrade schematic 2
+Diagram: Glyph of Warding|Glyph warding schematic
+Marriage contract|q604_paper_shred1
+Need a Beau to Accompany Me to a Friend's Wedding|q601_fluff_note_three
+Torn-out page: Earth elemental decoction|Recipe for Mutagen 20
+Auction house letter|q601_fluff_sculpture_note
+Manuscript page: Black Blood|Recipe for Black Blood 1
+Fundaments of Field Surgery|q602_basics_of_medicine
+Torn-out page: Ekhidna decoction|Recipe for Mutagen 21
+Hunter's letter|q603_roberts_letter
+Manuscript page: White Honey|Recipe for White Honey 1
+Torn-out page: Ancient leshen decoction|Recipe for Mutagen 22
+Manuscript page: Enhanced Black Blood|Recipe for Black Blood 2
+Torn-out page: Basilisk decoction|Recipe for Mutagen 23
+Captain's log|mq2048_ships_logbook
+Torn-out page: Werewolf decoction|Recipe for Mutagen 24
+Diagram: Legendary Feline silver sword - enhanced|Lynx School silver sword Upgrade schematic 1
+Manuscript page: Superior Black Blood|Recipe for Black Blood 3
+Letter from Olgierd von Everec|q604_olgierd_letter
+Torn-out page: Nekker warrior decoction|Recipe for Mutagen 25
+Manuscript page: Enhanced White Honey|Recipe for White Honey 2
+Torn-out page: Leshen decoction|Recipe for Mutagen 26
+Smigole Louis Serkis' cookbook|poi_car_a_11_note
+M. Urlich's orders|ep1_poi_20_note
+Torn-out page: Griffin decoction|Recipe for Mutagen 27
+Damaged journal|ep1_poi_24_note
+Manuscript page: Blizzard|Recipe for Blizzard 1
+Summons from Duchess Anna Henrietta|q701_duchess_summons
+Drawing of the Beast of Toussaint|q701_beast_picture_01
+Drawing of the Beast of Toussaint|q701_beast_picture_02
+Drawing of the Beast of Toussaint|q701_beast_picture_03
+Deed to Corvo Bianco|q701_corvo_bianco_deed
+Igor de Sade's journal|ep1_poi_03_note
+Torn-out page: Reliever's decoction|Recipe for Mutagen 28
+The Tale of Barrengarth|ep1_poi_07_note
+Clue from the horn of a "unicorn"|q701_unicorn_item
+Letter bearing Castel Ravello's seal|poi_ww_bel_05_note
+Elegant letter|ep1_poi_23_note_b
+Formula: Lesser mutagen transmutator - red to blue|Recipe Lesser Mutagen Red to Blue
+Notes from the ealdorman of Mohrin|ep1_poi_25_note
+Manuscript page: Enhanced Blizzard|Recipe for Blizzard 2
+Arachnocidal substance|ep1_poi_30_note
+Contract: Monster in the Sewers|q601_contract
+Formula: Lesser mutagen transmutator - red to green|Recipe Lesser Mutagen Red to Green
+Rohn Drump's account book|ep1_poi_02b_note
+Diagram: Koviri cutlass|Short sword 1 schematic
+Count Romilly's journal (part 1)|ep1_poi_26_note2
+Diagram: Temerian poniard|Short sword 2 schematic
+Ransom letter|ep1_poi_26_note3
+Bootblack's flyer|q702_fly
+Mill for Sale|q702_leaflet
+Diagram: Velen longsword|No Mans Land sword 1 schematic
+Letters naming the Beast's targets|q702_victims_names
+Suspicious letter|q702_blackmail_letter
+Price list|q702_bootblack_prices
+A Knight's Oath|q702_knight_oath
+Love letter|q702_love_letter
+Soiled letter|q702_marlena_father_letter
+Decaying letter|q702_marlena_letter
+Orders for Flour|q702_mill_order
+Notes of a Tesham Mutna prisoner|q702_tesham_mutna_cell_letter
+Eviction notice|q702_toy_store_closing_order
+Letter to the shopkeeper|q702_toy_store_letter
+Regeneration potion formula|q702_regeneration_elixir
+Spoon-key note|q702_spoon_key_message
+Stained diary|q702_wight_diary
+Purchasing Brief|q702_comissariat
+Biography of the Vampire Regis, From the Quill of Dandelion|q702_regis_biography
+My Last Thought Before I Succumb to Sleep|q702_regis_sentences
+Battery-Cage vs. Free-Range Humans|q702_cage_breeding_humans
+Words of Wisdom on Beastly Curses|q702_monster_curses
+Transcript of a Conversation with a Lower Being|q702_vampire_transcript
+Diagram: Dorian sword|No Mans Land sword 2 schematic
+The Wars of the North: Myths, Lies and Half-Truths|q403_treaty
+List with a noble seal|ep1_poi_35_note
+Human Husbandry and Care|q702_breeding_humans
+Contract: The Apiarian Phantom|mh307_contract
+Diagram: Skellige longsword|Skellige sword 1 schematic
+Contract on a witcher|q703_geralt_wanted_note
+Manuscript page: Superior White Honey|Recipe for White Honey 3
+Love letter|ep1_poi_32_note
+Diagram: Legendary Feline steel sword|Lynx School steel sword schematic
+Formula: Lesser mutagen transmutator - blue to red|Recipe Lesser Mutagen Blue to Red
+Letter from the Chancellery of His Most Gracious Majesty, Radovid the Fifth of Redania|ep1_poi_02c_note
+Diagram: Ursine crossbow|Bear School Crossbow schematic
+Letter from Orianna|q704_caretakers_letter
+Crumpled letter|q704_mages_notebook
+Mage's notes|q704_mages_notes_01
+Mage's notes|q704_mages_notes_02
+Manuscript page: Superior Blizzard|Recipe for Blizzard 3
+Formula: Lesser mutagen transmutator - blue to green|Recipe Lesser Mutagen Blue to Green
+Diagram: Nilfgaardian longsword|Nilfgaardian sword 1 schematic
+Remarks Concerning the Death of Auberon|q210_avallach_notes_01
+Diagram: Cidarian gambeson|Light Armor 1 schematic
+Formula: Lesser mutagen transmutator - green to red|Recipe Lesser Mutagen Green to Red
+Manuscript page: Cat|Recipe for Cat 1
+Diagram: Spikeroog longsword|Skellige sword 2 schematic
+Formula: Lesser mutagen transmutator - green to blue|Recipe Lesser Mutagen Green to Blue
+Letter to Cosmo Cyrille|poi_ww_coronata_note_camp
+Journal|q704_ft_syanna_journal
+Diagram: Legendary Griffin steel sword|Gryphon School steel sword schematic
+Letter revealing the fifth victim|q705_ah_letter
+Formula: Mutagen transmutator - red to blue|Recipe Mutagen Red to Blue
+Diagram: Legendary Viper steel sword|Viper Steel sword schematic
+Manuscript page: Enhanced Cat|Recipe for Cat 2
+Diagram: Bremervoord blade|No Mans Land sword 4 schematic
+Formula: Mutagen transmutator - red to green|Recipe Mutagen Red to Green
+Notes found in the Toussaint prison|q705_prison_stash_note
+Diagram: Gemmerian steel sword|Nilfgaardian sword 4 schematic
+Prison poster|q705_pinup_poster
+Fragment of a letter|poi_ww_belgard_secret_plot_failsafe_note
+Diagram: Witch hunter's sword|Inquisitor sword 1 schematic
+Formula: Mutagen transmutator - blue to red|Recipe Mutagen Blue to Red
+Diagram: Legendary Ursine steel sword|Bear School steel sword schematic
+Manuscript page: Superior Cat|Recipe for Cat 3
+Diagram: Wolven steel sword|Wolf School steel sword schematic
+Formula: Mutagen transmutator - blue to green|Recipe Mutagen Blue to Green
+Diagram: Witch Slayer|Inquisitor sword 2 schematic
+Redanian Army orders|q601_redanian_orders
+Perfume-laced journal|poi_gor_a_10_note
+Letter from the hunter|sq703_hunter_letter
+Letter from the wife of Count Beledal|sq703_wife_letter
+Accounts ledger|sq703_accountance_book
+Diagram: Disglair|Silver sword 1 schematic
+Journal kept by Quayle, a gardener|poi_car_b_08_note02
+Tufo vineyard work schedule|mh701_work_schedule
+Stocktaking summary|mh701_wine_list
+Formula: Mutagen transmutator - green to red|Recipe Mutagen Green to Red
+Diagram: Gven'nel|Silver sword 2 schematic
+Ode to Gwent|mq7001_gwent_poems
+Letter from Jaquette to Francois|mq7002_love_letter_01
+Letter from Francois to Jaquette|mq7002_love_letter_02
+Manuscript page: Chort lure|Recipe for Czart Lure
+Diagram: Legendary Viper silver sword|Viper Silver sword schematic
+Tales and Fables|mq7004_storybook
+Liber Ivonis|mq7004_note_01
+Remarks on the Proper Administration of Yarrow|mq7004_note_02
+On the Transmutation of Bodies|mq7004_note_03
+Formula: Mutagen transmutator - green to blue|Recipe Mutagen Green to Blue
+Diagram: Legendary Feline silver sword|Lynx School silver sword schematic
+Diagram: Hunter's boots|Boots 1 schematic
+Diagram: Mahakaman steel sword|Dwarven sword 1 schematic
+Diagram: Cavalry boots|Boots 2 schematic
+Diagram: Dwarven blade|Dwarven sword 2 schematic
+Diagram: Tracker's boots|Boots 3 schematic
+Diagram: Gnomish Gwyhyr|Gnomish sword 1 schematic
+Diagram: Assassin's boots|Boots 4 schematic
+Diagram: Tir Tochair blade|Gnomish sword 2 schematic
+Diagram: Mastercrafted silver sword|Silver sword 3 schematic
+Contract: The White Lady|mh308_contract
+Bootlegger's notes|mq7010_still_note
+Diagram: Cavalry trousers|Pants 2 schematic
+Manuscript page: Dwarven spirit|Recipe for Dwarven spirit 1
+Diagram: Legendary Griffin silver sword|Gryphon School silver sword schematic
+The Flagellant's Manifesto|mq7017_pinastri_note
+Coopers' Guild contract|mq7018_guild_contract_letter
+Vineyard worker's letter|mq7018_workers_letter_basilisk_alive
+Unsent vineyard worker's letter|mq7018_workers_letter_basilisk_dead
+Formula: Greater mutagen transmutator - red to blue|Recipe Greater Mutagen Red to Blue
+Letter about Yennefer|mq7023_letter_yen
+Letter from Triss|mq7023_letter_triss
+Letter from Yennefer|mq7023_letter_neutral
+Diagram: Tracker's trousers|Pants 3 schematic
+Professor Moreau's diary|mq7023_journal_laura
+Diagram: Eirlithrad|Silver sword 4 schematic
+Diagram: Assassin's trousers|Pants 4 schematic
+Diagram: Tor'haerne|Silver sword 6 schematic
+Diagram: Axeman's trousers|Heavy Pants 1 schematic
+Witcher Mutations: An Introduction to Research|mq7023_fluff_book_mutations
+The So-Called Giant Centipedes, or My Only Comfort in Exile|mq7023_fluff_book_scolopendromorphs
+Speleologist's diary|poi_bar_b_14_note
+Julius ban Gavh'e's letter|mq7024_alchemy_lab_note
+Diagram: An'ferthe|Silver sword 7 schematic
+Diagram: Torlunn|Elven silver sword 1 schematic
+Letter from Count Monnier's brother|cg700_letter_monniers_brother
+Information for Tournament Participants|cg700_letter_merchants
+Letter from opponents of new gwent faction|cg700_letter_purist
+Diagram: Lyrian hardened leather trousers|Heavy Pants 3 schematic
+Prisoner's journal|th700_prison_journal
+Merten's prayer|th700_crypt_journal
+The Great Beggar's journal|th700_vault_journal
+Merten's last letter|th700_lake_journal
+Merten's notes.|th700_chapel_journal
+Lebioda disciple's prayer|th700_lake_fluff_note1
+Convert's prayer|th700_lake_fluff_note2
+Notes|th700_lake_fluff_note3
+Diagram: Legendary Ursine silver sword|Bear School silver sword schematic
+Junod of Belhaven's journal|th701_bear_contract
+Warning|th701_bear_journal
+Charite Gontran de Tufo's journal|th701_bear_notes
+Letter to Bartolome Launay|th701_cat_journal
+Hanse leader's notes|th701_cat_notes
+Lexandre's journal|th701_cat_witcher_notes
+Captain Augustus Fierabras' report|th701_gryphon_moreau_letter
+Moreau's journal|th701_gryphon_moreau_journal
+Notes on the back of a diagram|th701_gryphon_jerome_letter
+Diagram: Mahakaman trousers|Heavy Pants 4 schematic
+Isabelle Duchamp's journal|th701_wolf_journal
+Adona of Carreras' journal|th701_wolf_witcher_note
+Diagram: Tor'haerne|mq4005 Silver sword 6 schematic
+Aweagnial's letter|th701_elven_journal
+Diagram: Melltith|Elven silver sword 2 schematic
+Diagram: Wolven silver sword|Wolf School silver sword schematic
+George Herbert's letter|th701_coward_journal
+Crayfish chowder recipe|q701_crayfish_soup_recipe
+Hare pate recipe|q701_pate_recipe
+Gottfried and the Chessboard Knight|q701_godfryd_book
+Contract: Muire D'yaeblen|mh203_contract
+Noble Alondra|q701_rydygier_book
+Crespi's file|q701_1st_victim_files
+Ramon du Lac's file|q701_2nd_victim_files
+De la Croix's file|q701_3rd_victim_files
+How Luis Alberni Became Golyat|q701_goliath_book
+Invitation to the Hare Hunt|q701_gardens_invitation
+Flyer touting Est Est|q701_wine_flier_01
+Flyer touting Vermentino red|q701_wine_flier_02
+Flyer touting Coronata cabernet|q701_wine_flier_03
+The History of Corvo Bianco|q701_corvo_bianco_book
+A Crayfisherman's Reminiscences|q701_fisherman_poetry
+On the Slaying of Bloodslurpers|q703_killing_vampires
+The History of Est Est|q703_history_of_est_est
+A Short History of Pomino|q703_history_of_pomino
+Case: One-Armed Adalard|q703_one_handed_adalard
+Love letter|q703_napkin_love_letter
+Refusal letter|q703_letter_of_refusal
+Fragment of the script of a stage play|q703_piece_of_scenario
+Ole Lukoje's notes|q704_ft_little_mermaid
+Letter from Dandelion|q704_ft_letter_from_dandelion
+Note from the tourney scribe.|sq701_registration_note
+Vivienne's notes|sq701_vivienne_note
+Letter to Rainfarn|sq701_rainfarn_note
+Guillaume's scrap paper|sq701_guillaume_note
+Letter to Palmerin|sq701_palmerin_note
+Letter to Tailles|sq701_tailles_note
+Anseis' letter|sq701_anseis_note
+Letter to Donimir|sq701_donimir_note
+Letter to Horm|sq701_horm_note
+Letter of condolence to Horm|sq701_horm_emhyr_dead_note
+Short letter to Horm|sq701_horm_emhyr_victory_note
+Letter on perfumed paper|sq701_fan_01_note
+Letter from a female admirer|sq701_fan_02_note
+Letter from a male admirer|sq701_fan_03_note
+The Rules and Stipulations of Banking: Volume 15|mq7011_procedures_book
+The Lives of Famous Bankers: Amadeus Cianfanelli|mq7011_bank_book_filler_01
+Sure Savings for Unsure Times|mq7011_bank_flier_01
+Cianfanelli's Safe Deposit Boxes|mq7011_bank_flier_02
+Hair balsam formula|mq7020_hairdresser_recipe
+Advertising leaflet|mq7020_hairdresser_leaflet
+Letter from John of Blackforest|mq7020_duvall_poem
+Diagram: Hunter's gauntlets|Gloves 1 schematic
+On Hunting Basilisks: A Compendium|lore_basilisk_hunts
+The Civil War in Toussaint|lore_toussaint_civil_war
+Noble Houses of Toussaint: Volume LVII|lore_toussaint_nobles
+The Last Basilisk of its Kind: A Study in Ecology, by Borhis di Salvaress|lore_toussaint_ecology
+Gwent: A History|lore_gwent_history
+Diagram: The Tamer|Dwarven silver sword 1 schematic
+Diagram: Cavalry gauntlets|Gloves 2 schematic
+Diagram: Steiger|Dwarven silver sword 2 schematic
+Mysterious letter|q302_roche_letter
+Diagram: Tracker's gauntlets|Gloves 3 schematic
+Letter found in Yennefer's chest|ngu_gear_letter_ck
+Letter found in Yennefer's chest|ngu_gear_letter_db
+Contract: Grandmaster Armorer|th701_contract
+Diagram: The Digger|Gnomish silver sword 1 schematic
+Journal from a journey around the world|poi_vin_b_05_note
+Diagram: Assassin's gauntlets|Gloves 4 schematic
+Orders for Ruben|poi_ved_a_05_note
+Diagram: Faustino|Gnomish silver sword 2 schematic
+Diagram: Axeman's gauntlets|Heavy Gloves 1 schematic
+Orders from Graybill Pellegrin|poi_car_b_08_note
+Diagram: Knight's gauntlets|Heavy Gloves 2 schematic
+Formula: Greater mutagen transmutator - red to green|Recipe Greater Mutagen Red to Green
+Diagram: Assault gauntlets|Heavy Gloves 3 schematic
+Diagram: Nilfgaardian guardsman's gauntlets|Heavy Gloves 4 schematic
+Torn piece of paper|lw_sk_poi_050_note
+Diagram: Legendary Feline armor|Lynx Armor schematic
+Manuscript page: Enhanced Northern Wind|Recipe for White Frost 2
+Manuscript page: Dimeritium bomb|Recipe for Dwimeritium Bomb 1
+Manuscript page: Enhanced dimeritium bomb|Recipe for Dwimeritium Bomb 2
+Manuscript page: Superior dimeritium bomb|Recipe for Dwimeritium Bomb 3
+Diagram: Legendary Griffin armor|Gryphon Armor schematic
+Diagram: Tvarog runestone|Rune tvarog schematic
+Manuscript page: Bear pheromones|Recipe for Bear Pheromone Potion 1
+Diagram: Greater Glyph of Warding|Glyph warding greater schematic
+Formula: Greater mutagen transmutator - blue to red|Recipe Greater Mutagen Blue to Red
+Diagram: Greater Glyph of Binding|Glyph binding greater schematic
+Letter of apology|th1009_sorry_note
+Diagram: Greater Glyph of Reinforcement|Glyph reinforcement greater schematic
+Diagram: Legendary Ursine armor|Bear Armor schematic
+Diagram: Greater Glyph of Mending|Glyph mending greater schematic
+Diagram: Concealment kit|Concealment Kit schematic
+Diagram: Sarrim|EP1 Crafted Witcher Silver Sword schematic
+Diagram: Legendary Viper venomous silver sword|EP1 Viper School silver sword schematic
+Diagram: Wolven armor|Wolf Armor schematic
+Diagram: Order of the Flaming Rose armor|Crafted Burning Rose Armor schematic
+Manuscript page: Enhanced draconid oil|Recipe for Draconide Oil 2
+Contract: The Monster of Tufo|mh701_contract
+Diagram: Order of the Flaming Rose gauntlets|Crafted Burning Rose Gloves schematic
+Contract: Missing Son|mh206_contract
+Journal of a desperate man|poi_gor_c_14_note
+Diagram: Enhanced legendary Ursine armor|Witcher Bear Jacket Upgrade schematic 1
+Letter from Edgard Lavalliere|mq7020_letter_to_jl
+Guide to the Vineyards of Toussaint, Volume II: the Blessure Valley|lore_vineyards_guide_part_ii
+Curious Customs of the Toussaintois (excerpt)|lore_knights_errant
+Diagram: Superior legendary Ursine armor|Witcher Bear Jacket Upgrade schematic 2
+Letter to the ealdorman of Fox Hollow|poi_gor_d_06_note05
+Letter with orders|th1010_armor_note
+The Fall of Hubert Balaste|balaste_book
+Armor diagram - untranslated|th1010_schematic_armor
+Diagram: Mastercrafted legendary Ursine armor|Witcher Bear Jacket Upgrade schematic 3
+Diagram: Enhanced legendary Ursine boots|Witcher Bear Boots Upgrade schematic 1
+Diagram: Enhanced legendary Ursine trousers|Witcher Bear Pants Upgrade schematic 1
+Diagram: Enhanced legendary Ursine gauntlets|Witcher Bear Gloves Upgrade schematic 1
+Diagram: Legendary Ursine steel sword - enhanced|Bear School steel sword Upgrade schematic 1
+Diagram: Legendary Ursine steel sword - superior|Bear School steel sword Upgrade schematic 2
+Diagram: Legendary Ursine steel sword - mastercrafted|Bear School steel sword Upgrade schematic 3
+Diagram: Legendary Ursine silver sword - enhanced|Bear School silver sword Upgrade schematic 1
+Diagram: Legendary Ursine silver sword - superior|Bear School silver sword Upgrade schematic 2
+Hieronymus' notes|th1009_journal_wolf_part3a
+Diagram: Legendary Ursine silver sword - mastercrafted|Bear School silver sword Upgrade schematic 3
+Diagram: Enhanced legendary Griffin armor|Witcher Gryphon Jacket Upgrade schematic 1
+Diagram: Superior legendary Griffin armor|Witcher Gryphon Jacket Upgrade schematic 2
+Journal kept by Chird, the mage Hieronymus' assistant|th1009_journal_wolf_part1a
+Varin's journal|th1009_journal_wolf_part2a
+Notes written in a shaky hand|th1009_journal_wolf_part4
+Diagram: Mastercrafted legendary Griffin armor|Witcher Gryphon Jacket Upgrade schematic 3
+Diagram: Enhanced legendary Griffin boots|Witcher Gryphon Boots Upgrade schematic 1
+Diagram: Enhanced legendary Griffin trousers|Witcher Gryphon Pants Upgrade schematic 1
+Diagram: Enhanced legendary Griffin gauntlets|Witcher Gryphon Gloves Upgrade schematic 1
+Formula: Greater mutagen transmutator - blue to green|Recipe Greater Mutagen Blue to Green
+Diagram: Legendary Griffin steel sword - enhanced|Gryphon School steel sword Upgrade schematic 1
+Manuscript page: Drowner pheromones|Recipe for Drowner Pheromone Potion 1
+Diagram: Legendary Griffin steel sword - superior|Gryphon School steel sword Upgrade schematic 2
+Formula: Greater mutagen transmutator - green to red|Recipe Greater Mutagen Green to Red
+Diagram: Legendary Griffin steel sword - mastercrafted|Gryphon School steel sword Upgrade schematic 3
+Diagram: Legendary Griffin silver sword - enhanced|Gryphon School silver sword Upgrade schematic 1
+Diagram: Legendary Griffin silver sword - superior|Gryphon School silver sword Upgrade schematic 2
+Sketch of the Heart of Toussaint|q703_hos_sketch
+Diagram: Legendary Griffin silver sword - mastercrafted|Gryphon School silver sword Upgrade schematic 3
+Diagram: Enhanced Wolven armor|Witcher Wolf Jacket Upgrade schematic 1
+Diagram: Superior Wolven armor|Witcher Wolf Jacket Upgrade schematic 2
+Diagram: Mastercrafted Wolven armor|Witcher Wolf Jacket Upgrade schematic 3
+Diagram: Enhanced Wolven boots|Witcher Wolf Boots Upgrade schematic 1
+Manuscript page: Alcohest|Recipe for Alcohest 1
+Diagram: Enhanced Wolven trousers|Witcher Wolf Pants Upgrade schematic 1
+Diagram: Enhanced Wolven gauntlets|Witcher Wolf Gloves Upgrade schematic 1
+Diagram: Wolven steel sword - enhanced|Wolf School steel sword Upgrade schematic 1
+Diagram: Wolven steel sword - superior|Wolf School steel sword Upgrade schematic 2
+Diagram: Wolven steel sword - mastercrafted|Wolf School steel sword Upgrade schematic 3
+Diagram: Superior Wolven gauntlets|Witcher Wolf Gloves Upgrade schematic 2
+Diagram: Mastercrafted Wolven gauntlets|Witcher Wolf Gloves Upgrade schematic 3
+Diagram: Superior Wolven trousers|Witcher Wolf Pants Upgrade schematic 2
+Diagram: Mastercrafted Wolven trousers|Witcher Wolf Pants Upgrade schematic 3
+Diagram: Superior Wolven boots|Witcher Wolf Boots Upgrade schematic 2
+Diagram: Mastercrafted Wolven boots|Witcher Wolf Boots Upgrade schematic 3
+Diagram: Legendary Wolven armor|NGP Wolf Armor schematic
+Diagram: Enhanced legendary Wolven armor|NGP Witcher Wolf Jacket Upgrade schematic 1
+Diagram: Superior legendary Wolven armor|NGP Witcher Wolf Jacket Upgrade schematic 2
+Diagram: Mastercrafted legendary Wolven armor|NGP Witcher Wolf Jacket Upgrade schematic 3
+Contract: Mysterious Plummeting Cattle.|mq7010_quarry_contract
+Diagram: Legendary Wolven gauntlets|NGP Wolf Gloves schematic
+Diagram: Enhanced legendary Wolven gauntlets|NGP Witcher Wolf Gloves Upgrade schematic 1
+Diagram: Superior legendary Wolven gauntlets|NGP Witcher Wolf Gloves Upgrade schematic 2
+Diagram: Mastercrafted legendary Wolven gauntlets|NGP Witcher Wolf Gloves Upgrade schematic 3
+Diagram: Legendary Wolven trousers|NGP Wolf Pants schematic
+Diagram: Enhanced legendary Wolven trousers|NGP Witcher Wolf Pants Upgrade schematic 1
+Diagram: Superior legendary Wolven trousers|NGP Witcher Wolf Pants Upgrade schematic 2
+Diagram: Mastercrafted legendary Wolven trousers|NGP Witcher Wolf Pants Upgrade schematic 3
+Diagram: Legendary Wolven boots|NGP Wolf Boots schematic
+Diagram: Enhanced legendary Wolven boots|NGP Witcher Wolf Boots Upgrade schematic 1
+Diagram: Superior legendary Wolven boots|NGP Witcher Wolf Boots Upgrade schematic 2
+Diagram: Mastercrafted legendary Wolven boots|NGP Witcher Wolf Boots Upgrade schematic 3
+Diagram: Legendary Wolven steel sword|NGP Wolf School steel sword schematic
+Diagram: Legendary Wolven steel sword - enhanced|NGP Wolf School steel sword Upgrade schematic 1
+Diagram: Legendary Wolven steel sword - superior|NGP Wolf School steel sword Upgrade schematic 2
+Formula: Turquoise armor dye|Recipe Dye Turquoise
+Formula: Shaelmaar bait|Recipe for Sharley Lure
+Mutation serum formula|Recipe for Mutation Serum
+Diagram: Faramond's blade|Serpent Steel Sword schematic 1
+Diagram: Faithful Friend|Serpent Steel Sword schematic 2
+Diagram: Belhaven blade|Serpent Steel Sword schematic 3
+Diagram: Toussaint Ducal Guardsman's steel sword|Guard Lvl1 steel sword 3 schematic
+Diagram: Toussaint Ducal Guard Officer's steel sword|Guard Lvl2 steel sword 3 schematic
+Diagram: Toussaint knight's steel sword|Knights Geralt steel sword 3 schematic
+Diagram: Viroledan blade|Hanza steel sword 3 schematic
+Diagram: Toussaint steel sword|Toussaint steel sword 3 schematic
+Diagram: Fen'aeth|Serpent Silver Sword schematic 1
+Diagram: Tah'rel|Serpent Silver Sword schematic 2
+Diagram: Gesheft|Serpent Silver Sword schematic 3
+Diagram: Toussaint Ducal Guardsman's armor|Guard Lvl1 Armor 3 schematic
+Diagram: Toussaint Ducal Guardsman's gauntlets|Guard Lvl1 Gloves 3 schematic
+Diagram: Toussaint Ducal Guardsman's boots|Guard Lvl1 Boots 3 schematic
+Diagram: Toussaint Ducal Guardsman's trousers|Guard Lvl1 Pants 3 schematic
+Diagram: Toussaint Color Guardsman's armor|Guard Lvl1 A Armor 3 schematic
+Contract: The Phantom of Eldberg|mh207_contract
+Diagram: Toussaint Color Guardsman's gauntlets|Guard Lvl1 A Gloves 3 schematic
+Diagram: Toussaint Color Guardsman's boots|Guard Lvl1 A Boots 3 schematic
+Diagram: Toussaint Color Guardsman's trousers|Guard Lvl1 A Pants 3 schematic
+Diagram: Toussaint Ducal Guard Officer's armor|Guard Lvl2 Armor 3 schematic
+Diagram: Toussaint Ducal Guard Officer's gauntlets|Guard Lvl2 Gloves 3 schematic
+Diagram: Toussaint Ducal Guard Officer's boots|Guard Lvl2 Boots 3 schematic
+Diagram: Toussaint Ducal Guard Officer's trousers|Guard Lvl2 Pants 3 schematic
+Diagram: Toussaint Ducal Guard Captain's armor|Guard Lvl2 A Armor 3 schematic
+Diagram: Toussaint Ducal Guard Captain's gauntlets|Guard Lvl2 A Gloves 3 schematic
+Diagram: Toussaint Ducal Guard Captain's boots|Guard Lvl2 A Boots 3 schematic
+Diagram: Toussaint Ducal Guard Captain's trousers|Guard Lvl2 A Pants 3 schematic
+Diagram: Toussaint knight's armor|Knight Geralt Armor 3 schematic
+Diagram: Toussaint knight's gauntlets|Knight Geralt Gloves 3 schematic
+Diagram: Toussaint knight's boots|Knight Geralt Boots 3 schematic
+Diagram: Toussaint knight's trousers|Knight Geralt Pants 3 schematic
+Diagram: Toussaint knight's tourney armor|Knight Geralt A Armor 3 schematic
+Diagram: Toussaint knight's tourney gauntlets|Knight Geralt A Gloves 3 schematic
+Diagram: Toussaint knight's tourney boots|Knight Geralt A Boots 3 schematic
+Diagram: Toussaint knight's tourney trousers|Knight Geralt A Pants 3 schematic
+Diagram: Infused slyzard hide|Draconide infused leather schematic
+Diagram: Nickel ore|Nickel ore schematic
+Diagram: Cupronickel ore|Cupronickel ore schematic
+Diagram: Copper ore|Copper ore schematic
+Diagram: Copper ingot|Copper ingot schematic
+Diagram: Copper plate|Copper plate schematic
+Diagram: Green gold ore|Green gold ore schematic
+Diagram: Green gold ingot|Green gold ingot schematic
+Diagram: Green gold plate|Green gold plate schematic
+Diagram: Orichalcum ore|Orichalcum ore schematic
+Diagram: Cintrian-style orichalcum ore|Orichalcum ore schematic 1
+Diagram: Orichalcum ingot|Orichalcum ingot schematic
+Diagram: Orichalcum plate|Orichalcum plate schematic
+Diagram: Enriched dimeritium ore|Dwimeryte enriched ore schematic
+Diagram: Enriched dimeritium ingot|Dwimeryte enriched ingot schematic
+Diagram: Enriched dimeritium plate|Dwimeryte enriched plate schematic
+Diagram: Mastercrafted legendary Griffin boots|Witcher Gryphon Boots Upgrade schematic 3
+Diagram: Mastercrafted legendary Griffin trousers|Witcher Gryphon Pants Upgrade schematic 3
+Diagram: Mastercrafted legendary Griffin gauntlets|Witcher Gryphon Gloves Upgrade schematic 3
+Diagram: Superior legendary Griffin boots|Witcher Gryphon Boots Upgrade schematic 2
+Diagram: Superior legendary Griffin trousers|Witcher Gryphon Pants Upgrade schematic 2
+Diagram: Superior legendary Griffin gauntlets|Witcher Gryphon Gloves Upgrade schematic 2
+Notes on parchment by Hieronymus on Elgar the witcher|th1009_map_wolf_upgrade3b
+Heavily faded notes by Hieronymus on the witcher Elgar|th1009_map_wolf_upgrade2b
+Crafting notes|th1005_journal_gryphon_part6
+Worn-out and faded notes by Hieronymus on the witcher Elgar|th1009_map_wolf_upgrade3
+Damp, moldy notes by Hieronymus on the witcher Elgar|th1009_map_wolf_upgrade2
+Contract: Nils' Disappearance|mh210_contract
+Diagram: Mastercrafted legendary Ursine boots|Witcher Bear Boots Upgrade schematic 3
+Slightly torn notes by Hieronymus on the witcher Elgar|th1009_map_wolf_upgrade1b
+Diagram: Mastercrafted legendary Ursine trousers|Witcher Bear Pants Upgrade schematic 3
+Diagram: Mastercrafted legendary Ursine gauntlets|Witcher Bear Gloves Upgrade schematic 3
+Well-preserved notes by Hieronymus on the witcher Elgar|th1009_map_wolf_upgrade1a
+Diagram: Legendary Wolven steel sword - mastercrafted|NGP Wolf School steel sword Upgrade schematic 3
+Diagram: Superior legendary Ursine boots|Witcher Bear Boots Upgrade schematic 2
+Diagram: Superior legendary Ursine trousers|Witcher Bear Pants Upgrade schematic 2
+Diagram: Superior legendary Ursine gauntlets|Witcher Bear Gloves Upgrade schematic 2
+Chronicles of Clan Tuirseach|th1007_journal_bear_part7
+Diagram: Legendary Wolven silver sword|NGP Wolf School silver sword schematic
+Diagram: Legendary Wolven silver sword - enhanced|NGP Wolf School silver sword Upgrade schematic 1
+Diagram: Legendary Wolven silver sword - superior|NGP Wolf School silver sword Upgrade schematic 2
+Diagram: Legendary Wolven silver sword - mastercrafted|NGP Wolf School silver sword Upgrade schematic 3
+Formula: Greater mutagen transmutator - green to blue|Recipe Greater Mutagen Green to Blue
+Diagram: Wolven silver sword - enhanced|Wolf School silver sword Upgrade schematic 1
+Manuscript page: Nekker pheromones|Recipe for Nekker Pheromone Potion 1
+Diagram: Wolven silver sword - superior|Wolf School silver sword Upgrade schematic 2
+Diagram: Wolven silver sword - mastercrafted|Wolf School silver sword Upgrade schematic 3
+Diagram: Enhanced legendary Feline armor|Witcher Lynx Jacket Upgrade schematic 1
+Diagram: Superior legendary Feline armor|Witcher Lynx Jacket Upgrade schematic 2
+Diagram: Mastercrafted legendary Feline armor|Witcher Lynx Jacket Upgrade schematic 3
+Diagram: Enhanced legendary Feline boots|Witcher Lynx Boots Upgrade schematic 1
+Diagram: Enhanced legendary Feline trousers|Witcher Lynx Pants Upgrade schematic 1
+Diagram: Enhanced legendary Feline gauntlets|Witcher Lynx Gloves Upgrade schematic 1
+Diagram: Legendary Feline steel sword - enhanced|Lynx School steel sword Upgrade schematic 1
+Diagram: Legendary Feline steel sword - superior|Lynx School steel sword Upgrade schematic 2
+Diagram: Legendary Feline steel sword - mastercrafted|Lynx School steel sword Upgrade schematic 3
+Diagram: Legendary Feline silver sword - superior|Lynx School silver sword Upgrade schematic 2
+Manuscript page: Superior Northern Wind|Recipe for White Frost 3
+Diagram: Legendary Feline silver sword - mastercrafted|Lynx School silver sword Upgrade schematic 3
+Diagram: Steel ingot|Steel ingot schematic
+Diagram: Dark iron ingot|Dark iron ingot schematic
+Diagram: Meteorite ingot|Meteorite ingot schematic
+Beware! Haunted House & Cheating Merchant!|q301_notice_haunted_house
+Diagram: Dimeritium ingot|Dwimeryte ingot schematic
+Guide to the Vineyards of Toussaint, Vol. I: The Sansretour Valley|lore_vineyards_guide_part_i
+The Tenebrous Wilderness of Caed Myrkvid|lore_caed_myrkvid_guide
+A Code Duello|fightclub_book
+History of the Fortress of Dun Tynne, as Chronicled by Le Papillon|lore_dun_tynne_legend
+The Ducal Chronicle, 2nd Amended Edition|item_book_lore_royal_chronicle_2
+The Ducal Chronicle, 1st Edition|item_book_lore_royal_chronicle_1
+Manuscript page: Beast oil|Recipe for Beast Oil 1
+Blood-smeared diary|poi_dun_b_03_note
+Manuscript page: Enhanced beast oil|Recipe for Beast Oil 2
+Manuscript page: Full Moon|Recipe for Full Moon 1
+Recipe: Omelet|recipe_for_yennefers_omelette
+Recipe: Scrambled eggs|recipe_for_scrambled_eggs
+Notice from the Ducal Camerlengo|camm_note_starter
+Manuscript page: Superior beast oil|Recipe for Beast Oil 3
+Letter from witcher Kolgrim of the Viper School|th1001_journal_viper_part2
+Research notes|th1003_journal_lynx_part7
+Mysterious recipe|th1003_journal_lynx_part8
+Caranthir's Progress|q210_avallach_notes_02
+Dirtied letter|ep1_poi_05_02_note
+Diagram: Steel plate|Steel plate schematic
+Diagram: Feline crossbow|Lynx School Crossbow schematic
+Witcher Needed!|mq2052_contract
+Letter with orders|th1010_pants_note
+Contract: the Beast of Honorton|mq1058_contract
+Diagram: Lesser Stribog runestone|Rune stribog lesser schematic
+Diagram: Stribog runestone|Rune stribog schematic
+Diagram: Greater Stribog runestone|Rune stribog greater schematic
+Script|sq303_robbery_speech
+Aeramas' Shop: the Best Goods Around!|mq1002_3012_notice
+Letter to brother-in-law|ep1_poi_08_note_b
+Letter to Gaetan|mq1058_cat_note
+Diagram: Lesser Dazhbog runestone|Rune dazhbog lesser schematic
+Diagram: Order of the Flaming Rose sword|Crafted Burning Rose Sword schematic
+Wanted: Discreet Specialist|mq7015_contract
+Thank you card|mq1058_drawing
+Diagram: Dazhbog runestone|Rune dazhbog schematic
+Crumpled letter|th1010_boots_note
+Fist Fights|ff100_notice
+Fauna of the Northern Realms, Volume 1|Beasts vol 1
+Fauna of the Northern Realms, Volume 2|Beasts vol 2
+In Beast's Clothing|Cursed Monsters vol 1
+Prayers to the Eternal Fire|Armor maintenance
+Witcher experimentations - cont.|flotsam_experiment
+Angrily scrawled notes|gp_prologue_bandit_note01
+Soaked letter|poi_temerian_treasure_note
+Notice! Delay affecting orders placed with Anselm!|mq1011_notice
+Inexpertly written letter|gp_prologue_bandit_note02
+Cultist's notes - part 1|gp_prologue_cultist_note01
+Cultist's notes - part 2|gp_prologue_cultist_note02
+Dead soldier's letter|lw_prologue_fallen_soldier_letter01
+Recipe|lw_sb5_giggler_leader_note
+Fridebjorg the Bloody|lw_sk25_blood_countess_note
+Bandit's notes|lw_cb17_bandits_note
+Letter|lw_sb14_fisherman_letter
+Pirate's notes|lw_sb12_pirate_note
+Sodden note|lw_cp14_child_note
+Unsent letter|lw_cp13_refugee_note
+Trader's notes|lw_mp4_merchant_note
+Soaked letter|lw_tm5_villager_note
+Dirt-smeared letter|lw_sk16_village_note
+Mysterious note|lw_sk41_prison_island_note
+Highwayman's letter|lw_sk25_bandits_note
+Letter from an alchemist|lw_sk86_old_mans_note
+Crumpled letter|lw_sk86_guards_note
+Orders|lw_gr15_bandits_note
+Blood-covered letter|lw_gr15_ghouls_note
+Slavers' notes|lw_gr13_poppy_slaver_note
+Highwayman's notes|lw_cp14_bandit_note
+Alchemist's notes|lw_gf2_white_note
+Unsent letter|lw_gr29_bandit_note
+Bandit's notes|lw_hs2_bandit_note
+Crumpled note|lw_bm6_merchant_note
+Short letter|lw_sk32_note
+Scribbled document|lw_prologue_temerian_loot_manifest
+Strange note|lw_sb20_chest_note
+Old Letter|lw_de_wett_note
+Witch Hunter's notes|lw_cp36_note
+Quartermaster's Orders|mq1051_orders_note
+Poem|noon_shadow_loot_note
+Manuscript page: Superior draconid oil|Recipe for Draconide Oil 3
+The Bear Legend|Cursed Monsters vol 2
+A Few Remarks on Basilisks and Cockatrices|Draconides vol 1
+List of objects in need of restoration|q603_auction_house_fluff_note_01
+Request for payment|q603_auction_house_fluff_note_02
+Death From Above|Draconides vol 2
+Journey to the End of the World|Hybrid Monsters vol 1
+Letter from Master Matthew|q603_auction_house_fluff_note_03
+Heraldic Animals|Hybrid Monsters vol 2
+Wondrous World of Insectoids|Insectoids vol 1
+The Illustrated Atlas of Insectoids|Insectoids vol 2
+Professor Shakeslock's journal|q605_scholar_journal
+Golem, or Man's Most Faithful Servant|Magical Monsters vol 1
+Of Fire and Stone|Magical Monsters vol 2
+Ghouls and Alghouls|Necrophage vol 1
+Diagram: Legendary forgotten Wolven steel sword|Netflix steel sword schematic
+Diagram: Legendary forgotten Wolven steel sword - mastercrafted|Netflix steel sword schematic 1
+Diagram: Grandmaster legendary forgotten Wolven steel sword|Netflix steel sword schematic 2
+Diagram: Legendary forgotten Wolven silver sword|Netflix silver sword schematic

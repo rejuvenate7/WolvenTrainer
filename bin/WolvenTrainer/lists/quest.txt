@@ -1,0 +1,729 @@
+Hieronymus' notes|th1009_journal_wolf_part3a
+Path of Warriors completion token|mq2043_conviction_token
+Letter from witcher Kolgrim of the Viper School|th1001_journal_viper_part2
+Silver seaweed ring|mq4003_siren_ring
+Research notes|th1003_journal_lynx_part7
+Massive ring|mq4003_husband_ring
+Mysterious recipe|th1003_journal_lynx_part8
+Boy's remains|mq4004_boy_remains
+Laboratory key|th1003_ireneus_lab_key
+Assassin's knife|mh103_killers_knife
+Polished crystal|th1009_crystal
+Grave hag skull|mh106_hags_skulls
+Trial of Dexterity completion token|mq2041_dexterity_token
+Sturdy barn key|sq102_barn_door_side_key
+Water hag trophy|mh203_water_hag_trophy
+Journal kept by Chird, the mage Hieronymus' assistant|th1009_journal_wolf_part1a
+Wild Hunt hound trophy|mh307_minion_trophy
+Varin's journal|th1009_journal_wolf_part2a
+Cellar key|mh307_minion_lair_key
+Notes written in a shaky hand|th1009_journal_wolf_part4
+Silver dagger|mh308_dagger
+Prisoner's trousers|Beauclair Prison Pants
+Old necklace|q108_necklet
+Script|sq303_robbery_speech
+Griffin trophy|mh301_gryphon_trophy
+Sealed bottle|q105_johnnys_doll
+Archgriffin trophy|sq108_griffin_trophy
+Gloves for picking mandrake|q705_mandragora_gloves
+Noonwraith trophy|mh308_noonwraith_trophy
+Doll|mq1058_doll
+Hendrik's notes|q101_hendrik_notes
+Lockbox key|sq102_lockbox_key
+Leshen trophy|mh204_leshy_trophy
+School of the Cat Medallion|mq1058_cat_medallion
+Wyvern trophy|mq1051_wyvern_trophy
+Katakan trophy|mh304_katakan_trophy
+Blood-smeared notes|lw_tm_underwater_dungeon_note
+Sketch of the Heart of Toussaint|q703_hos_sketch
+Key to library|sq210_underwater_gate2_key
+The Natural Obscurity of Curses|q103_curse_book
+Garkain trophy|q704_garkain_trophy
+Letter of safe conduct|q103_safe_conduct
+Orders|ep1_poi_12_note_b
+Baron's dagger|q103_baron_dagger
+Umbra trophy|mq7017_zmora_trophy
+Slyzard trophy|mq7010_dracolizard_trophy
+Fragment of a letter|poi_ww_belgard_secret_plot_failsafe_note
+Shaelmaar trophy|mh701_sharley_matriarch_trophy
+Perfume-laced journal|poi_gor_a_10_note
+Bald Mountain key|q111_fugas_top_key
+Unsent letter|lw_sk4_note
+Itinerant merchant's notes|lw_sk30_villager_note
+The Ladies of the Wood|q105_book_about_witches
+Small chest key|lw_sk30_chest_key
+Letter from Keira|q106_note_from_keira
+Old, yellowed letter|lw_sk31_note
+Silver-plated key|lw_sk31_treasure_key
+Key to Philippa Eilhart's hideout|sq302_philippa_key
+Key to Polly's home|sq303_pollys_key
+Defier's Oren|q111_falkas_coin
+Maximilian Borsodi's house|q603_max_house
+Potestaquisitor|Potestaquisitor
+Rusty key|q103_tamara_shrine_key
+Holger Blackhand's horn|mq2001_horn
+Key to Zed's pawnshop|sq310_zed_door_key
+Unsent letter|lw_tm15_treasure_hunter_note
+Key to a chest|lw_tm15_chest_key
+Mead|q201_mead
+Letter to Arnvald|q206_arnvalds_letter
+Letter from Yennefer to Emhyr var Emreis|q210_letter_for_emhyr
+Drawing of a crib|q301_drawing_crib
+Triangular key|sq310_triangle_key
+Message from Igor|q302_igor_note
+Cargo list|lw_sk3_ship_note
+Glass|q604_cup
+Cone|q201_pine_cone
+Letter|lw_sk_poi_005_treasure_note
+Poem|noon_shadow_loot_note
+Notes about treasure|lw_sk_poi_056_note
+Balton Dubis' notes|q302_crafter_notes
+Message|lw_sk57_treasure_note
+Key to treasure chamber|mq2003_treasure_chamber_key
+Scratched key|lw_sk57_treasure_key
+Skull|q201_skull
+Ornamented chest key|mq3002_chest_key
+Letter from Dudu|q303_dudus_briefing
+Common key|lw_tm6_treasure_key
+Letter to Caleb Menge|q303_contact_note
+Menge's Holy Tome|q303_marked_bible
+Note|lw_sk42_treasure_note
+Dandelion's Planner|q304_dandelion_diary
+Pipe|q604_olgierd_pipe
+Mask for picking mandrake|q705_bond
+Key with ring attached|lw_sk42_treasure_key
+Jade figurine|mq3012_noble_statuette
+Key to slave cells|mq2020_slave_cells_key
+Painter's palette|q604_paint_palette
+Marauder's notes|lw_tm6_note
+A frustrated warrior's notes|lw_sk38_treasure_note
+Knife|q604_olgierd_knife
+Skullhead key|lw_sk38_treasure_key
+Shackles|q202_shackles
+The Spirit from the Steppe|q604_worn_book
+Lighthouse key|mh207_lighthouse_door_key
+Old key|poi_gor_b_04_key
+Night lamp|q604_bed_oillamp
+Traveler's notes|sk48_splintered_ships_note
+Lost shoe|q602_wrong_shoe_2
+A Changeling Rescued|q305_script_drama_title1
+Key to hut in Byways|mh104_ekimma_house_key
+Cage key|lw_sk90_cage_key
+The Doppler's Salvation|q305_script_drama_title2
+Lost shoe|q602_wrong_shoe_1
+Night gown|q604_dressing_gown
+A Changeling Rescued|q305_script_comedy_title1
+Sail|q202_sail
+Key to pirate leader's house|mq2020_pirate_lord_house_door
+The Doppler's Salvation|q305_script_comedy_title2
+Wedding veil|q604_wedding_veil
+Locked strongbox|mq0002_box
+Irina's copy of the play|q305_script_for_irina
+Crypt key|q602_graverobber_key
+Message from Hubert Rejk|q308_coroner_msg
+Key to house in Novigrad|mh303_succubus_house_key
+Bouquet of flowers|q604_wedding_flowers
+Concerned Citizen's sermon|q308_sermon_1
+Nails|q202_nails
+Concerned Citizen's sermon|q308_sermon_2
+Key to Oxenfurt morgue|mh304_morge_door_key
+Concerned Citizen's sermon|q308_sermon_3
+Key to the manor's back door|q604_mansion_back_key
+Concerned Citizen's sermon|q308_sermon_4
+Letter bearing Castel Ravello's seal|poi_ww_bel_05_note
+Concerned Citizen's sermon|q308_sermon_5
+Ass ears|q602_donkey_ears_no_show
+Letter from Hubert Rejk|q308_psycho_farewell
+Key to katakan's hideout.|mh304_katakan_hideout_door_key
+Letter found on Joris Aquinus' body|q308_vegelbud_invite
+Key to the manor's front door|q604_mansion_front_key
+Letter found on the woodcarver's body|q308_priscilla_invite
+Appeal to Sir Geralt of Rivia, the Bridge his Crest|q701_nml_notice
+Murderer's note|q308_anneke_invite
+Letter found on a murder victim's body|q308_last_invite
+Key to an abandoned house|mh306_dao_manor_door_key
+Nathaniel's sermon|q308_nathanel_sermon_1
+Teapot|q604_gazebo_teaset
+Jade|mq6005_nephrite
+Spyglass|mq1051_spyglass
+Ornamented brush|q604_comb
+Scratched key|gp_prologue_key01
+Key to cellar|q203_chest_key
+Portrait of Iris and Olgierd|q604_small_painting
+Temerian lily key|lw_prologue_royal_key01
+Iris' sketchbook|q604_sketchbook
+Reinald's Secret Ingredient|mq1060_reinalds_ingredient
+Painite crystal|mq6005_painite
+Witch hunter's orders|q309_witch_hunters_orders
+Von Everec blood|q602_olgierd_blood
+Eternal Fire letter of safe conduct|q309_glejt_from_dijkstra
+Yennefer's dress|Yennefers Dress
+Perfumed letter|q309_mssg_from_triss
+Brokvar|q203_broksvard
+Letter about treasure|q309_key_letters
+Censer|Censer
+Warrant|q309_key_orders
+Bandit's key|lw_cb17_key
+Pickaxe|mq6005_pickaxe
+Ornate bracelet|mq0003_ornate_bracelet
+Ancient elven sword|mq7007 Elven Sword
+Violet rose|q604_iris_flower
+Completely ordinary key|ep1_poi_08_key
+Letter from Olgierd von Everec|q604_olgierd_letter
+Laundry pole|Laundry pole
+Summons from Duchess Anna Henrietta|q701_duchess_summons
+Vodka glass|q604_toast_cup
+Fence board|Plank
+Scrawled notes|gp_prologue_bandit_note03
+Deed to Corvo Bianco|q701_corvo_bianco_deed
+Magic trinket from Yennefer|q310_yen_trinket
+Slavers' key|lw_gr13_slavers_key
+Pouch filled with florens|q701_coin_pouch
+Key from the Golden Fish|q701_swan_item
+Clue from the horn of a "unicorn"|q701_unicorn_item
+Deserter's key|lw_prologue_deserter_key01
+Scratched key|lw_de6_scavenger_key
+Spy's notes|poi_telescope_note
+Painting of Iris holding a violet rose|q604_rose_painting
+Letter from Augustin Tonneliay|poi_ww_ver_12_note
+Old elven key|th701_wg_key
+Wight saliva gland|q702_wight_gland
+Rust-covered key|poi_gor_d_05_key
+Wight brew|q702_wight_brew
+Wolf mask|Geralt mask 01 no show
+Disgusting wight key|q702_wicht_key
+Harlequin mask|Geralt mask 02 no show
+Mysterious notes|sq104_notes
+Bird mask|Geralt mask 03 no show
+Letter written on elegant stationery|sq106_manuscript
+Scavenger bait|q702_graveir_lure
+Iris von Everec's remains|q604_iris_remains
+Morkvarg's journal|sq201_ship_manifesto
+Albert Vegelbud's mask|Albert mask no show
+Distiller's letter|sq205_brewing_instructions
+Key to the Tufo cellar|mh701_wine_cellar_key
+Distiller's Log|sq205_brewmasters_log
+Key to Villa Vedette|poi_ved_a_05_key
+Golden key|q704_ft_fairy_key
+Gottfried's Omni-opening Grimoire|sq210_gog_book
+Fire swallower's cap|q602_cap
+Spoon-key note|q702_spoon_key_message
+Key to Professor Shakeslock's home|q605_scholar_key
+Certificate|q302_zdenek_contract
+Garden key|mq7001_house_key
+Pellar's bell|q103_bell
+Cheese|q401_cheese
+Solid Skellige sword|mq2002_sword
+Squirrel tail|sq305_trophies
+Magic firefly|q401_avallachs_wisp
+Ledger|sq304_ledger_book
+Ledger of Income and Outlays|sq310_ledger_book
+Bread|q401_bread
+Journal of a desperate man|poi_gor_c_14_note
+The baron's notes|cg100_barons_notes
+Contract on a witcher|q703_geralt_wanted_note
+Roche's notes|cg300_roches_list
+Yellowed diary|mq0003_girls_diary
+Silver monocle|mq0004_thalers_monocle
+Mandragora mask|Geralt mandragora mask
+Magic key|q704_orianas_vampire_key
+Leftover mead|q206_wine_sample
+Crumpled letter|q704_mages_notebook
+Mage's notes|q704_mages_notes_01
+Mage's notes|q704_mages_notes_02
+Offering for the Unseen Elder|q704_vampire_offering
+Yellow bean|q704_ft_bean_01
+Blue bean|q704_ft_bean_02
+Red bean|q704_ft_bean_03
+Little Red Riding Hood's hood|q704_ft_riding_hoods_hood
+Decorative pipe|q704_ft_pipe
+Transit pass|mq1023_fake_papers
+Bottle caps|q704_ft_bottle_caps
+Corkscrew|q704_ft_corkscrew
+Fake tooth|q704_ft_fake_teeth
+Journal|q704_ft_syanna_journal
+Garkain bait bolt|q704_vampire_lure_bolt
+Letter revealing the fifth victim|q705_ah_letter
+Dirty clothes|q705_dirty_clothes
+Unsent letter|mq1055_letters
+Soap|q705_soap
+Thief's journal|mq2001_journal_1a
+The Order of Vitis Vinifera|q705_medal
+Thief's journal|mq2001_journal_1b
+Bouquet of white roses|q705_white_roses
+Thief's journal|mq2001_journal_1c
+Picked mandrake root|q705_mandragora
+Notes found in the Toussaint prison|q705_prison_stash_note
+Small hammer and chisel for carving stone|q705_hammer_chisel
+Journal of a Thief, Part II|mq2001_journal_2b
+Chort lure|mq1060_right_hand_potion
+Mask for picking mandrake|q705_geralt_mask
+Mysterious map|mq2006_map_1
+Mysterious map|mq2006_map_2
+Hjort's herbs|q206_herb_mixture
+Tourney champion's laurels|sq701_victory_laurels
+Sawmill owner's notes|mq2010_lumbermill_journal_1
+Key to chest in sunflower fields|poi_ww_vermentino_key
+Lumberjack's letter to his wife|mq2010_lumbermill_journal_2
+Count Beledal's map|sq703_map
+Letter from a druid|mq2010_lumbermill_journal_3
+Count Beledal's map|sq703_map_alternative
+Letter to Yanne|mq2012_letter
+Osmund's notes|mq1060_armor_osmund_note
+Notes of a pirate|mq2015_kurisus_note
+Letter from the hunter|sq703_hunter_letter
+Letter from the wife of Count Beledal|sq703_wife_letter
+Accounts ledger|sq703_accountance_book
+Letter from Agda's father to Timmon|mq2037_dimun_directions
+Silver pendant|mh701_lost_locket
+Fresh human blood|mh701_fresh_blood
+Vesemir's note|mq1060_armor_vesemir_note
+Journal|mq2048_guide_notes
+Jade figurine|mq3012_soldier_statuette
+Letter sealed with impermeable wax|mq2048_waxed_letters
+Urn with ashes of Louis de Corentin|mq7001_louis_urn
+Tristianna and Isador|mq2049_book_1
+Urn with ashes of Margot de Corentin|mq7001_margot_urn
+Religion and Life|mq2049_book_2
+The Curious Cases of Virtuous Vegga|mq2049_book_3
+Letter from Jaquette to Francois|mq7002_love_letter_01
+The Cult of Freya|mq2049_book_4
+Letter from Francois to Jaquette|mq7002_love_letter_02
+Change your life! A Handbook|mq2049_book_5
+Sir Gareth's bone|mq7004_knight_item
+Note left by spy|mq3002_hidden_messages_note_01
+Silk kerchief|mq7004_scarf
+Note left by spy|mq3002_hidden_messages_note_02
+Tales and Fables|mq7004_storybook
+Note left by spy|mq3002_hidden_messages_note_03
+Frying pan|mq0004_frying_pan
+Old key|mq2006_key_1
+Blood-soaked military orders|lw_prologue_temerian_treasure_note
+Message from Carlo Varese|mq3026_varese_invitation
+An invitation to the Memorial Derby|mq3026_horse_racing_leaflet
+Elven bread|mq7007_tribute_food
+My Manifesto - The Life of Jacques de Aldersberg|mq3027_my_manifest
+Elven wine|mq7007_tribute_wine
+Moribundia: The Vampire's Last Likeness|mq3027_fluff_book_1
+Ancient elven shield|mq7007_elven_shield
+Tyromancy, or the Noble Art of Cheese Divination|mq3027_fluff_book_2
+Ceremonial mask|mq7007_elven_mask
+The Merry Adventures of Muriel the Lovely Harlot, Illustrated Edition|mq3027_fluff_book_3
+Painting accessories|mq7009_painter_accessories
+The Treatment of Furuncles Through Cauterization: A Study|mq3027_fluff_book_4
+Dog collar|mq1001_dog_collar
+Letter from "A"|mq3027_letter
+Letter to a lover|poi_ww_ver_10_note
+Polished crystal|sq302_crystal
+Cage key|poi_bar_a_02_key
+Letter on elegant stationary|poi_ww_vermentino_note_stash
+Letter from the resident mage|mq4002_note
+Reginald statue's genitals|mq7015_reginalds_balls
+Sunstone|q210_solarstein
+Common graytop brew|mq7017_mushroom_potion
+Berengar's notes|mq4005_note_1
+The Flagellant's Manifesto|mq7017_pinastri_note
+Monstrum, or A Portrayal of Witchers: Volume 2|mq4006_book
+Coopers' Guild contract|mq7018_guild_contract_letter
+Letter found in a grave|mh103_girls_journal
+Vineyard worker's letter|mq7018_workers_letter_basilisk_alive
+Letter to lighthouse keeper|mh207_lighthouse_keeper_letter
+Unsent vineyard worker's letter|mq7018_workers_letter_basilisk_dead
+Mercenary contract|mh301_merc_contract
+Short letter|mh305_doppler_letter
+Still filter|mq7021_filter
+Letter about Yennefer|mq7023_letter_yen
+Letter from Triss|mq7023_letter_triss
+Temerian officer's journal|lw_temerian_soldiers_journal
+Fisherman's notes|lw_sb13_note
+Letter from Yennefer|mq7023_letter_neutral
+Magical Bracelet|Horse Bracelet
+Interrogation report|th1001_journal_viper_part1
+Julia Kenyon's diary|th1003_journal_cat_lady
+Professor Sigismund Gloger's notes|th1003_journal_lynx_part1
+Prince Adrien's journal|th1003_journal_lynx_part2
+Mage's notes|th1003_journal_lynx_part3
+Laboratory notebook|th1003_journal_lynx_part4
+Captain's Log|th1003_journal_lynx_part5
+Invoice for a golem|th1003_journal_lynx_part6
+Old map of Toussaint|mq7023_map
+Witcher George's confession|th1005_journal_gryphon_part1
+Witcher George's journal|th1005_journal_gryphon_part2
+Balstick's letter|th1005_journal_gryphon_part3
+Aen N'og Mab Taedh'morc|th1005_journal_gryphon_part4
+Dobromir's journal|th1005_journal_gryphon_part5
+The knight Chalimir's letter|th1007_journal_bear_part1
+Innkeep's notes|th1007_journal_bear_part2
+The Ballad of Witcher Gerd|th1007_journal_bear_part3
+Letter to Ingeborga Kalebsdotter|th1007_journal_bear_part4
+Arrest warrant for the witcher Gerd|th1007_journal_bear_part5
+Ballad of Torgeir the Red|th1007_journal_bear_part6
+Wolf mask|Geralt mask 01
+Harlequin mask|Geralt mask 02
+Bird mask|Geralt mask 03
+Triss' fox mask|Triss mask
+Street ruffian mask|Geralt robbery mask
+False witcher medallion|mq1013_Pretender pendant
+Dijkstra's mask|Dijkstra mask
+General Voorhis Mask|Voorhis mask
+Ingrid Vegelbud's mask|Ingrid mask
+Louisa la Valette's mask|Luiza mask
+Witch hunter's mask|Witch Hunter mask
+Albert Vegelbud's mask|Albert mask
+Guest's mask|False Albert mask 01
+Guest's mask|False Albert mask 02
+Guest's mask|Guest mask man 01
+Guest's mask|Guest mask man 02
+Guest's mask|Guest mask man 03
+Guest's mask|Guest mask man 04
+Guest's mask|Guest mask man 05
+Guest's mask|Guest mask man 06
+Guest's mask|Guest mask man 07
+Guest's mask|Guest mask man 08
+Guest's mask|Guest mask man 09
+Guest's mask|Guest mask man 10
+Professor Moreau's diary|mq7023_journal_laura
+Guest's mask|Guest mask man 11
+Guest's mask|Guest mask man 12
+Guest's mask|Guest mask man 13
+Guest's mask|Guest mask woman 01
+Guest's mask|Guest mask woman 02
+Guest's mask|Guest mask woman 03
+Guest's mask|Guest mask woman 04
+Guest's mask|Guest mask woman 05
+Guest's mask|Guest mask woman 06
+Guest's mask|Guest mask woman 07
+Guest's mask|Guest mask woman 08
+Guest's mask|Guest mask woman 09
+Guest's mask|Guest mask woman 10
+Guest's mask|Guest mask woman 11
+Gargoyle paw|mq7023_gargoyle_hand
+Guest's mask|Guest mask woman 12
+Guest's mask|Guest mask woman 13
+Guest's mask|Guest mask woman 14
+Guest's mask|Guest mask woman 15
+Guest's mask|Guest mask woman 16
+Guest's mask|Guest mask woman 17
+Megascope crystal|mq7023_megascope_crystal_2
+Megascope crystal|mq7023_megascope_crystal_4
+Mutated giant centipede albumen|mq7023_centipede_albumen_mutated
+Heavy brass key|poi_ww_belg_final_key
+Letter to Cosmo Cyrille|poi_ww_coronata_note_camp
+Key|mq1001_locker_key
+Orders written on a scrap of sow hide|poi_bar_a_03_note
+Skellige|cg700_base_deck
+The Victor's Cup|cg700_gwent_statue
+Letter from Count Monnier's brother|cg700_letter_monniers_brother
+Information for Tournament Participants|cg700_letter_merchants
+Letter from opponents of new gwent faction|cg700_letter_purist
+Fist fighting championship trophy|ff701_fist_fight_trophy
+Prisoner's journal|th700_prison_journal
+Merten's prayer|th700_crypt_journal
+The Great Beggar's journal|th700_vault_journal
+Merten's last letter|th700_lake_journal
+Merten's notes.|th700_chapel_journal
+Rose of Remembrance|q301_rose_remembrance
+Power cell|sq302_generator_2
+Leather sack|q301_triss_parcel
+Bones of the Great Beggar|th700_preacher_bones
+Junod of Belhaven's journal|th701_bear_contract
+Warning|th701_bear_journal
+Charite Gontran de Tufo's journal|th701_bear_notes
+Letter to Bartolome Launay|th701_cat_journal
+Masterly ornamented key|poi_san_a_01_key
+Letter to Pascal Pelissier|poi_san_b_02_note
+Hanse leader's notes|th701_cat_notes
+Lexandre's journal|th701_cat_witcher_notes
+Small key|poi_san_b_02_key
+Captain Augustus Fierabras' report|th701_gryphon_moreau_letter
+Moreau's journal|th701_gryphon_moreau_journal
+Notes on the back of a diagram|th701_gryphon_jerome_letter
+Power crystal|th701_power_core
+Isabelle Duchamp's journal|th701_wolf_journal
+Adona of Carreras' journal|th701_wolf_witcher_note
+Guest's mask|Guest mask woman 18
+Letter with Yennefer's instructions|ngu_gear_intro_letter
+Guest's mask|Guest mask woman 19
+Purple Ruby|th701_portal_crystal
+George Herbert's letter|th701_coward_journal
+Notes by a vandaguilder from Filibert's hanse|poi_bar_a_05_note
+Dirtied letter|poi_ww_cor_03_note
+Beauclair doublet|Beauclair Casual Suit 01
+Beauclair doublet|Beauclair Casual Suit with medal
+Prisoner's shirt|Beauclair Prison Shirt
+Rusty key|mq6002_key
+Water-damaged letter|lw_cp33_treasure_note
+Smigole Louis Serkis' cookbook|poi_car_a_11_note
+Magic incense|q301_magic_rat_incense
+Cage key|lw_cp13_cage_key
+Cage key|q704_ft_goose_key
+Orders on elegant stationery|poi_ww_coronata_note_stash
+Power cell|sq302_generator_3
+Letter from Regis|q705_regis_reward_letter
+Rag doll|q301_haunted_doll
+Old key|mq2006_key_2
+Bundle of burdock|q301_burdock
+Key to Whoreson Junior's estate|q302_estate_key
+Orders on stained paper|poi_bar_a_10_note
+Lizard figurine|mq1002_artifact_1
+Lost shoe|q602_shani_shoe
+Igor's key|q302_ring_door_key
+A Miraculous Guide to Gwent|Gwent Almanac
+Key|poi_bar_a_10_key
+Fragment of a silver cylinder|q303_bomb_fragment
+Black pearl|mq3031_mother_of_pearl
+Silver lid|q303_bomb_cap
+Orders from Graybill Pellegrin|poi_car_b_08_note
+Key|poi_ved_a_03_key
+Bottle of wine|q303_wine_bottle
+Bull figurine|mq1002_artifact_2
+Filibert's orders|poi_bar_a_12_note
+Pegasus signet|q305_dandelion_signet
+Key|q309_key_piece1
+Skellige shawl|mq2030_shawl
+Key|q309_key_piece2
+Orders from Robin|poi_car_b_10_note_02
+Key to treasure chest|lw_de11_treasure_key
+Crumpled notes|lw_de11_note
+Orders on bloody parchment|poi_gor_d_06_note04
+Key|q309_key_piece3
+Sodden letter|poi_car_b_10_note
+Blood Pacts, or On Foreign Presences|q604_demon_book
+Between Worlds|q604_genie_book
+Ornate key|poi_car_b_10_key
+Old wine from Toussaint|q310_wine
+Beeswax candles|q604_candles
+List marked with the seal of Liam Coronata|poi_ww_cor_02_note
+Lever|q310_lever
+Piece of chalk|q604_chalk
+Sewer key|q310_sewer_door_key
+The Decoctions of the Grasses|Trial Potion Kit
+Cell key|q310_cell_key
+Unfinished report|poi_vin_b_05_note02
+Forktail Spinal Fluid|q401_forktail_brain
+Triss' earring|q401_triss_earring
+Chest key|mq2037_drakkar_chest_key
+Sausages|q401_sausages
+Key to a travel chest|poi_vin_b_05_key
+Adalbert Kermith's first map|th1003_map_lynx_upgrade1a
+Adalbert Kermith's second map|th1003_map_lynx_upgrade1b
+Adalbert Kermith's third map|th1003_map_lynx_upgrade2
+Adalbert Kermith's fourth map|th1003_map_lynx_upgrade3
+Edwin Greloff's first map|th1005_map_gryphon_upgrade1a
+Edwin Greloff's second map|th1005_map_gryphon_upgrade1b
+Edwin Greloff's third map|th1005_map_gryphon_upgrade2
+Edwin Greloff's fourth map|th1005_map_gryphon_upgrade3
+Ibrahim Savi's first map|th1007_map_bear_upgrade1a
+Ibrahim Savi's second map|th1007_map_bear_upgrade1b
+Ibrahim Savi's third map|th1007_map_bear_upgrade2
+Ibrahim Savi's fourth map|th1007_map_bear_upgrade3
+Unsent letter|lw_gr12_ferry_man_note
+Forktail spinal fluid|q401_trial_key_ingredient_a
+Paint|mq1022_paint
+Manticore poison gland|q401_trial_key_ingredient_b
+Temple key|sq201_chamber_key
+Damaged eyes|sq302_eyes
+Padlock key|sq201_padlock_key
+Albino bruxa tongue|q401_trial_key_ingredient_c
+Rotting flesh|sq201_rotten_meat
+Bucket and rag|q401_bucket_and_rag
+Agate|sq302_agates
+Omelet for Yennefer|yennefers_omelette
+Wedding ring|mq1010_ring
+King Foltest mask|q603_foltest_mask_no_show
+Omelet a la Geralt of Rivia|yennefers_omelette_fantasie
+Blunt sword|sq303_blunt_sword
+Scrambled eggs|scrambled_eggs
+Horned Hoskuld's sword|mq2038_headsman_sword
+Cage key|lw_gr29_cage_key
+Rather unappetizing meal|q401_disgusting_meal
+Mutagenerator|q705_tissue_extractor
+Letter of safe conduct|sq305_conduct
+Dead fish|q504_fish
+[PL] Klucz do klatki|testKey
+Orders from Hammond|sq106_hammond_whereabouts
+Key to prison|lw_sk41_prison_key
+Delicate key|lw_gr7_hidden_pier_key
+Alchemist's key|lw_sk86_old_mans_key
+Elven-made key|lw_sk_q210_key_1
+Chest key|lw_sk20_chest_key
+Slightly bent key|lw_sk21_chest_key
+Cage key|lw_sk29_cage_key
+Aged key|lw_de31_chest_key
+Plain key|lw_sk103_chest_key
+Letter|lw_gr34_note
+Ancient monster bone|lw_001_monstrous_remains
+Title to property|mq1028_muggs_papers
+Treasure key|lw_gr34_treasure_key
+Jewel case|q505_gems
+Package for Keira|sq101_safe_goods
+Vizimir II's ring|mq3035_philppa_ring
+Bloodstained document|lw_gr39_note
+Niellen's key|sq104_key
+Bloodstained key|lw_gr39_treasure_key
+Orders on bloody paper|poi_gor_d_17_note_b
+Crystal skull|q001_crystal_skull
+Key to the Hog Hut|sq107_vault_key
+Unsent letter|lw_gr40_note
+Hendrik's key|q101_hendrik_trapdoor_key
+Slightly bent key|lw_gr40_treasure_key
+Bloody towel|q604_bloody_towel
+Hornwall horn|q202_navigator_horn
+Crumpled notes|lw_gr41_note
+Dragonsroot|mq1050_dragon_root
+Wooden sword|Wooden sword
+Key attached to a crumpled note|lw_gr41_treasure_key
+Talisman|q103_medallion
+Mug|q604_mug
+Archgriffin acid gland|sq108_acid_gland
+Nilfgaardian's notes|lw_gr7_soldiers_note
+Blood-smeared diary|poi_dun_b_03_note
+Botchling blood|q103_botch_blood
+Letter|lw_gr_poi_042_letter
+Marriage contract|q604_paper_shred1
+Cloth doll|q103_wooden_doll
+Small key|lw_gr_poi_042_chest_key
+Werewolf meat|sq201_werewolf_meat
+Key|poi_gor_d_20_key
+Wooden amulet|q103_talisman
+Stone medallion|mq2048_stone_medalion
+Incense|q103_incense
+Key|q309_three_keys_combined
+Hare Mask|q701_hare_mask
+Key to sewer gates|q601_sewers_key
+Cursed fang|sq201_cursed_jewel
+Eye of Nehaleni|q104_oillamp
+Bandits' key|lw_tm12_cage_key
+Cleansing mixture|q603_diarrhea_potion
+Raven's feather|q105_ravens_feather
+Food tray|q604_tray
+Key to lockbox|poi_ww_coronata_key
+Crones' dagger|q105_ritual_dagger
+Large bowl|q604_dog_bowl
+Broken seal|sq202_half_seal
+Crypt key|ep1_poi_01_key
+Pastoral diary of Father Glaedfried|ep1_poi_01_note_02
+Ealdorman of Downwarren's ear|q105_soltis_ear
+Chest key|ep1_poi_02_key_1
+Nicolas Vogel's laboratory notebook|ep1_poi_02_note
+Incrusted key|ep1_poi_04_key
+Bloody letter|ep1_poi_04_note
+Rusted key|ep1_poi_05_key
+Letter written in blood|ep1_poi_05_note
+Small bowl|q604_cat_bowl
+Knut Kreutzman's journal|ep1_poi_08_note_a
+Bent key|ep1_poi_10_key
+Yellowed letter|ep1_poi_10_note
+Simple cage key|lw_hs2_cage_key
+Mutation serum formula|Recipe for Mutation Serum
+Captain's log|mq2048_ships_logbook
+Woman's remains|q105_witch_bones
+Count Romilly's journal (part 2)|ep1_poi_26_note
+Tarnished key|ep1_poi_26_key
+Count Romilly's will|ep1_poi_26_note_b
+Ornate key|ep1_poi_26_key_b
+Wolf heart|sq204_wolf_heart
+Xenovox|q106_magic_communicator
+Mandragora mask|Only Geralt mandragora mask
+Griffin trophy|q002_griffin_trophy
+Mandragora mask|Lounge guard mandragora mask
+Cockatrice trophy|mh101_cockatrice_trophy
+Arachas trophy|mh102_arachas_trophy
+Nightwraith trophy|mh103_nightwraith_trophy
+Ekimmara trophy|mh104_ekimma_trophy
+Wyvern trophy|mh105_wyvern_trophy
+Key|mq3039_loot_chest_key
+Bedroom key|q001_bedroom_key
+Grave hag trophy|mh106_gravehag_trophy
+Chort trophy|mh107_czart_trophy
+Foglet trophy|mh108_fogling_trophy
+Cave troll trophy|mh201_cave_troll_trophy
+Nekker warrior trophy|mh202_nekker_warrior_trophy
+Fiend trophy|mh206_fiend_trophy
+Wraith trophy|mh207_wraith_trophy
+Forktail trophy|mh208_forktail_trophy
+Soaked letter|q603_hoff_letter
+Crumpled letter|lw_sb24_note
+Ekhidna trophy|mh210_lamia_trophy
+Key to burned down house|lw_sb24_treasure_key
+Key to Devil's Pit|mq1060_key_to_pit
+Boots diagram - untranslated|th1010_schematic_boots
+Gauntlets diagram - untranslated|th1010_schematic_gloves
+Trousers diagram - untranslated|th1010_schematic_pants
+Anabelle's remains|q106_anabelle_remains
+Leshen trophy|mh302_leshy_trophy
+Succubus trophy|mh303_succubus_trophy
+Wooden sword|NPC Wooden sword
+Key to prisoners' cage|lw_gr13_poppy_cage_key
+Mysterious letter|q302_roche_letter
+Doppler trophy|mh305_doppler_trophy
+Letter found in Yennefer's chest|ngu_gear_letter_ck
+Letter found in Yennefer's chest|ngu_gear_letter_db
+Gold diamond necklace|mq2037_dowry
+Earth elemental trophy|mh306_dao_trophy
+Noonwraith trophy|mq0003_noonwraith_trophy
+Leshen's amulet|sq204_leshy_talisman
+Vlodimir's letter to Olgierd|q602_letter_from_witold
+Key to elven necropolis|q104_keira_mine_key
+High-quality smithing tools|sq108_smith_tools
+Smuggler's notes|lw_sb13_smugglers_note
+Camerlengo's Seal|camm_trophy
+Ornate necklace with a key-shaped pendant|poi_gor_a_10_key
+Key to pellar's basement|q107_guslar_cell_key
+Stable key|q310_backdoor_key
+Pimpernel|sq205_fernflower_petal
+Key to Yennefer's room|q201_yen_chamber_key
+Holy oil|mq1019_oil
+Notes on parchment by Hieronymus on Elgar the witcher|th1009_map_wolf_upgrade3b
+Heavily faded notes by Hieronymus on the witcher Elgar|th1009_map_wolf_upgrade2b
+Crafting notes|th1005_journal_gryphon_part6
+Worn-out and faded notes by Hieronymus on the witcher Elgar|th1009_map_wolf_upgrade3
+Damp, moldy notes by Hieronymus on the witcher Elgar|th1009_map_wolf_upgrade2
+Torn piece of paper|lw_sk_poi_050_note
+Key to Vigi's cage|q202_hjalmar_cell_key
+Slightly torn notes by Hieronymus on the witcher Elgar|th1009_map_wolf_upgrade1b
+Mash|sq205_preserved_mash
+Key to Freya's Garden|q205_key_to_burrow
+Well-preserved notes by Hieronymus on the witcher Elgar|th1009_map_wolf_upgrade1a
+Massive key|mq7011_vault_key
+Rusty key|mq6002_house_key
+Magic lamp|q106_magic_oillamp
+Fruit bowl|q604_fruit_bowl
+Chronicles of Clan Tuirseach|th1007_journal_bear_part7
+The Eye of Nehaleni|Illusion Medallion
+Pirate's notes|lw_sb2_sunken_ships_note
+Mask of Uroboros|q203_eyeofloki
+Phylactery|ciris_phylactery
+Magic Amulet|q403_ciri_meteor
+Letter|lw_cp39_captains_log
+Chort lure|mh107_czart_lure
+Reinald's Philter|Signs Enhancement
+Letter|lw_de32_treasure_note
+Arnvald's key|q206_arnvalds_key
+Guest's mask|Frog mask
+Silver monocle|mq0004_thalers_monocle_wearable
+Key to Arnvald's chest|q206_arnvalds_chest_key
+"Vis la Crac" Wine|poi_gor_a_10_vine_edible
+Summons to payment|mq6003_tax_bill
+Skellige spirit|sq205_moonshine_spirit
+Feather from Vivienne|sq701_item_wearable_feather
+"Vis la Crac" Wine|poi_gor_a_10_vine
+Glass|q604_chalice
+Beauclair shoes|Beauclair casual shoes 01
+Shaelmaar bait|mh701_usable_lure
+Key to grate in sewers|q301_crematory_key
+Beauclair trousers|Beauclair Casual Pants 01
+Letter with orders|th1010_armor_note
+Drawing of an oven|q301_drawing_oven
+Kuliu|mq2001_kuilu
+Armor diagram - untranslated|th1010_schematic_armor
+Menge's key|q303_menges_skeleton_key
+Top|q103_spinning_top
+Rusty key|mq6004_lab_key
+Key to Dijkstra's treasury|q303_vault_key
+Key to the halflings' secret passage|q305_key_midgets_house
+Orders to attack Bowdon|mq6004_broken_rose_orders
+Stocktaking Report|poi_ww_belgard_secret_plot_proper_note
+Key to Corvo Bianco|mq7024_vineyard_key
+Unusual severed hand|dettlaff_arm
+Lockbox key|q503_lockbox_key

@@ -1,0 +1,238 @@
+Dwarven blade|Dwarven sword 2
+Gnomish Gwyhyr|Gnomish sword 1
+Witch hunter's sword|Inquisitor sword 1
+Toussaint Ducal Guardsman's steel sword|Guard lvl1 steel sword 3
+Toussaint Ducal Guard Officer's steel sword|Guard lvl2 steel sword 3
+Velen longsword|No Mans Land sword 1
+Toussaint knight's steel sword|Knights steel sword 3
+Forgotten Wolven steel sword|NGP Netflix steel sword
+Viroledan blade|Hanza steel sword 3
+Forgotten Wolven steel sword - mastercrafted|NGP Netflix steel sword 1
+Ofieri saber|Crafted Ofir Steel Sword
+Ofieri kilij|Ofir Sabre 1
+Ofieri decorated saber|Ofir Sabre 2
+Toussaint steel sword|Toussaint steel sword 3
+Faramond's blade|Serpent Steel Sword 1
+Faithful Friend|Serpent Steel Sword 2
+Iris|Olgierd Sabre
+Belhaven blade|Serpent Steel Sword 3
+Toussaint Ducal Guardsman's steel sword|Guard Lvl1 steel sword 1
+Order of the Flaming Rose sword|Burning Rose Sword
+Toussaint Ducal Guardsman's steel sword|Guard Lvl1 steel sword 2
+Toussaint Ducal Guard Officer's steel sword|Guard Lvl2 steel sword 1
+Legendary Viper venomous steel sword|EP1 Viper School steel sword
+Toussaint Ducal Guard Officer's steel sword|Guard Lvl2 steel sword 2
+Toussaint knight's steel sword|Knights steel sword 1
+Toussaint knight's steel sword|Knights steel sword 2
+Squire's steel sword|Squire steel sword 1
+Squire's steel sword|Squire steel sword 2
+Vitis|Unique steel sword
+Grandmaster forgotten Wolven steel sword|NGP Netflix steel sword 2
+Temerian poniard|guisarme_test
+Velen longsword|axe_test
+Dorian sword|mace_test
+Skellige longsword|dwarven_hammer_test
+Maribor sword|No Mans Land sword 3_crafted
+Blave|Gwent steel sword 1
+Velen longsword|No Mans Land sword 1 q2
+Geralt of Rivia's sword|sq701 Geralt of Rivia sword
+Ravix of Fourhorn's sword|sq701 Ravix of Fourhorn sword
+Forged in Fire|mq7001 Toussaint steel sword
+Ancient elven sword|mq7007 Elven Sword
+The Reckoner|mq7011 Cianfanelli steel sword
+Beauclair steel sword|Hanza steel sword 1
+Sword of a Thousand Flowers|Dol Blathanna longsword
+Spikeroog longsword|Skellige sword 2_crafted
+Laundry pole|Laundry pole
+Dorian sword|No Mans Land sword 2
+Bremervoord blade|No Mans Land sword 4_crafted
+Maribor sword|No Mans Land sword 3
+Scoia'tael sword|Scoiatael sword 2_crafted
+Sword of a Thousand Flowers|NGP Dol Blathanna longsword
+Nine-Tailed Vixen steel sword|Steel Vixen
+Bremervoord blade|No Mans Land sword 4
+Rusty Nilfgaardian sword|Rusty Nilfgaardian sword
+Viper venomous steel sword|NGP EP1 Viper School steel sword
+Nilfgaardian longsword|Nilfgaardian sword 1
+Nine-Tailed Vixen steel sword|NGP Steel Vixen
+Blade from the Bits|Novigraadan sword 4_crafted
+Viper steel sword|NGP Viper School steel sword
+Vicovaro blade|Nilfgaardian sword 3
+Fence board|Plank
+Forgotten Wolven steel sword|Reinald Netflix steel sword
+Toussaint steel sword|Toussaint steel sword 2
+The Caretaker's spade|PC Caretaker Shovel
+Gemmerian steel sword|Nilfgaardian sword 4
+Zireael|Zireael Sword
+Gemmerian steel sword|Nilfgaardian sword 4_crafted
+Rusty Novigrad sword|Rusty Novigraadan sword
+Novigrad longsword|Novigraadan sword 1
+Witcher's steel sword|EP1 Standalone Starting Steel Sword
+Elven steel sword|Scoiatael sword 3_crafted
+Blunt sword|sq303_blunt_sword
+Gildorf sword|Novigraadan sword 2
+Witch hunter's sword|Inquisitor sword 1_crafted
+Feline steel sword|NGP Lynx School steel sword
+Feline steel sword - enhanced|NGP Lynx School steel sword 1
+Feline steel sword - superior|NGP Lynx School steel sword 2
+Feline steel sword - mastercrafted|NGP Lynx School steel sword 3
+Silverton sword|Novigraadan sword 3
+Witcher's steel sword|Long Steel Sword
+Blade from the Bits|Novigraadan sword 4
+Vrihedd Brigade sword|Scoiatael sword 1
+Scoia'tael sword|Scoiatael sword 2
+Blade from the Bits|sq304 Novigraadan sword 4
+Elven steel sword|Scoiatael sword 3
+Witcher's steel sword|EP2 Standalone Starting Steel Sword
+Beauclair steel sword|Hanza steel sword 0
+Witcher's steel sword|NPC Vesemir Steel Sword
+Rusty Skellige sword|Rusty Skellige sword
+Skellige longsword|Skellige sword 1
+Witch Slayer|Inquisitor sword 2_crafted
+Spikeroog longsword|Skellige sword 2
+Faroe blade|Skellige sword 4
+Beauclair steel sword|Hanza steel sword 2
+Wild Hunt warrior's sword|Wild Hunt sword 1
+Wild Hunt warrior's sword - enhanced|Wild Hunt sword 2
+Wild Hunt warrior's sword - superior|Wild Hunt sword 3
+Wild Hunt warrior's sword - mastercrafted|Wild Hunt sword 4
+Wild Hunt warrior's sword - enhanced|Eredin Sword
+Gildorf sword|Novigraadan sword 2_crafted
+Silverton sword|Novigraadan sword 3_crafted
+Clan Hindar sword|Skellige sword 3_crafted
+Grandmaster Feline steel sword|NGP Lynx School steel sword 4
+Faroe blade|Skellige sword 4_crafted
+Grandmaster Griffin steel sword|NGP Gryphon School steel sword 4
+Griffin steel sword|NGP Gryphon School steel sword
+Hen Gaidth steel sword|q704 vampire steel sword
+Griffin steel sword - enhanced|NGP Gryphon School steel sword 1
+Grandmaster Ursine steel sword|NGP Bear School steel sword 4
+Griffin steel sword - superior|NGP Gryphon School steel sword 2
+Griffin steel sword - mastercrafted|NGP Gryphon School steel sword 3
+Vrihedd Brigade sword|Scoiatael sword 1_crafted
+Grandmaster Wolven steel sword|NGP Wolf School steel sword 4
+Red meteorite steel sword|Scoiatael sword 4_crafted
+Manticore steel sword|NGP Red Wolf School steel sword 1
+Legendary Ursine steel sword|Bear School steel sword
+Legendary Ursine steel sword - enhanced|Bear School steel sword 1
+Red meteorite steel sword|Scoiatael sword 4
+Legendary Ursine steel sword - superior|Bear School steel sword 2
+Legendary Ursine steel sword - mastercrafted|Bear School steel sword 3
+Legendary Griffin steel sword|Gryphon School steel sword
+Legendary Griffin steel sword - enhanced|Gryphon School steel sword 1
+Legendary Griffin steel sword - superior|Gryphon School steel sword 2
+Legendary Griffin steel sword - mastercrafted|Gryphon School steel sword 3
+Gildorf sword|Test Player Override Sword
+Poker|Iron Poker
+Legendary Feline steel sword - enhanced|Lynx School steel sword 1
+Metinna blade|Nilfgaardian sword 2
+Witcher's steel sword|Top Notch Steel
+Legendary Feline steel sword - superior|Lynx School steel sword 2
+Witcher's steel sword|NPC Witcher Steel Sword
+Mahakaman steel sword|Dwarven sword 1_crafted
+Legendary Feline steel sword - mastercrafted|Lynx School steel sword 3
+Dwarven blade|Dwarven sword 2_crafted
+Gnomish Gwyhyr|Gnomish sword 1_crafted
+Arbitrator|Arbitrator_crafted
+Tir Tochair blade|Gnomish sword 2_crafted
+Steel shortsword|Short Steel Sword
+Beann'shie|Beannshie_crafted
+Black Unicorn|Blackunicorn_crafted
+Longclaw|Longclaw_crafted
+Wolven steel sword|Wolf School steel sword
+Squire's steel sword|Squire steel sword 3
+Grandmaster legendary Feline steel sword|Lynx School steel sword 4
+Order of the Flaming Rose sword|Burning Rose Sword B
+Grandmaster legendary Griffin steel sword|Gryphon School steel sword 4
+Ursine steel sword|NGP Bear School steel sword
+Grandmaster legendary Ursine steel sword|Bear School steel sword 4
+Ursine steel sword - enhanced|NGP Bear School steel sword 1
+Wolven steel sword - enhanced|Wolf School steel sword 1
+Ursine steel sword - superior|NGP Bear School steel sword 2
+Grandmaster legendary Wolven steel sword|Wolf School steel sword 4
+Ursine steel sword - mastercrafted|NGP Bear School steel sword 3
+Legendary Manticore steel sword|Red Wolf School steel sword 1
+Wolven steel sword - superior|Wolf School steel sword 2
+Horned Hoskuld's sword|mq2038_headsman_sword
+Wolven steel sword - mastercrafted|Wolf School steel sword 3
+Ofieri decorated saber|Hakland Sabre
+Faramond's blade|NGP Serpent Steel Sword 1
+Tesham Mutna steel sword|q702 vampire steel sword
+Faithful Friend|NGP Serpent Steel Sword 2
+Belhaven blade|NGP Serpent Steel Sword 3
+Toussaint Ducal Guardsman's steel sword|NGP Guard lvl1 steel sword 3
+Toussaint Ducal Guard Officer's steel sword|NGP Guard lvl2 steel sword 3
+Toussaint knight's steel sword|NGP Knights steel sword 3
+Legendary Wolven steel sword|NGP Wolf School steel sword
+Ofieri decorated saber|NGP Ofir Sabre 2
+Witcher's steel sword|maw
+Winter's Blade|q402 Skellige sword 3
+Legendary Wolven steel sword - enhanced|NGP Wolf School steel sword 1
+Wooden sword|Wooden sword
+Angivare|Angivare
+Ard'aenye|Ardaenye
+Barber-Surgeon|Barbersurgeon
+Beann'shie|Beannshie
+Viroledan blade|NGP Hanza steel sword 3
+Black Unicorn|Blackunicorn
+Caerme|Caerme
+The Emmentaler|Cheesecutter
+D'yaebl|Dyaebl
+Deireadh|Deireadh
+Hope|Vynbleidd
+Gwyhyr|Gwyhyr
+Forgotten Vran Sword|Forgottenvransword
+Harvall|Harvall
+Carabella|Karabela
+Princess Xenthia's sword|Princessxenthiasword
+Superior Dol Blathanna sword|Robustswordofdolblathanna
+Ashrune|Ashrune
+Longclaw|Longclaw
+Daystar|Daystar
+Devine|Devine
+Bloed Aedd|Bloedeaedd
+Inis|Inis
+Gwestog|Gwestog
+Winter Blade|Abarad
+Wolf|Wolf
+Cleaver hood|Cleaver
+Dancer|Dancer
+Headhunter|Headtaker
+Mourner|Mourner
+Ultimatum|Ultimatum
+Caroline|Caroline
+Lune|Lune
+Glory of the North|Gloryofthenorth
+Legendary Wolven steel sword - superior|NGP Wolf School steel sword 2
+Tor Lara|Torlara
+Toussaint steel sword|NGP Toussaint steel sword 3
+Legendary Wolven steel sword - mastercrafted|NGP Wolf School steel sword 3
+Teigr|mq1058_cat_school_sword
+Tesham Mutna steel sword|NGP q702 vampire steel sword
+Koviri cutlass|Short sword 1_crafted
+Toussaint Ducal Guardsman's steel sword|Guard lvl1 steel sword 3 Autogen
+Temerian poniard|Short sword 2_crafted
+Velen longsword|No Mans Land sword 1_crafted
+Dorian sword|No Mans Land sword 2_crafted
+Order of the Flaming Rose sword|Crafted Burning Rose Sword
+Hjalmar's steel sword|Hjalmar_Short_Steel_Sword
+Order of the Flaming Rose sword|NGP Crafted Burning Rose Sword
+Rusty Velen sword|Rusty No Mans Land sword
+Legendary Feline steel sword|Lynx School steel sword
+Witch Slayer|Inquisitor sword 2
+Skellige longsword|Skellige sword 1_crafted
+Tir Tochair blade|Gnomish sword 2
+Nilfgaardian longsword|Nilfgaardian sword 1_crafted
+Legendary Viper steel sword|Viper School steel sword
+Arbitrator|Arbitrator
+Koviri cutlass|Short sword 1
+Ofieri saber|NGP Crafted Ofir Steel Sword
+Rusty Velen sword|Autogen steel sword
+Novigrad longsword|Novigraadan sword 1_crafted
+Temerian poniard|Short sword 2
+Legendary forgotten Wolven steel sword|Netflix steel sword
+Legendary forgotten Wolven steel sword - mastercrafted|Netflix steel sword 1
+Grandmaster legendary forgotten Wolven steel sword|Netflix steel sword 2
+Iris|NGP Olgierd Sabre
+Zireael|Zireael Phantom Sword
+Mahakaman steel sword|Dwarven sword 1

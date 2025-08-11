@@ -1,0 +1,144 @@
+Manticore silver sword|NGP Red Wolf School silver sword 1
+Legendary Wolven silver sword|NGP Wolf School silver sword
+The Digger|Gnomish silver sword 1
+White Widow of the Valley of Flowers|White Widow of Dol Blathanna
+Legendary Wolven silver sword - enhanced|NGP Wolf School silver sword 1
+Witcher's silver sword|Top Notch Silver
+Legendary Wolven silver sword - superior|NGP Wolf School silver sword 2
+Faustino|Gnomish silver sword 2
+Legendary Wolven silver sword - mastercrafted|NGP Wolf School silver sword 3
+Griffin silver sword|NGP Gryphon School silver sword
+Legendary Griffin silver sword - mastercrafted|Gryphon School silver sword 3
+Griffin silver sword - enhanced|NGP Gryphon School silver sword 1
+Legendary Ursine silver sword|Bear School silver sword
+Griffin silver sword - superior|NGP Gryphon School silver sword 2
+Addan Deith|Addandeith
+Moonblade|Moonblade
+Maugrim|Aerondight
+Bloodsword|Bloodsword
+Deithwen|Deithwen
+Fate|Fate
+Gynvael Aedd|Gynvaelaedd
+Naevde Seidhe|Naevdeseidhe
+Blade of Ys|Bladeofys
+Zerrikanterment|Zerrikanterment
+Anathema|Anathema
+Rose of Shaerrawed|Roseofaelirenn
+Reach of the Damned|Reachofthedamned
+Azure Wrath|Azurewrath
+Deargdeith|Deargdeith
+Arainne|Arainne
+Hav'caaren|Havcaaren
+Loathen|Loathen
+Gynvael|Gynvael
+Anth|Anth
+Weeper|Weeper
+The Bride|Virgin
+Negotiator|Negotiator
+Harpy|Harpy
+Tlareg|Tlareg
+Breath of the North|Breathofthenorth
+Tor Zireael|Torzirael
+Tor'haerne|mq4005 Silver sword 6_crafted
+Griffin silver sword - mastercrafted|NGP Gryphon School silver sword 3
+Legendary Ursine silver sword - enhanced|Bear School silver sword 1
+Nine-Tailed Vixen silver sword|Silver Vixen
+Legendary Ursine silver sword - superior|Bear School silver sword 2
+Legendary Ursine silver sword - mastercrafted|Bear School silver sword 3
+Legendary Feline silver sword|Lynx School silver sword
+Legendary Feline silver sword - enhanced|Lynx School silver sword 1
+Dahlia|EP2 Silver sword 1R
+Legendary Feline silver sword - superior|Lynx School silver sword 2
+Stigsel|Unique silver sword
+Legendary Feline silver sword - mastercrafted|Lynx School silver sword 3
+Legendary Griffin silver sword|Gryphon School silver sword
+Legendary Griffin silver sword - enhanced|Gryphon School silver sword 1
+Legendary Griffin silver sword - superior|Gryphon School silver sword 2
+Viper venomous silver sword|NGP EP1 Viper School silver sword
+Tor'haerne|Silver sword 6_crafted
+Dahlia|EP2 Silver sword 1
+Fen'aeth|Serpent Silver Sword 1
+Tah'rel|Serpent Silver Sword 2
+Gesheft|Serpent Silver Sword 3
+Legendary Viper silver sword|Viper School silver sword
+An'ferthe|Silver sword 7_crafted
+Disglair|Silver sword 1
+Torlunn|Elven silver sword 1_crafted
+Forgotten Wolven silver sword|NGP Netflix silver sword
+Forgotten Wolven silver sword - mastercrafted|NGP Netflix silver sword 1
+Legendary Viper venomous silver sword|EP1 Viper School silver sword
+Melltith|Elven silver sword 2_crafted
+Bleidd|WitcherSilverWolf
+Aerondight|Aerondight EP2
+Grandmaster forgotten Wolven silver sword|NGP Netflix silver sword 2
+Witcher's silver sword|EP1 Standalone Starting Silver Sword
+The Tamer|Dwarven silver sword 1_crafted
+Witcher's silver sword|NPC Witcher Silver Sword q403 upgrade
+Steiger|Dwarven silver sword 2_crafted
+Weeper|Weeper_crafted
+Ami|EP2 Silver sword 3
+White Widow of the Valley of Flowers|NGP White Widow of Dol Blathanna
+Harpy|Harpy_crafted
+The Digger|Gnomish silver sword 1_crafted
+Negotiator|Negotiator_crafted
+Grandmaster legendary Feline silver sword|Lynx School silver sword 4
+Ami|EP2 Silver sword 3R
+Grandmaster legendary Griffin silver sword|Gryphon School silver sword 4
+Fen'aeth|Serpent Silver Sword 1 Autogen
+Grandmaster legendary Ursine silver sword|Bear School silver sword 4
+Nine-Tailed Vixen silver sword|NGP Silver Vixen
+Witcher's silver sword|EP2 Standalone Starting Silver Sword
+Viper silver sword|NGP Viper School silver sword
+Zireael|q505 crafted sword
+Faustino|Gnomish silver sword 2_crafted
+Grandmaster legendary Wolven silver sword|Wolf School silver sword 4
+Cantata|q704 vampire silver sword
+Legendary Manticore silver sword|Red Wolf School silver sword 1
+Disglair|Silver sword 1_crafted
+Gven'nel|Silver sword 2_crafted
+Mastercrafted silver sword|Silver sword 3_crafted
+Wolven silver sword|Wolf School silver sword
+Ursine silver sword|NGP Bear School silver sword
+Fen'aeth|NGP Serpent Silver Sword 1
+Ursine silver sword - enhanced|NGP Bear School silver sword 1
+Tah'rel|NGP Serpent Silver Sword 2
+Ursine silver sword - superior|NGP Bear School silver sword 2
+Gesheft|NGP Serpent Silver Sword 3
+Ursine silver sword - mastercrafted|NGP Bear School silver sword 3
+Wolven silver sword - enhanced|Wolf School silver sword 1
+Eirlithrad|Silver sword 4_crafted
+Wolven silver sword - superior|Wolf School silver sword 2
+Wolven silver sword - mastercrafted|Wolf School silver sword 3
+Casus Foederis|EP2 Silver sword 2
+Gven'nel|Silver sword 2
+Mastercrafted silver sword|Silver sword 3
+Feline silver sword|NGP Lynx School silver sword
+Feline silver sword - enhanced|NGP Lynx School silver sword 1
+Feline silver sword - superior|NGP Lynx School silver sword 2
+Feline silver sword - mastercrafted|NGP Lynx School silver sword 3
+The Adversary|Silver sword 5_crafted
+Eirlithrad|Silver sword 4
+Witcher's silver sword|NPC Vesemir Silver Sword
+The Adversary|Silver sword 5
+Witcher's silver sword|NPC Witcher Silver Sword
+Witcher's silver sword|NPC Vesemir Silver Sword q403 upgrade
+Witcher's silver sword|Witcher Silver Sword
+Tor'haerne|Silver sword 6
+An'ferthe|Silver sword 7
+The Striga|Silver sword 8
+Forgotten Wolven silver sword|Reinald Netflix silver sword
+The Tamer|Dwarven silver sword 1
+Legendary forgotten Wolven silver sword|Netflix silver sword
+Disglair|Autogen silver sword
+Legendary forgotten Wolven silver sword - mastercrafted|Netflix silver sword 1
+Grandmaster legendary forgotten Wolven silver sword|Netflix silver sword 2
+Steiger|Dwarven silver sword 2
+Grandmaster Feline silver sword|NGP Lynx School silver sword 4
+Torlunn|Elven silver sword 1
+Grandmaster Griffin silver sword|NGP Gryphon School silver sword 4
+Pang of Conscience|DLC10_Remorse
+Sarrim|EP1 Crafted Witcher Silver Sword
+Grandmaster Ursine silver sword|NGP Bear School silver sword 4
+Sarrim|NGP EP1 Crafted Witcher Silver Sword
+Grandmaster Wolven silver sword|NGP Wolf School silver sword 4
+Melltith|Elven silver sword 2

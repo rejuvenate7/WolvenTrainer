@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<Config>
+	<FirstLoad>false</FirstLoad>
+	<Theme>blue</Theme>
+	<Key>115</Key>
+	<Profile />
+	<Language>English</Language>
+	<Controller>RB + A</Controller>
+</Config>

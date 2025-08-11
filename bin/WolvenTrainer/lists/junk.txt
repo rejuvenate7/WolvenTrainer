@@ -1,0 +1,377 @@
+Squirrel tail|sq305_trophies
+Path of Warriors completion token|mq2043_conviction_token
+Damaged eyes|sq302_eyes
+Silver seaweed ring|mq4003_siren_ring
+Phoenix egg|q701_phoenix_egg
+Massive ring|mq4003_husband_ring
+Rusty breadknife|Old rusty breadknife
+Boy's remains|mq4004_boy_remains
+Old necklace|q108_necklet
+Assassin's knife|mh103_killers_knife
+Saltpeter|Salt pepper shaker
+Grave hag skull|mh106_hags_skulls
+Boar tusk|Boar tusk
+Fiend dung|mh107_fiend_dung
+Boar pelt|Boar pelt
+Lizard figurine|mq1002_artifact_1
+Portrait of Geralt|mq7009_painting_pose2_ravix
+Portrait of Geralt|mq7009_painting_pose2_grif_ravix
+Cellar key|mh307_minion_lair_key
+Silver dagger|mh308_dagger
+Razor|Razor
+Lute|Lute
+Agate|sq302_agates
+Corkscrew|Loot_Corkscrew
+Axe head|Axe head
+Bald Mountain key|q111_fugas_top_key
+Pickaxe head|Pickaxe head
+Aspen-wood stake|Vampire Stake
+Cursed fang|sq201_cursed_jewel
+Rusty hammer head|Rusty hammer head
+False teeth|Loot_Fake teeth
+Defier's Oren|q111_falkas_coin
+Blunt axe|Blunt axe
+Spyglass|mq1051_spyglass
+Blunt pickaxe|Blunt pickaxe
+Magic acorn|q111_imlerith_acorn
+Old pamphlet|q705_note_ab_syanna
+A letter from Fringilla Vigo to Carthia van Canten|q705_note_from_sasha1
+A letter from Prince Anseis to Carthia van Canten|q705_note_from_sasha2
+Chain|Chain
+Bull figurine|mq1002_artifact_2
+Mead|q201_mead
+Old key|mq2006_key_2
+Cone|q201_pine_cone
+Broken seal|sq202_half_seal
+Skull|q201_skull
+Letter of safe conduct|sq305_conduct
+Baron's dagger|q103_baron_dagger
+Shackles|q202_shackles
+Wolf heart|sq204_wolf_heart
+Sail|q202_sail
+Snake figurine|mq1002_artifact_3
+Nails|q202_nails
+Peacock feather|Peacock feather
+Dull meteorite axe|Dull meteorite axe
+Broken meteorite pickaxe|Broken meteorite pickaxe
+Silver breadknife|Hotel silver breadknife
+Silver goblet|Hotel silver goblet
+Silver teapot|Hotel silver teapot
+Beauclair silver fruit bowl|Hotel silver fruitbowl
+Silver tray|Hotel silver serving tray
+Beauclair silver-plated wine bottle|Hotel silver wine bottle
+Beauclair silver goblet|Hotel silver cup
+Copper salt and pepper shakers|Copper salt pepper shaker
+Copper mug|Copper mug
+Copper platter|Copper platter
+Copper case|Copper casket
+Silver candlestick|Copper candelabra
+Cupronickel axe-head|Cupronickel axe head
+Cupronickel pickaxe head|Cupronickel pickaxe head
+Copper chain|Copper chain
+Leshen's amulet|sq204_leshy_talisman
+Broken Mask of Uroboros|q203_broken_eyeofloki
+Key to cellar|q203_chest_key
+Julian Alfred Pankratz, Viscount de Lettenhove|mq7024_painting_novigrad_dandelion
+Pimpernel|sq205_fernflower_petal
+Brokvar|q203_broksvard
+Jade figurine|mq3012_soldier_statuette
+Aretuza's Tower at Sundown|mq7024_gen_painting_landscape_a
+Ruins of an Old Fort|mq7024_gen_painting_landscape_b
+Toussaint knife|Touissant knife
+Harvest Time in White Orchard|mq7024_gen_painting_landscape_c
+Corks|Bottle caps
+False teeth|Fake teeth
+Corkscrew|Corkscrew
+Gingerbread man|Gingerbread man
+Expensive toys|Toys rich
+Table setting|Teapot teacups
+Bone ashes|Skeletal ashes
+Magic mirror shard|Magic mirror shard
+Magic dust|Magic dust
+Four-leaf clover|Fourleaf clover
+Herbalist's Hut|mq7024_gen_painting_landscape_d
+Magic gold|Magic gold
+Van Rogh (Self-Portrait)|mq7024_gen_painting_portrait_a
+Garibaldi Hagan, 1224|mq7024_gen_painting_portrait_b
+Auburn Maiden on a Field of Black|mq7024_gen_painting_portrait_c
+Spice Merchant, 1212 (reproduction)|mq7024_painting_merchantwithpearl
+Ship Leaving Harbor, 1220 (reproduction)|mq7024_painting_harbour
+Mash|sq205_preserved_mash
+The Beauclair Palace|mq7024_palace_painting
+The Battle of Anghiari, 1206 (reproduction)|mq7024_painting_battlefield
+The Coming of Ludovic (reproduction)|mq7024_mandragora_painting_04
+Matilda's First Steps (reproduction)|mq7024_mandragora_painting_03
+The Conception of Eduard (reproduction)|mq7024_mandragora_painting_02
+Knight Returning from his Quest|mq7024_painting_knight_on_horse
+Cirilla Fiona Elen Riannon, Queen of Cintra|mq7024_painting_ciri_portrait
+Skellige shawl|mq2030_shawl
+Skellige spirit|sq205_moonshine_spirit
+Emhyr var Emreis, Emperor of Nilfgaard|mq7024_painting_emhyr_portrait
+Assire var Anahid's necklace|Assire var Anahid's Necklace
+Vattier de Rideaux's dagger|Vattier de Rideaux's Dagger
+Glass|q604_chalice
+Elf head|mq1006_elf_head
+Leftover mead|q206_wine_sample
+Hjort's herbs|q206_herb_mixture
+Strange meat|mq6002_strange_meat
+Paint|mq1022_paint
+Remarks Concerning the Death of Auberon|q210_avallach_notes_01
+Spoon made of pure gold|poi_car_a_07_spoon
+Spoon|Spoon
+Caranthir's Progress|q210_avallach_notes_02
+Tales and Legends About Humans|q210_avallach_lover_notes
+Unusual severed hand|dettlaff_arm
+Wedding ring|mq1010_ring
+Sunstone|q210_solarstein
+Violet rose|q604_iris_flower
+Black pearl|mq3031_mother_of_pearl
+Rose of Remembrance|q301_rose_remembrance
+Leather sack|q301_triss_parcel
+Chest key|mq2037_drakkar_chest_key
+Magic incense|q301_magic_rat_incense
+Temple key|sq201_chamber_key
+Padlock key|sq201_padlock_key
+Rag doll|q301_haunted_doll
+Bundle of burdock|q301_burdock
+Dragonsroot|mq1050_dragon_root
+Perfume|Perfume
+Key to Whoreson Junior's estate|q302_estate_key
+Igor's key|q302_ring_door_key
+Handkerchief monogrammed "d.l.C."|q701_victim_handkarchief
+Pouch filled with florens|q701_coin_pouch
+Key from the Golden Fish|q701_swan_item
+Fragment of a silver cylinder|q303_bomb_fragment
+Silver lid|q303_bomb_cap
+Ornamented brush|q604_comb
+Candelabrum|Candelabra
+Portrait of Iris and Olgierd|q604_small_painting
+Lost ring|q701_gardens_lost_ring
+Casket|Casket
+Bottle of wine|q303_wine_bottle
+Wight saliva gland|q702_wight_gland
+Gold casket|Golden casket
+Wight brew|q702_wight_brew
+Eternal Fire letter of safe conduct|q309_glejt_from_dijkstra
+Disgusting wight key|q702_wicht_key
+Fork|q702_wicht_fork
+Pegasus signet|q305_dandelion_signet
+Scavenger bait|q702_graveir_lure
+Key|q309_key_piece1
+Key|q309_key_piece2
+Key|q309_key_piece3
+Count Romilly's figurine|q603_antique_statue
+Old wine from Toussaint|q310_wine
+Bag of weed|Bag of weed
+Glass|Glass
+Beeswax candles|q604_candles
+Stone medallion|mq2048_stone_medalion
+Gold plate|Golden platter
+Lever|q310_lever
+Silver pantaloons|Silver pantaloons
+Magic trinket from Yennefer|q310_yen_trinket
+Piece of chalk|q604_chalk
+Silverware|Silverware
+Vizimir II's ring|mq3035_philppa_ring
+Silver teapot|Silver teapot
+Sewer key|q310_sewer_door_key
+Silver mug|Silver mug
+Barrel tap|q703_bung
+Silver candelabrum|Silver candelabra
+Valuable jewel|q703_heart_of_toussaint
+Silver platter|Silver platter
+Decorated hunting knife|q703_unique_hunting_knife
+Wooden hammer|q703_wooden_hammer
+Silver casket|Silver casket
+Magic key|q704_orianas_vampire_key
+Cell key|q310_cell_key
+Ornate sword|Ornate silver sword replica
+Locked strongbox|mq0002_box
+Gold diamond necklace|mq2037_dowry
+Ornate shield|Ornate silver shield replica
+Yellow bean|q704_ft_bean_01
+Blue bean|q704_ft_bean_02
+Iris von Everec's remains|q604_iris_remains
+Red bean|q704_ft_bean_03
+Little Red Riding Hood's hood|q704_ft_riding_hoods_hood
+Decorative pipe|q704_ft_pipe
+Golden egg|q704_ft_golden_egg
+Bottle caps|q704_ft_bottle_caps
+Corkscrew|q704_ft_corkscrew
+Fake tooth|q704_ft_fake_teeth
+Torch|Torch
+Letter revealing the fifth victim|q705_ah_letter
+Doll|Child doll
+Forktail Spinal Fluid|q401_forktail_brain
+The Order of Vitis Vinifera|q705_medal
+Bouquet of white roses|q705_white_roses
+Picked mandrake root|q705_mandragora
+Grindstone|Weapon repair kit 1
+Small hammer and chisel for carving stone|q705_hammer_chisel
+Polished crystal|sq302_crystal
+Von Everec blood|q602_olgierd_blood
+Sir Geralt of Rivia's shield|sq701_geralt_shield
+Ravix of Fourhorn's shield|sq701_ravix_shield
+Grindstone|Weapon repair kit 2
+Odorous peacock feather|sq703_peacock_feather
+Triss' earring|q401_triss_earring
+Grindstone|Weapon repair kit 3
+The White Wolf, by Count Beledal|sq703_safari_picture
+Flowers|Flowers
+Magic firefly|q401_avallachs_wisp
+Basic armorer's equipment|Armor repair kit 1
+Advanced armorer's equipment|Armor repair kit 2
+Professional armorer's equipment|Armor repair kit 3
+Wooden spoon|Spoon wooden
+Urn with ashes of Louis de Corentin|mq7001_louis_urn
+Urn with ashes of Margot de Corentin|mq7001_margot_urn
+Candle lantern|Oil Lamp
+Gnawed-on spoon|Spoon wooden 2
+Patched up vest|Patchwork vest
+Metal spoon|Spoon metal
+Ornate bracelet|mq0003_ornate_bracelet
+Tempered spoon|Spoon metal 2
+Phylactery|ciris_phylactery
+Sealed bottle|q105_johnnys_doll
+Silver spoon|Spoon silver
+Skull|Skull
+Polished spoon|Spoon silver 2
+Anti-vampire garlic|Garlic
+Ancient elven shield|mq7007_elven_shield
+Gold spoon|Spoon gold
+Cleansing mixture|q603_diarrhea_potion
+Portrait of Geralt|mq7009_painting_pose1
+Portrait of Geralt|mq7009_painting_pose1_grif
+Portrait of Geralt|mq7009_painting_pose2
+Portrait of Geralt|mq7009_painting_pose2_grif
+Portrait of Geralt|mq7009_painting_pose3
+Bourgeois family's ancestral spoon|Spoon gold 2
+Portrait of Geralt|mq7009_painting_pose3_grif
+Bootlegger's notes|mq7010_still_note
+Note|Note
+Reginald statue's genitals|mq7015_reginalds_balls
+Reginald figurine|mq7015_reginalds_figurine
+Power cell|sq302_generator_2
+Black magic doll|Voodoo doll
+Ancient monster bone|lw_001_monstrous_remains
+Mirror|Silver mirror
+Jump rope|Jumping rope
+Kuliu|mq2001_kuilu
+Painting of Hierarch Hemmelfart|q305_painting_of_hemmelfart
+Power cell|sq302_generator_3
+Fishing net|Fishing net
+Bards' belongings|mq3016_bards_belongings
+Flute|Flute_junk
+Key|mq3039_loot_chest_key
+Tableware|sq202_tableware
+Mug|Mug
+Crystal skull|q001_crystal_skull
+Ladle|Ladle
+Silver monocle|mq0004_thalers_monocle
+Smoking pipe|Smoking pipe
+Top|q103_spinning_top
+Hendrik's key|q101_hendrik_trapdoor_key
+Platter|Platter
+Hornwall horn|q202_navigator_horn
+Fishing rod|Fishing rod
+Fisstech|FT_Fisstech
+Bucket and rag|q401_bucket_and_rag
+Hugo Hoff's ear|q603_ear
+Drum|Drum
+Bear hide|Bear pelt
+Talisman|q103_medallion
+Haft|Haft
+Holger Blackhand's horn|mq2001_horn
+Broken oar|Broken paddle
+Broken rake|Broken rakes
+Botchling blood|q103_botch_blood
+Rope ladder|Wooden rung rope ladder
+Deer hide|Deer hide
+Frying pan|mq0004_frying_pan
+Ashes|Ashes
+Valuable fossil|Valuable fossil
+Lead|Lead ore
+Cloth doll|q103_wooden_doll
+Holy oil|mq1019_oil
+Wooden amulet|q103_talisman
+Rotting flesh|Rotten meat
+Candle|Candle
+Dog collar|mq1001_dog_collar
+Vial|Empty vial
+Incense|q103_incense
+Key|q309_three_keys_combined
+Inkwell|Inkwell
+Jar|Jar
+Eye of Nehaleni|q104_oillamp
+Flask|Flask
+Goat hide|Goat hide
+Trial of Dexterity completion token|mq2041_dexterity_token
+Bottle|Bottle
+Jug|Jug
+Raven's feather|q105_ravens_feather
+Parchment|Parchment
+Horse hide|Horse hide
+Solid Skellige sword|mq2002_sword
+Fisstech|Fisstech
+Crones' dagger|q105_ritual_dagger
+Glamour|Glamarye
+Jewel case|q505_gems
+High-quality smithing tools|sq108_smith_tools
+Ealdorman of Downwarren's ear|q105_soltis_ear
+Shell|Shell
+Sea shell|Seashell
+Pig hide|Pig hide
+Stable key|q310_backdoor_key
+Woman's remains|q105_witch_bones
+Mead|Shani Alcohol 2
+Worn leather pelt|Worn leather pelt
+Rowanberry brandy|Shani Alcohol 1
+Chamomile|Shani Flower 3
+Rowan branch|Shani Flower 1
+Gold ball|Golden ball
+Package for Keira|sq101_safe_goods
+Golden thread|Golden thread
+Rabbit pelt|Rabbit pelt
+Squirrel tail|Scoiatael trophies
+Xenovox|q106_magic_communicator
+Fox hide|Fox pelt
+Key|mq1001_locker_key
+Anabelle's remains|q106_anabelle_remains
+Nilfgaardian Special Forces insignia|Nilfgaardian special forces insignia
+Niellen's key|sq104_key
+Potion vial|q106_anabelle_vial
+Rose of Remembrance|Rose of memories
+Temerian Special Forces insignia|Temerian special forces insignia
+Crones' doll|q107_doll1
+Redanian special forces insignia|Redanian special forces insignia
+Key to the Hog Hut|sq107_vault_key
+Old goat hide|Old goat skin
+Crones' doll|q107_doll2
+Old sheepskin|Old sheep skin
+Jade figurine|mq3012_noble_statuette
+Book|Book
+Strange apparatus|q704_vampire_artifact_strange_aparatus
+Strange copper tablet|q704_vampire_artifact_copper_tablet
+Crones' doll|q107_doll3
+Ancient coins|q704_vampire_artifact_strange_coins
+Strange jewelry|q704_vampire_artifact_jewelry_1
+Strange jewelry|q704_vampire_artifact_jewelry_2
+Strange skull|q704_vampire_artifact_skull
+Statuette of a winged humanoid|q704_vampire_artifact_statuette
+Old bear hide|Old bear skin
+Magical Bracelet|Horse Bracelet
+Polished crystal|th1009_crystal
+Cow hide|Cow hide
+Crones' doll|q107_doll_anna
+Archgriffin acid gland|sq108_acid_gland
+White bear hide|White bear pelt
+Crones' doll|q107_doll5
+White wolf hide|White wolf pelt
+Melitele figurine|Melitele figurine
+Wolf hide|Wolf pelt
+Old key|mq2006_key_1
+Butter knife|Bandalur butter knife
+Corks|Loot_Bottle caps
+Crones' doll|q107_doll6
+Goblet|Goblet
+Bedroom key|q001_bedroom_key

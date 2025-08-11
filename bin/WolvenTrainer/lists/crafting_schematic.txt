@@ -1,0 +1,462 @@
+Mountain Folk boots|Boots 7 schematic
+Condottiere's boots|Heavy Boots 7 schematic
+Alder Folk boots|Heavy Boots 8 schematic
+Lesser runestone|Runestone lesser schematic
+Greater runestone|Runestone greater schematic
+Feline crossbow|Lynx School Crossbow schematic
+Amateur's weapon repair kit|WeaponRepairKit_1 schematic
+Journeyman's weapon repair kit|WeaponRepairKit_2 schematic
+Master's weapon repair kit|WeaponRepairKit_3 schematic
+Amateur's armor repair kit|ArmorRepairKit_1 schematic
+Journeyman's armor repair kit|ArmorRepairKit_2 schematic
+Tor'haerne|mq4005 Silver sword 6 schematic
+Master's armor repair kit|ArmorRepairKit_3 schematic
+Lesser Glyph of Infusion|Glyph infusion lesser schematic
+Greater Glyph of Infusion|Glyph infusion greater schematic
+Lesser Glyph of Aard|Glyph aard lesser schematic
+Glyph of Aard|Glyph aard schematic
+Greater Glyph of Aard|Glyph aard greater schematic
+Lesser Glyph of Axii|Glyph axii lesser schematic
+Glyph of Axii|Glyph axii schematic
+Greater Glyph of Axii|Glyph axii greater schematic
+Lesser Glyph of Igni|Glyph igni lesser schematic
+Glyph of Igni|Glyph igni schematic
+Pyerog runestone|Rune pierog schematic
+Greater Glyph of Igni|Glyph igni greater schematic
+Tvarog runestone|Rune tvarog schematic
+Lesser Glyph of Warding|Glyph warding lesser schematic
+Lesser Glyph of Quen|Glyph quen lesser schematic
+Glyph of Warding|Glyph warding schematic
+Glyph of Quen|Glyph quen schematic
+Greater Glyph of Warding|Glyph warding greater schematic
+Greater Glyph of Quen|Glyph quen greater schematic
+Lesser Glyph of Binding|Glyph binding lesser schematic
+Glyph of Binding|Glyph binding schematic
+Lesser Glyph of Yrden|Glyph yrden lesser schematic
+Greater Glyph of Binding|Glyph binding greater schematic
+Glyph of Yrden|Glyph yrden schematic
+Lesser Glyph of Reinforcement|Glyph reinforcement lesser schematic
+Forgotten Wolven steel sword|Netflix steel sword schematic
+Glyph of Reinforcement|Glyph reinforcement schematic
+Forgotten Wolven steel sword - mastercrafted|Netflix steel sword schematic 1
+Greater Glyph of Reinforcement|Glyph reinforcement greater schematic
+Grandmaster forgotten Wolven steel sword|Netflix steel sword schematic 2
+Lesser Glyph of Mending|Glyph mending lesser schematic
+Forgotten Wolven silver sword|Netflix silver sword schematic
+Glyph of Mending|Glyph mending schematic
+Forgotten Wolven silver sword - mastercrafted|Netflix silver sword schematic 1
+Greater Glyph of Mending|Glyph mending greater schematic
+Grandmaster forgotten Wolven silver sword|Netflix silver sword schematic 2
+Concealment kit|Concealment Kit schematic
+Greater Glyph of Yrden|Glyph yrden greater schematic
+Sarrim|EP1 Crafted Witcher Silver Sword schematic
+Viper venomous silver sword|EP1 Viper School silver sword schematic
+Forgotten Wolven armor|Netflix Armor schematic
+Order of the Flaming Rose armor|Crafted Burning Rose Armor schematic
+Order of the Flaming Rose gauntlets|Crafted Burning Rose Gloves schematic
+Mastercrafted forgotten Wolven armor|Netflix Armor schematic 1
+Grandmaster forgotten Wolven armor|Netflix Armor schematic 2
+Forgotten Wolven gauntlets|Netflix Gloves schematic
+Mastercrafted forgotten Wolven gauntlets|Netflix Gloves schematic 1
+Grandmaster forgotten Wolven gauntlets|Netflix Gloves schematic 2
+Forgotten Wolven trousers|Netflix Pants schematic
+Mastercrafted forgotten Wolven trousers|Netflix Pants schematic 1
+Grandmaster forgotten Wolven trousers|Netflix Pants schematic 2
+Legendary Manticore steel sword|Red Wolf School steel sword Upgrade schematic 2
+Faramond's blade|Serpent Steel Sword schematic 1
+Faithful Friend|Serpent Steel Sword schematic 2
+Belhaven blade|Serpent Steel Sword schematic 3
+Toussaint Ducal Guardsman's steel sword|Guard Lvl1 steel sword 3 schematic
+Toussaint Ducal Guard Officer's steel sword|Guard Lvl2 steel sword 3 schematic
+Toussaint knight's steel sword|Knights Geralt steel sword 3 schematic
+Viroledan blade|Hanza steel sword 3 schematic
+Toussaint steel sword|Toussaint steel sword 3 schematic
+Legendary Manticore silver sword|Red Wolf School silver sword Upgrade schematic 2
+Maribor sword|No Mans Land sword 3 schematic
+Fen'aeth|Serpent Silver Sword schematic 1
+Tah'rel|Serpent Silver Sword schematic 2
+Gesheft|Serpent Silver Sword schematic 3
+Scoia'tael sword|Scoiatael sword 2 schematic
+Elven steel sword|Scoiatael sword 3 schematic
+Novigrad longsword|Novigraadan sword 1 schematic
+Blade from the Bits|Novigraadan sword 4 schematic
+Legendary Manticore armor|Witcher Red Wolf Jacket Upgrade schematic 2
+Legendary Manticore gauntlets|Witcher Red Wolf Gloves Upgrade schematic 2
+Grandmaster legendary Manticore boots|Witcher Red Wolf Boots Upgrade schematic 2
+Legendary Manticore trousers|Witcher Red Wolf Pants Upgrade schematic 2
+Toussaint Ducal Guardsman's armor|Guard Lvl1 Armor 3 schematic
+Toussaint Ducal Guardsman's gauntlets|Guard Lvl1 Gloves 3 schematic
+Toussaint Ducal Guardsman's boots|Guard Lvl1 Boots 3 schematic
+Toussaint Ducal Guardsman's trousers|Guard Lvl1 Pants 3 schematic
+Toussaint Color Guardsman's armor|Guard Lvl1 A Armor 3 schematic
+Toussaint Color Guardsman's gauntlets|Guard Lvl1 A Gloves 3 schematic
+Toussaint Color Guardsman's boots|Guard Lvl1 A Boots 3 schematic
+Toussaint Color Guardsman's trousers|Guard Lvl1 A Pants 3 schematic
+Toussaint Ducal Guard Officer's armor|Guard Lvl2 Armor 3 schematic
+Toussaint Ducal Guard Officer's gauntlets|Guard Lvl2 Gloves 3 schematic
+Toussaint Ducal Guard Officer's boots|Guard Lvl2 Boots 3 schematic
+Toussaint Ducal Guard Officer's trousers|Guard Lvl2 Pants 3 schematic
+Toussaint Ducal Guard Captain's armor|Guard Lvl2 A Armor 3 schematic
+Toussaint Ducal Guard Captain's gauntlets|Guard Lvl2 A Gloves 3 schematic
+Toussaint Ducal Guard Captain's boots|Guard Lvl2 A Boots 3 schematic
+Toussaint Ducal Guard Captain's trousers|Guard Lvl2 A Pants 3 schematic
+Toussaint knight's armor|Knight Geralt Armor 3 schematic
+Toussaint knight's gauntlets|Knight Geralt Gloves 3 schematic
+Toussaint knight's boots|Knight Geralt Boots 3 schematic
+Toussaint knight's trousers|Knight Geralt Pants 3 schematic
+Toussaint knight's tourney armor|Knight Geralt A Armor 3 schematic
+Toussaint knight's tourney gauntlets|Knight Geralt A Gloves 3 schematic
+Toussaint knight's tourney boots|Knight Geralt A Boots 3 schematic
+Toussaint knight's tourney trousers|Knight Geralt A Pants 3 schematic
+Infused slyzard hide|Draconide infused leather schematic
+Nickel ore|Nickel ore schematic
+Cupronickel ore|Cupronickel ore schematic
+Copper ore|Copper ore schematic
+Copper ingot|Copper ingot schematic
+Copper plate|Copper plate schematic
+Green gold ore|Green gold ore schematic
+Green gold ingot|Green gold ingot schematic
+Green gold plate|Green gold plate schematic
+Orichalcum ore|Orichalcum ore schematic
+Cintrian-style orichalcum ore|Orichalcum ore schematic 1
+Orichalcum ingot|Orichalcum ingot schematic
+Orichalcum plate|Orichalcum plate schematic
+Enriched dimeritium ore|Dwimeryte enriched ore schematic
+Enriched dimeritium ingot|Dwimeryte enriched ingot schematic
+Enriched dimeritium plate|Dwimeryte enriched plate schematic
+Forgotten Wolven boots|Netflix Boots schematic
+Mastercrafted forgotten Wolven boots|Netflix Boots schematic 1
+Order of the Flaming Rose sword|Crafted Burning Rose Sword schematic
+Grandmaster forgotten Wolven boots|Netflix Boots schematic 2
+Forgotten Wolven steel sword|NGP Netflix steel sword schematic
+Mastercrafted Griffin boots|Witcher Gryphon Boots Upgrade schematic 3
+Mastercrafted Griffin trousers|Witcher Gryphon Pants Upgrade schematic 3
+Mastercrafted Griffin gauntlets|Witcher Gryphon Gloves Upgrade schematic 3
+Superior Griffin boots|Witcher Gryphon Boots Upgrade schematic 2
+Superior Griffin trousers|Witcher Gryphon Pants Upgrade schematic 2
+Superior Griffin gauntlets|Witcher Gryphon Gloves Upgrade schematic 2
+Guardsman's boots|Heavy Boots 2 schematic
+Axeman's boots|Heavy Boots 1 schematic
+Hunter's trousers|Pants 1 schematic
+Sapper's trousers|Heavy Pants 2 schematic
+Forgotten Wolven steel sword - mastercrafted|NGP Netflix steel sword schematic 1
+Grandmaster forgotten Wolven steel sword|NGP Netflix steel sword schematic 2
+Mastercrafted Ursine boots|Witcher Bear Boots Upgrade schematic 3
+Mastercrafted Ursine trousers|Witcher Bear Pants Upgrade schematic 3
+Mastercrafted Ursine gauntlets|Witcher Bear Gloves Upgrade schematic 3
+Superior Ursine boots|Witcher Bear Boots Upgrade schematic 2
+Superior Ursine trousers|Witcher Bear Pants Upgrade schematic 2
+Superior Ursine gauntlets|Witcher Bear Gloves Upgrade schematic 2
+Forgotten Wolven silver sword|NGP Netflix silver sword schematic
+Superior Wolven gauntlets|Witcher Wolf Gloves Upgrade schematic 2
+Mastercrafted Wolven gauntlets|Witcher Wolf Gloves Upgrade schematic 3
+Superior Wolven trousers|Witcher Wolf Pants Upgrade schematic 2
+Mastercrafted Wolven trousers|Witcher Wolf Pants Upgrade schematic 3
+Superior Wolven boots|Witcher Wolf Boots Upgrade schematic 2
+Mastercrafted Wolven boots|Witcher Wolf Boots Upgrade schematic 3
+Legendary Wolven armor|NGP Wolf Armor schematic
+Enhanced legendary Wolven armor|NGP Witcher Wolf Jacket Upgrade schematic 1
+Superior legendary Wolven armor|NGP Witcher Wolf Jacket Upgrade schematic 2
+Mastercrafted legendary Wolven armor|NGP Witcher Wolf Jacket Upgrade schematic 3
+Legendary Wolven gauntlets|NGP Wolf Gloves schematic
+Enhanced legendary Wolven gauntlets|NGP Witcher Wolf Gloves Upgrade schematic 1
+Superior legendary Wolven gauntlets|NGP Witcher Wolf Gloves Upgrade schematic 2
+Mastercrafted legendary Wolven gauntlets|NGP Witcher Wolf Gloves Upgrade schematic 3
+Legendary Wolven trousers|NGP Wolf Pants schematic
+Enhanced legendary Wolven trousers|NGP Witcher Wolf Pants Upgrade schematic 1
+Superior legendary Wolven trousers|NGP Witcher Wolf Pants Upgrade schematic 2
+Mastercrafted legendary Wolven trousers|NGP Witcher Wolf Pants Upgrade schematic 3
+Legendary Wolven boots|NGP Wolf Boots schematic
+Enhanced legendary Wolven boots|NGP Witcher Wolf Boots Upgrade schematic 1
+Superior legendary Wolven boots|NGP Witcher Wolf Boots Upgrade schematic 2
+Mastercrafted legendary Wolven boots|NGP Witcher Wolf Boots Upgrade schematic 3
+Legendary Wolven steel sword|NGP Wolf School steel sword schematic
+Legendary Wolven steel sword - enhanced|NGP Wolf School steel sword Upgrade schematic 1
+Legendary Wolven steel sword - superior|NGP Wolf School steel sword Upgrade schematic 2
+Legendary Wolven steel sword - mastercrafted|NGP Wolf School steel sword Upgrade schematic 3
+Legendary Wolven silver sword|NGP Wolf School silver sword schematic
+Legendary Wolven silver sword - enhanced|NGP Wolf School silver sword Upgrade schematic 1
+Legendary Wolven silver sword - superior|NGP Wolf School silver sword Upgrade schematic 2
+Legendary Wolven silver sword - mastercrafted|NGP Wolf School silver sword Upgrade schematic 3
+Forgotten Wolven silver sword - mastercrafted|NGP Netflix silver sword schematic 1
+Grandmaster forgotten Wolven silver sword|NGP Netflix silver sword schematic 2
+Legendary forgotten Wolven armor|NGP Netflix Armor schematic
+Mastercrafted legendary forgotten Wolven armor|NGP Netflix Armor schematic 1
+Grandmaster legendary forgotten Wolven armor|NGP Netflix Armor schematic 2
+Legendary forgotten Wolven gauntlets|NGP Netflix Gloves schematic
+Mastercrafted legendary forgotten Wolven gauntlets|NGP Netflix Gloves schematic 1
+Grandmaster legendary forgotten Wolven gauntlets|NGP Netflix Gloves schematic 2
+Legendary forgotten Wolven trousers|NGP Netflix Pants schematic
+Mastercrafted legendary forgotten Wolven trousers|NGP Netflix Pants schematic 1
+Grandmaster legendary forgotten Wolven trousers|NGP Netflix Pants schematic 2
+Legendary forgotten Wolven boots|NGP Netflix Boots schematic
+Grandmaster Feline steel sword|Lynx School steel sword Upgrade schematic 4
+Grandmaster Feline silver sword|Lynx School silver sword Upgrade schematic 4
+Grandmaster Feline armor|Witcher Lynx Jacket Upgrade schematic 4
+Grandmaster Feline gauntlets|Witcher Lynx Gloves Upgrade schematic 5
+Grandmaster Feline boots|Witcher Lynx Boots Upgrade schematic 5
+Grandmaster Feline trousers|Witcher Lynx Pants Upgrade schematic 5
+Grandmaster Griffin steel sword|Gryphon School steel sword Upgrade schematic 4
+Grandmaster Griffin silver sword|Gryphon School silver sword Upgrade schematic 4
+Grandmaster Griffin armor|Witcher Gryphon Jacket Upgrade schematic 4
+Grandmaster Griffin gauntlets|Witcher Gryphon Gloves Upgrade schematic 5
+Grandmaster Griffin boots|Witcher Gryphon Boots Upgrade schematic 5
+Grandmaster Griffin trousers|Witcher Gryphon Pants Upgrade schematic 5
+Grandmaster Ursine steel sword|Bear School steel sword Upgrade schematic 4
+Grandmaster Ursine silver sword|Bear School silver sword Upgrade schematic 4
+Grandmaster Ursine armor|Witcher Bear Jacket Upgrade schematic 4
+Grandmaster Ursine gauntlets|Witcher Bear Gloves Upgrade schematic 5
+Grandmaster Ursine boots|Witcher Bear Boots Upgrade schematic 5
+Grandmaster Ursine trousers|Witcher Bear Pants Upgrade schematic 5
+Grandmaster Wolven steel sword|Wolf School steel sword Upgrade schematic 4
+Grandmaster Wolven silver sword|Wolf School silver sword Upgrade schematic 4
+Grandmaster Wolven armor|Witcher Wolf Jacket Upgrade schematic 4
+Grandmaster Wolven gauntlets|Witcher Wolf Gloves Upgrade schematic 5
+Grandmaster Wolven boots|Witcher Wolf Boots Upgrade schematic 5
+Grandmaster Wolven trousers|Witcher Wolf Pants Upgrade schematic 5
+Manticore steel sword|Red Wolf School steel sword schematic 1
+Manticore silver sword|Red Wolf School silver sword schematic 1
+Manticore armor|Witcher Red Wolf Jacket schematic 1
+Manticore gauntlets|Witcher Red Wolf Gloves schematic 1
+Manticore boots|Witcher Red Wolf Boots schematic 1
+Manticore trousers|Witcher Red Wolf Pants schematic 1
+Mastercrafted legendary forgotten Wolven boots|NGP Netflix Boots schematic 1
+Grandmaster legendary forgotten Wolven boots|NGP Netflix Boots schematic 2
+Viper armor|EP1 Witcher Armor schematic
+Warrior's leather jacket|Starting Armor Upgrade schematic 1
+Viper boots|EP1 Witcher Boots schematic
+Viper gauntlets|EP1 Witcher Gloves schematic
+Thread|Thread schematic
+Viper trousers|EP1 Witcher Pants schematic
+String|String schematic
+Linen|Linen schematic
+Silk|Silk schematic
+Resin|Resin schematic
+Zerrikanian powder|Blasting powder schematic
+Haft|Haft schematic
+Hardened timber|Hardened timber schematic
+Leather scraps|Leather squares schematic
+Leather cured using the Rivian method|Leather schematic
+Hardened leather|Hardened leather schematic
+Cured draconid leather|Draconide leather schematic
+Iron ingot|Iron ingot schematic
+Tretogor-style steel ingot|Steel ingot schematic 1
+Dark steel ingot|Dark steel ingot schematic
+Mahakaman-style dark steel ingot|Dark steel ingot schematic 1
+Dark steel plate|Dark steel plate schematic
+Viper venomous steel sword|EP1 Viper School steel sword schematic
+Refined silver ore|Silver ore schematic
+Silver ingot|Silver ingot schematic
+Mariborian-style silver ingot|Silver ingot schematic 1
+Silver plate|Silver plate schematic
+Meteorite silver ingot|Meteorite silver ingot schematic
+Meteorite silver plate|Meteorite silver plate schematic
+Glowing ore ingot|Glowing ingot schematic
+Refined dimeritium ore|Dwimeryte ore schematic
+Mahakaman-style Dimeritium ingot|Dwimeryte ingot schematic 1
+Dimeritium plate|Dwimeryte plate schematic
+Infused dust|Infused dust schematic
+Infused shard|Infused shard schematic
+Infused crystal|Infused crystal schematic
+Toussaint green gold ore|Green gold ore schematic 1
+Koviri cutlass|Short sword 1 schematic
+Temerian poniard|Short sword 2 schematic
+Velen longsword|No Mans Land sword 1 schematic
+Dorian sword|No Mans Land sword 2 schematic
+Skellige longsword|Skellige sword 1 schematic
+Feline steel sword|Lynx School steel sword schematic
+Ursine crossbow|Bear School Crossbow schematic
+Nilfgaardian longsword|Nilfgaardian sword 1 schematic
+Cidarian gambeson|Light Armor 1 schematic
+Spikeroog longsword|Skellige sword 2 schematic
+Griffin steel sword|Gryphon School steel sword schematic
+Serpentine steel sword|Viper Steel sword schematic
+Bremervoord blade|No Mans Land sword 4 schematic
+Gemmerian steel sword|Nilfgaardian sword 4 schematic
+Witch hunter's sword|Inquisitor sword 1 schematic
+Ursine steel sword|Bear School steel sword schematic
+Wolven steel sword|Wolf School steel sword schematic
+Witch Slayer|Inquisitor sword 2 schematic
+Disglair|Silver sword 1 schematic
+Gven'nel|Silver sword 2 schematic
+Serpentine silver sword|Viper Silver sword schematic
+Feline silver sword|Lynx School silver sword schematic
+Hunter's boots|Boots 1 schematic
+Mahakaman steel sword|Dwarven sword 1 schematic
+Cavalry boots|Boots 2 schematic
+Dwarven blade|Dwarven sword 2 schematic
+Tracker's boots|Boots 3 schematic
+Gnomish Gwyhyr|Gnomish sword 1 schematic
+Assassin's boots|Boots 4 schematic
+Tir Tochair blade|Gnomish sword 2 schematic
+Mastercrafted silver sword|Silver sword 3 schematic
+Cavalry trousers|Pants 2 schematic
+Griffin silver sword|Gryphon School silver sword schematic
+Tracker's trousers|Pants 3 schematic
+Eirlithrad|Silver sword 4 schematic
+Assassin's trousers|Pants 4 schematic
+Tor'haerne|Silver sword 6 schematic
+Axeman's trousers|Heavy Pants 1 schematic
+An'ferthe|Silver sword 7 schematic
+Torlunn|Elven silver sword 1 schematic
+Lyrian hardened leather trousers|Heavy Pants 3 schematic
+Ursine silver sword|Bear School silver sword schematic
+Mahakaman trousers|Heavy Pants 4 schematic
+Melltith|Elven silver sword 2 schematic
+Wolven silver sword|Wolf School silver sword schematic
+Hunter's gauntlets|Gloves 1 schematic
+The Tamer|Dwarven silver sword 1 schematic
+Cavalry gauntlets|Gloves 2 schematic
+Steiger|Dwarven silver sword 2 schematic
+Tracker's gauntlets|Gloves 3 schematic
+The Digger|Gnomish silver sword 1 schematic
+Assassin's gauntlets|Gloves 4 schematic
+Faustino|Gnomish silver sword 2 schematic
+Axeman's gauntlets|Heavy Gloves 1 schematic
+Knight's gauntlets|Heavy Gloves 2 schematic
+Assault gauntlets|Heavy Gloves 3 schematic
+Nilfgaardian guardsman's gauntlets|Heavy Gloves 4 schematic
+Feline armor|Lynx Armor schematic
+Griffin armor|Gryphon Armor schematic
+Ursine armor|Bear Armor schematic
+Wolven armor|Wolf Armor schematic
+Enhanced Ursine armor|Witcher Bear Jacket Upgrade schematic 1
+Superior Ursine armor|Witcher Bear Jacket Upgrade schematic 2
+Mastercrafted Ursine armor|Witcher Bear Jacket Upgrade schematic 3
+Enhanced Ursine boots|Witcher Bear Boots Upgrade schematic 1
+Enhanced Ursine trousers|Witcher Bear Pants Upgrade schematic 1
+Enhanced Ursine gauntlets|Witcher Bear Gloves Upgrade schematic 1
+Ursine steel sword - enhanced|Bear School steel sword Upgrade schematic 1
+Ursine steel sword - superior|Bear School steel sword Upgrade schematic 2
+Ursine steel sword - mastercrafted|Bear School steel sword Upgrade schematic 3
+Ursine silver sword - enhanced|Bear School silver sword Upgrade schematic 1
+Ursine silver sword - superior|Bear School silver sword Upgrade schematic 2
+Ursine silver sword - mastercrafted|Bear School silver sword Upgrade schematic 3
+Enhanced Griffin armor|Witcher Gryphon Jacket Upgrade schematic 1
+Superior Griffin armor|Witcher Gryphon Jacket Upgrade schematic 2
+Mastercrafted Griffin armor|Witcher Gryphon Jacket Upgrade schematic 3
+Enhanced Griffin boots|Witcher Gryphon Boots Upgrade schematic 1
+Enhanced Griffin trousers|Witcher Gryphon Pants Upgrade schematic 1
+Enhanced Griffin gauntlets|Witcher Gryphon Gloves Upgrade schematic 1
+Griffin steel sword - enhanced|Gryphon School steel sword Upgrade schematic 1
+Griffin steel sword - superior|Gryphon School steel sword Upgrade schematic 2
+Griffin steel sword - mastercrafted|Gryphon School steel sword Upgrade schematic 3
+Griffin silver sword - enhanced|Gryphon School silver sword Upgrade schematic 1
+Griffin silver sword - superior|Gryphon School silver sword Upgrade schematic 2
+Griffin silver sword - mastercrafted|Gryphon School silver sword Upgrade schematic 3
+Enhanced Wolven armor|Witcher Wolf Jacket Upgrade schematic 1
+Superior Wolven armor|Witcher Wolf Jacket Upgrade schematic 2
+Ofieri saber|Crafted Ofir Steel Sword schematic
+Mastercrafted Wolven armor|Witcher Wolf Jacket Upgrade schematic 3
+Enhanced Wolven boots|Witcher Wolf Boots Upgrade schematic 1
+Enhanced Wolven trousers|Witcher Wolf Pants Upgrade schematic 1
+Enhanced Wolven gauntlets|Witcher Wolf Gloves Upgrade schematic 1
+Wolven steel sword - enhanced|Wolf School steel sword Upgrade schematic 1
+Wolven steel sword - superior|Wolf School steel sword Upgrade schematic 2
+Wolven steel sword - mastercrafted|Wolf School steel sword Upgrade schematic 3
+Wolven silver sword - enhanced|Wolf School silver sword Upgrade schematic 1
+Wolven silver sword - superior|Wolf School silver sword Upgrade schematic 2
+Wolven silver sword - mastercrafted|Wolf School silver sword Upgrade schematic 3
+Enhanced Feline armor|Witcher Lynx Jacket Upgrade schematic 1
+Superior Feline armor|Witcher Lynx Jacket Upgrade schematic 2
+Mastercrafted Feline armor|Witcher Lynx Jacket Upgrade schematic 3
+Enhanced Feline boots|Witcher Lynx Boots Upgrade schematic 1
+Enhanced Feline trousers|Witcher Lynx Pants Upgrade schematic 1
+Enhanced Feline gauntlets|Witcher Lynx Gloves Upgrade schematic 1
+Feline steel sword - enhanced|Lynx School steel sword Upgrade schematic 1
+Feline steel sword - superior|Lynx School steel sword Upgrade schematic 2
+Feline steel sword - mastercrafted|Lynx School steel sword Upgrade schematic 3
+Feline silver sword - superior|Lynx School silver sword Upgrade schematic 2
+Feline silver sword - mastercrafted|Lynx School silver sword Upgrade schematic 3
+Steel ingot|Steel ingot schematic
+Dark iron ingot|Dark iron ingot schematic
+Meteorite ingot|Meteorite ingot schematic
+Dimeritium ingot|Dwimeryte ingot schematic
+Steel plate|Steel plate schematic
+Lesser Stribog runestone|Rune stribog lesser schematic
+Stribog runestone|Rune stribog schematic
+Greater Stribog runestone|Rune stribog greater schematic
+Lesser Dazhbog runestone|Rune dazhbog lesser schematic
+Dazhbog runestone|Rune dazhbog schematic
+Greater Dazhbog runestone|Rune dazhbog greater schematic
+Lesser Devana runestone|Rune devana lesser schematic
+Devana runestone|Rune devana schematic
+Greater Devana runestone|Rune devana greater schematic
+Lesser Zoria runestone|Rune zoria lesser schematic
+Zoria runestone|Rune zoria schematic
+Greater Zoria runestone|Rune zoria greater schematic
+Lesser Morana runestone|Rune morana lesser schematic
+Morana runestone|Rune morana schematic
+Greater Morana runestone|Rune morana greater schematic
+Lesser Triglav runestone|Rune triglav lesser schematic
+Triglav runestone|Rune triglav schematic
+Greater Triglav runestone|Rune triglav greater schematic
+Lesser Svarog runestone|Rune svarog lesser schematic
+Ofieri scale armor|Crafted Ofir Armor schematic
+Svarog runestone|Rune svarog schematic
+Greater Svarog runestone|Rune svarog greater schematic
+Lesser Veles runestone|Rune veles lesser schematic
+Ofieri boots|Crafted Ofir Boots schematic
+Veles runestone|Rune veles schematic
+Greater Veles runestone|Rune veles greater schematic
+Lesser Perun runestone|Rune perun lesser schematic
+Ofieri gauntlets|Crafted Ofir Gloves schematic
+Perun runestone|Rune perun schematic
+Greater Perun runestone|Rune perun greater schematic
+Lesser Chernobog runestone|Rune elemental lesser schematic
+Ofieri sharovary|Crafted Ofir Pants schematic
+Chernobog runestone|Rune elemental schematic
+Greater Chernobog runestone|Rune elemental greater schematic
+Reaver's boots|Heavy Boots 3 schematic
+Executioner's boots|Heavy Boots 4 schematic
+Feline boots|Lynx Boots schematic
+Feline gauntlets|Lynx Gloves schematic
+Feline trousers|Lynx Pants schematic
+Griffin boots|Gryphon Boots schematic
+Griffin gauntlets|Gryphon Gloves schematic
+Griffin trousers|Gryphon Pants schematic
+Ursine boots|Bear Boots schematic
+Ursine gauntlets|Bear Gloves schematic
+Ursine trousers|Bear Pants schematic
+Wolven boots|Wolf Boots schematic
+Wolven gauntlets|Wolf Gloves schematic
+Wolven trousers|Wolf Pants schematic
+Skellige gambeson|Light Armor 2 schematic
+Kaedweni gambeson|Light Armor 3 schematic
+Spikeroog aketon|Light Armor 4 schematic
+Shiadhal's armor|Light Armor 5 schematic
+Verden archer's gambeson|Light Armor 6 schematic
+Bounty hunter's gambeson|Light Armor 7 schematic
+Ard Skellig aketon|Light Armor 8 schematic
+Salmian brigandine|Medium Armor 1 schematic
+Cidarian cavalry armor|Medium Armor 2 schematic
+Redanian halberdier's armor|Medium Armor 3 schematic
+Angrenian cuirass|Medium Armor 4 schematic
+Mag Deira cuirass|Heavy Armor 1 schematic
+Ban Ard breastplate|Heavy Armor 2 schematic
+Nilfgaardian guardsman armor|Heavy Armor 3 schematic
+Hindarsfjall heavy armor|Heavy Armor 4 schematic
+Bodkin bolt|Bodkin Bolt schematic
+Tracking bolt|Tracking Bolt schematic
+Bait bolt|Bait Bolt schematic
+Blunt crossbow bolt|Blunt Bolt schematic
+Broadhead bolt|Broadhead Bolt schematic
+Precision bolt|Target Point Bolt schematic
+Split bolt|Split Bolt schematic
+Exploding bolt|Explosive Bolt schematic
+Mastercrafted Feline boots|Witcher Lynx Boots Upgrade schematic 3
+Mastercrafted Feline trousers|Witcher Lynx Pants Upgrade schematic 3
+Mastercrafted Feline gauntlets|Witcher Lynx Gloves Upgrade schematic 3
+Superior Feline boots|Witcher Lynx Boots Upgrade schematic 2
+Superior Feline trousers|Witcher Lynx Pants Upgrade schematic 2
+Superior Feline gauntlets|Witcher Lynx Gloves Upgrade schematic 2
+Feline silver sword - enhanced|Lynx School silver sword Upgrade schematic 1
+Arbitrator|Arbitrator schematic
+Longclaw|Longclaw schematic
+Beann'shie|Beannshie schematic
+Black Unicorn|Blackunicorn schematic
+Harpy|Harpy schematic
+Negotiator|Negotiator schematic
+Weeper|Weeper schematic
+Thyssen armor|Thyssen Armor schematic
+Impera Brigade armor|Relic Heavy 3 schematic

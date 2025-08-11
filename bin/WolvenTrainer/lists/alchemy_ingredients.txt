@@ -1,0 +1,187 @@
+Shaelmaar dust|Sharley dust
+Wight ear|Wight ear
+Wight hair|Wight hair
+Shaelmaar hair|Sharley heart
+Leshen resin|Leshy resin
+Giant centipede mandible|Centipede mandible
+Slyzard scale plate|Dracolizard plate
+Bryonia|Bryonia
+Wight stomach|Wight stomach
+Empty bottle|Empty bottle
+Archespore tendril|Archespore tendril
+Necrophage hide|Necrophage skin
+Barghest essence|Barghest essence
+Fiend dung|mh107_fiend_dung
+Nekker blood|Nekker blood
+Nekker heart|Nekker heart
+Ekimmara mutagen|Ekimma mutagen
+Dark Essence|Nightwraith dark essence
+Foglet mutagen|Fogling 1 mutagen
+Doppler mutagen|Doppler mutagen
+Light Essence|Noonwraith light essence
+Buckthorn|Buckthorn
+Ranogrin|Ranogrin
+Lesser red mutagen|Lesser mutagen red
+Lesser green mutagen|Lesser mutagen green
+Lesser blue mutagen|Lesser mutagen blue
+Griffin mutagen|Gryphon mutagen
+Rotfiend blood|Rotfiend blood
+Nightwraith mutagen|Nightwraith mutagen
+Nekker claw|Nekker claw
+Gargoyle dust|Gargoyle dust
+Harpy eggs|Harpy egg
+Nightwraith hair|Nightwraiths hair
+Sulfur|Sulfur
+Forktail hide|Forktail plate
+Foglet teeth|Fogling teeth
+Chort mutagen|Czart mutagen
+Wyvern mutagen|Wyvern mutagen
+Troll mutagen|Troll mutagen
+Noonwraith mutagen|Noonwraith mutagen
+Siren vocal cords|Siren vocal cords
+Succubus mutagen|Succubus mutagen
+Specter Dust|Specter dust
+Greater foglet mutagen|Fogling 2 mutagen
+Troll hide|Troll skin
+Fiend mutagen|Fiend mutagen
+Vampire fang|Vampire fang
+Forktail mutagen|Forktail mutagen
+Vampire saliva|Vampire saliva
+Grave hag mutagen|Grave Hag mutagen
+Ginatia petals|Ginatia petals
+Water essence|Water essence
+Wraith mutagen|Wraith mutagen
+Werewolf hide|Werewolf pelt
+Harpy talons|Harpy talon
+Winter cherry|Winter cherry
+Nazairi basil|Holy basil
+Blue lotus flower|Blue lotus
+Werewolf saliva|Werewolf saliva
+Earth elemental mutagen|Dao mutagen
+Hop umbels|Hop umbels
+Ekhidna mutagen|Lamia mutagen
+Alghoul bone marrow|Alghoul bone marrow
+Sewant mushrooms|Sewant mushrooms
+Arachas eyes|Arachas eyes
+Arachas venom|Arachas venom
+Basilisk venom|Basilisk venom
+Ancient leshen mutagen|Ancient Leshy mutagen
+Berserker hide|Berserker pelt
+Cockatrice egg|Cockatrice egg
+Crystalized essence|Crystalized essence
+Cockatrice stomach|Cockatrice maw
+Ekimmara hide|Ekimma epidermis
+Cave troll liver|Cave Troll liver
+Nekker eye|Nekker eye
+Devourer's blood|Greater Rotfiend blood
+Quebrith|Quebrith
+Erynia eye|Erynie eye
+Endrega heart|Endriag heart
+Hydragenum|Hydragenum
+Ducal Water|Ducal water
+Wine Stone|Wine stone
+Vermilion|Vermilion
+Nekker warrior's liver|Nekker warrior liver
+Water hag tooth|Water Hag teeth
+Cyclops' eye|Cyclops eye
+Chort hide|Czart hide
+Hornwort|Hornwort
+Basilisk mutagen|Basilisk mutagen
+Wyvern egg|Wyvern egg
+Gargoyle heart|Gargoyle heart
+Wyvern hide|Wyvern plate
+Werewolf mutagen|Werewolf mutagen
+Essence of wraith|Wraith essence
+Nekker warrior mutagen|Nekker Warrior mutagen
+Balisse fruit|Balisse fruit
+Drowner tongue|Drowned dead tongue
+Drowner brain|Drowner brain
+Leshen mutagen|Leshy mutagen
+Mandrake root|Mandrake root
+White Gull|White Gull 1
+Elemental essence|Elemental essence
+Manticore poison gland|q401_trial_key_ingredient_b
+Mistletoe|Mistletoe
+Endrega embryo|Endriag embryo
+Stammelford's Dust|Stammelfords dust
+Fiend's eye|Fiend eye
+Phosphorus|Phosphorus
+Forktail spinal fluid|q401_trial_key_ingredient_a
+Alchemists' powder|Alchemists powder
+Albino bruxa tongue|q401_trial_key_ingredient_c
+Greater red mutagen|Greater mutagen red
+Greater green mutagen|Greater mutagen green
+Greater blue mutagen|Greater mutagen blue
+Allspice|Allspice root
+Cherry cordial|Cherry Cordial
+Ghoul's blood|Ghoul blood
+Moleyarrow|Moleyarrow
+Beggartick blossoms|Beggartick blossoms
+Alghoul claw|Alghoul claw
+Bison grass|Bison Grass
+Katakan mutagen|Katakan mutagen
+Verbena|Verbena
+Arenaria|Arenaria
+Longrube|Longrube
+Nilfgaardian lemon|Free nilfgaardian lemon
+Arachas mutagen|Arachas mutagen
+White myrtle petals|White myrtle
+Han fiber|Han
+Nostrix|Nostrix
+Cockatrice mutagen|Cockatrice mutagen
+Golem's heart|Golem heart
+Pringrape|Pringrape
+Archgriffin mutagen|Volcanic Gryphon mutagen
+Ribleaf|Ribleaf
+Mandrake cordial|Mandrake cordial
+Alchemy paste|Alchemical paste
+Vitriol|Vitriol
+Ergot seeds|Ergot seeds
+Griffin's egg|Gryphon egg
+Dog tallow|Dog tallow
+Wolf's liver|Wolf liver
+Celandine|Celandine
+Red mutagen|Mutagen red
+Green mutagen|Mutagen green
+Blue mutagen|Mutagen blue
+Wolfsbane|Wolfsbane
+Grave hag's ear|Grave Hag ear
+Honeysuckle|Honeysuckle
+Fool's parsley leaves|Fools parsley leaves
+Griffin feathers|Gryphon feathers
+Water hag mutagen|Water Hag mutagen
+Basilisk hide|Basilisk plate
+Alcohest|Alcohest
+Nilfgaardian lemon|Nilfgaardian Lemon
+Dwarven spirit|Dwarven spirit
+Bloodmoss|Bloodmoss
+Berbercane fruit|Berbercane fruit
+Hellebore petals|Hellebore petals
+Cortinarius|Cortinarius
+Saltpeter|Saltpetre
+Calcium equum|Calcium equum
+Green mold|Green mold
+Blowball|Blowbill
+Nigredo|Nigredo
+Albedo|Albedo
+Rubedo|Rubedo
+Rebis|Rebis
+Lunar shards|Lunar shards
+Quicksilver solution|Quicksilver solution
+Aether|Aether
+Optima mater|Optima mater
+Fifth Essence|Fifth essence
+Crow's eye|Crows eye
+Bear fat|Bear fat
+Monstrous fang|Hag teeth
+Mahakaman spirit|Mahakam Spirit
+Harpy feathers|Harpy feathers
+Redanian herbal|Redanian Herbal
+Puffball|Pigskin puffball
+Lock of lamia hair|Lamia lock of hair
+Giant centipede discharge|Centipede discharge
+Archespore juice|Archespore juice
+Kikimore discharge|Kikimore discharge
+Temerian rye|Temerian Rye
+Vampire blood|Vampire blood
+Protofleder mutagen|Protofleder Mutagen

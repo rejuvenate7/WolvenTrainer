@@ -1,0 +1,182 @@
+Formula: Aether|Recipe for Aether
+Manuscript page: Albedo|Recipe for Albedo
+Formula: Hydragenum|Recipe for Hydragenum
+Formula: Quebrith|Recipe for Quebrith
+Manuscript page: Enhanced White Raffard's Decoction|Recipe for White Raffards Decoction 2
+Manuscript page: Superior White Raffard's Decoction|Recipe for White Raffards Decoction 3
+Manuscript page: White Raffard's Decoction|Recipe for White Raffards Decoction 1
+Manuscript page: Draconid oil|Recipe for Draconide Oil 1
+Manuscript page: Cursed oil|Recipe for Cursed Oil 1
+Manuscript page: Thunderbolt|Recipe for Thunderbolt 1
+Manuscript page: Enhanced cursed oil|Recipe for Cursed Oil 2
+Manuscript page: Enhanced Full Moon|Recipe for Full Moon 2
+Manuscript page: Superior cursed oil|Recipe for Cursed Oil 3
+Manuscript page: Hanged Man's Venom|Recipe for Hanged Man Venom 1
+Manuscript page: Enhanced Hanged Man's Venom|Recipe for Hanged Man Venom 2
+Manuscript page: Superior Hanged Man's Venom|Recipe for Hanged Man Venom 3
+Manuscript page: Superior Full Moon|Recipe for Full Moon 3
+Manuscript page: Hybrid oil|Recipe for Hybrid Oil 1
+Manuscript page: Enhanced hybrid oil|Recipe for Hybrid Oil 2
+Manuscript page: Superior hybrid oil|Recipe for Hybrid Oil 3
+Manuscript page: Golden Oriole|Recipe for Golden Oriole 1
+Manuscript page: Insectoid oil|Recipe for Insectoid Oil 1
+Manuscript page: Enhanced insectoid oil|Recipe for Insectoid Oil 2
+Manuscript page: Enhanced Golden Oriole|Recipe for Golden Oriole 2
+Manuscript page: Superior insectoid oil|Recipe for Insectoid Oil 3
+Manuscript page: Elementa oil|Recipe for Magicals Oil 1
+Manuscript page: Enhanced elementa oil|Recipe for Magicals Oil 2
+Manuscript page: Superior Golden Oriole|Recipe for Golden Oriole 3
+Manuscript page: Superior elementa oil|Recipe for Magicals Oil 3
+Torn-out page: Red mutagen|Recipe for Mutagen red
+Torn-out page: Green mutagen|Recipe for Mutagen green
+Torn-out page: Blue mutagen|Recipe for Mutagen blue
+Torn-out page: Greater red mutagen|Recipe for Greater mutagen red
+Torn-out page: Greater green mutagen|Recipe for Greater mutagen green
+Torn-out page: Greater blue mutagen|Recipe for Greater mutagen blue
+Manuscript page: Necrophage oil|Recipe for Necrophage Oil 1
+Manuscript page: Killer Whale|Recipe for Killer Whale 1
+Formula: Gray armor dye|Recipe Dye Gray
+Formula: Brown armor dye|Recipe Dye Brown
+Formula: Red armor dye|Recipe Dye Red
+Formula: Green armor dye|Recipe Dye Green
+Formula: Blue armor dye|Recipe Dye Blue
+Formula: Black armor dye|Recipe Dye Black
+Formula: White armor dye|Recipe Dye White
+Formula: Orange armor dye|Recipe Dye Orange
+Formula: Pink armor dye|Recipe Dye Pink
+Formula: Yellow armor dye|Recipe Dye Yellow
+Formula: Purple armor dye|Recipe Dye Purple
+Manuscript page: Enhanced necrophage oil|Recipe for Necrophage Oil 2
+Manuscript page: Superior necrophage oil|Recipe for Necrophage Oil 3
+Manuscript page: Maribor Forest|Recipe for Maribor Forest 1
+Manuscript page: Specter oil|Recipe for Specter Oil 1
+Manuscript page: Enhanced specter oil|Recipe for Specter Oil 2
+Formula: The Decoctions of the Grasses|Recipe for Trial Potion Kit
+Formula: Cleansing mixture|q603_diarrhea_potion_recipe
+Manuscript page: Superior specter oil|Recipe for Specter Oil 3
+Manuscript page: Enhanced Maribor Forest|Recipe for Maribor Forest 2
+Manuscript page: Vampire oil|Recipe for Vampire Oil 1
+Manuscript page: Enhanced vampire oil|Recipe for Vampire Oil 2
+Formula: Vermilion|Recipe for Vermilion
+Manuscript page: Petri's Philter|Recipe for Petris Philtre 1
+Formula: Vitriol|Recipe for Vitriol
+Formula: Rubedo|Recipe for Rubedo
+Formula: Rebis|Recipe for Rebis
+Manuscript page: Superior vampire oil|Recipe for Vampire Oil 3
+Manuscript page: Ogroid oil|Recipe for Ogre Oil 1
+Manuscript page: Enhanced Petri's Philter|Recipe for Petris Philtre 2
+Formula: Nigredo|Recipe for Nigredo
+Formula: Reinald's Philter|Recipe for Signs Enhancement
+Manuscript page: Superior Maribor Forest|Recipe for Maribor Forest 3
+Manuscript page: Enhanced ogroid oil|Recipe for Ogre Oil 2
+Manuscript page: Superior ogroid oil|Recipe for Ogre Oil 3
+Manuscript page: Superior Petri's Philter|Recipe for Petris Philtre 3
+Manuscript page: Relict oil|Recipe for Relic Oil 1
+Manuscript page: Enhanced relict oil|Recipe for Relic Oil 2
+Manuscript page: Pops' mold antidote|Recipe for Pops Antidote
+Manuscript page: Superior relict oil|Recipe for Relic Oil 3
+Manuscript page: Dancing Star|Recipe for Dancing Star 1
+Torn-out page: Katakan decoction|Recipe for Mutagen 1
+Torn-out page: Arachas decoction|Recipe for Mutagen 2
+Torn-out page: Cockatrice decoction|Recipe for Mutagen 3
+Torn-out page: Archgriffin decoction|Recipe for Mutagen 4
+Torn-out page: Water hag decoction|Recipe for Mutagen 5
+Manuscript page: Enhanced Dancing Star|Recipe for Dancing Star 2
+Manuscript page: Swallow|Recipe for Swallow 1
+Manuscript page: Superior Dancing Star|Recipe for Dancing Star 3
+Manuscript page: Devil's Puffball|Recipe for Devils Puffball 1
+Manuscript page: Enhanced Swallow|Recipe for Swallow 2
+Manuscript page: Enhanced Devil's Puffball|Recipe for Devils Puffball 2
+Manuscript page: Superior Devil's Puffball|Recipe for Devils Puffball 3
+Manuscript page: Superior Swallow|Recipe for Swallow 3
+Manuscript page: Tawny Owl|Recipe for Tawny Owl 1
+Manuscript page: Dragon's Dream|Recipe for Dragons Dream 1
+Manuscript page: Enhanced Tawny Owl|Recipe for Tawny Owl 2
+Manuscript page: Enhanced Dragon's Dream|Recipe for Dragons Dream 2
+Manuscript page: Superior Dragon's Dream|Recipe for Dragons Dream 3
+Manuscript page: Superior Tawny Owl|Recipe for Tawny Owl 3
+Manuscript page: Grapeshot|Recipe for Grapeshot 1
+Manuscript page: Enhanced Grapeshot|Recipe for Grapeshot 2
+Manuscript page: Enhanced Thunderbolt|Recipe for Thunderbolt 2
+Manuscript page: Superior Grapeshot|Recipe for Grapeshot 3
+Manuscript page: Samum|Recipe for Samum 1
+Manuscript page: Superior Thunderbolt|Recipe for Thunderbolt 3
+Manuscript page: Enhanced Samum|Recipe for Samum 2
+Torn-out page: Nightwraith decoction|Recipe for Mutagen 6
+Torn-out page: Ekimmara decoction|Recipe for Mutagen 7
+Torn-out page: Chort decoction|Recipe for Mutagen 8
+Torn-out page: Foglet decoction|Recipe for Mutagen 9
+Torn-out page: Wyvern decoction|Recipe for Mutagen 10
+Manuscript page: Superior Samum|Recipe for Samum 3
+Torn-out page: Doppler decoction|Recipe for Mutagen 11
+Torn-out page: Troll decoction|Recipe for Mutagen 12
+Manuscript page: Moon Dust|Recipe for Silver Dust Bomb 1
+Torn-out page: Noonwraith decoction|Recipe for Mutagen 13
+Torn-out page: Succubus decoction|Recipe for Mutagen 14
+Manuscript page: Enhanced Moon Dust|Recipe for Silver Dust Bomb 2
+Torn-out page: Alghoul decoction|Recipe for Mutagen 15
+Torn-out page: Fiend decoction|Recipe for Mutagen 16
+Manuscript page: Superior Moon Dust|Recipe for Silver Dust Bomb 3
+Torn-out page: Forktail decoction|Recipe for Mutagen 17
+Manuscript page: White Gull|Recipe for White Gull 1
+Torn-out page: Grave hag decoction|Recipe for Mutagen 18
+Manuscript page: Northern Wind|Recipe for White Frost 1
+Torn-out page: Wraith decoction|Recipe for Mutagen 19
+Torn-out page: Earth elemental decoction|Recipe for Mutagen 20
+Manuscript page: Black Blood|Recipe for Black Blood 1
+Torn-out page: Ekhidna decoction|Recipe for Mutagen 21
+Manuscript page: White Honey|Recipe for White Honey 1
+Torn-out page: Ancient leshen decoction|Recipe for Mutagen 22
+Manuscript page: Enhanced Black Blood|Recipe for Black Blood 2
+Torn-out page: Basilisk decoction|Recipe for Mutagen 23
+Torn-out page: Werewolf decoction|Recipe for Mutagen 24
+Manuscript page: Superior Black Blood|Recipe for Black Blood 3
+Torn-out page: Nekker warrior decoction|Recipe for Mutagen 25
+Manuscript page: Enhanced White Honey|Recipe for White Honey 2
+Torn-out page: Leshen decoction|Recipe for Mutagen 26
+Torn-out page: Griffin decoction|Recipe for Mutagen 27
+Manuscript page: Blizzard|Recipe for Blizzard 1
+Torn-out page: Reliever's decoction|Recipe for Mutagen 28
+Formula: Lesser mutagen transmutator - red to blue|Recipe Lesser Mutagen Red to Blue
+Manuscript page: Enhanced Blizzard|Recipe for Blizzard 2
+Formula: Lesser mutagen transmutator - red to green|Recipe Lesser Mutagen Red to Green
+Manuscript page: Superior White Honey|Recipe for White Honey 3
+Formula: Lesser mutagen transmutator - blue to red|Recipe Lesser Mutagen Blue to Red
+Manuscript page: Superior Blizzard|Recipe for Blizzard 3
+Formula: Lesser mutagen transmutator - blue to green|Recipe Lesser Mutagen Blue to Green
+Formula: Lesser mutagen transmutator - green to red|Recipe Lesser Mutagen Green to Red
+Manuscript page: Cat|Recipe for Cat 1
+Formula: Lesser mutagen transmutator - green to blue|Recipe Lesser Mutagen Green to Blue
+Formula: Mutagen transmutator - red to blue|Recipe Mutagen Red to Blue
+Manuscript page: Enhanced Cat|Recipe for Cat 2
+Formula: Mutagen transmutator - red to green|Recipe Mutagen Red to Green
+Formula: Mutagen transmutator - blue to red|Recipe Mutagen Blue to Red
+Manuscript page: Superior Cat|Recipe for Cat 3
+Formula: Mutagen transmutator - blue to green|Recipe Mutagen Blue to Green
+Formula: Mutagen transmutator - green to red|Recipe Mutagen Green to Red
+Manuscript page: Chort lure|Recipe for Czart Lure
+Formula: Mutagen transmutator - green to blue|Recipe Mutagen Green to Blue
+Manuscript page: Dwarven spirit|Recipe for Dwarven spirit 1
+Formula: Greater mutagen transmutator - red to blue|Recipe Greater Mutagen Red to Blue
+Formula: Greater mutagen transmutator - red to green|Recipe Greater Mutagen Red to Green
+Manuscript page: Enhanced Northern Wind|Recipe for White Frost 2
+Manuscript page: Dimeritium bomb|Recipe for Dwimeritium Bomb 1
+Manuscript page: Enhanced dimeritium bomb|Recipe for Dwimeritium Bomb 2
+Manuscript page: Superior dimeritium bomb|Recipe for Dwimeritium Bomb 3
+Manuscript page: Bear pheromones|Recipe for Bear Pheromone Potion 1
+Formula: Greater mutagen transmutator - blue to red|Recipe Greater Mutagen Blue to Red
+Manuscript page: Enhanced draconid oil|Recipe for Draconide Oil 2
+Formula: Greater mutagen transmutator - blue to green|Recipe Greater Mutagen Blue to Green
+Manuscript page: Drowner pheromones|Recipe for Drowner Pheromone Potion 1
+Formula: Greater mutagen transmutator - green to red|Recipe Greater Mutagen Green to Red
+Manuscript page: Alcohest|Recipe for Alcohest 1
+Formula: Turquoise armor dye|Recipe Dye Turquoise
+Formula: Shaelmaar bait|Recipe for Sharley Lure
+Formula: Greater mutagen transmutator - green to blue|Recipe Greater Mutagen Green to Blue
+Manuscript page: Nekker pheromones|Recipe for Nekker Pheromone Potion 1
+Manuscript page: Superior Northern Wind|Recipe for White Frost 3
+Manuscript page: Beast oil|Recipe for Beast Oil 1
+Manuscript page: Enhanced beast oil|Recipe for Beast Oil 2
+Manuscript page: Full Moon|Recipe for Full Moon 1
+Manuscript page: Superior beast oil|Recipe for Beast Oil 3
+Manuscript page: Superior draconid oil|Recipe for Draconide Oil 3

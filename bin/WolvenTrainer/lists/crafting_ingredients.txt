@@ -1,0 +1,151 @@
+Ruby dust|Ruby dust
+Monster essence|Monstrous essence
+Flawless amber|Amber flawless
+Dye|Dye
+Amber|Amber
+Amber fragment|Amber fossil
+Dimeritium plate|Dwimeryte plate
+Gold ore|Gold ore
+Monster eye|Monstrous eye
+Steel line|Wire rope
+Silver ore|Silver ore
+Silver plate|Silver plate
+Zerrikanian powder|Blasting powder
+Emerald|Emerald
+Monster hair|Monstrous hair
+Flawless diamond|Diamond flawless
+Monster brain|Monstrous brain
+Meteorite ingot|Meteorite ingot
+Meteorite ore|Meteorite ore
+Flawless amethyst|Amethyst flawless
+Monster blood|Monstrous blood
+Infused crystal|Infused crystal
+Monster liver|Monstrous liver
+String|String
+Lesser runestone|Runestone lesser
+Monster bone|Monstrous bone
+Greater runestone|Runestone greater
+Feather|Feather
+Lesser Glyph of Infusion|Glyph infusion lesser
+Dark iron plate|Dark iron plate
+Greater Glyph of Infusion|Glyph infusion greater
+Meteorite plate|Meteorite plate
+Monster ear|Monstrous ear
+Monster stomach|Monstrous stomach
+Flawless sapphire|Sapphire flawless
+Monster claw|Monstrous claw
+Monster hide|Monstrous hide
+Rope|Rope
+Black pearl dust|Black pearl dust
+Monster carapace|Monstrous plate
+Flawless emerald|Emerald flawless
+Monster saliva|Monstrous saliva
+Sapphire dust|Sapphire dust
+Amethyst dust|Amethyst dust
+Powdered monster tissue|Monstrous dust
+Silver ingot|Silver ingot
+Powdered pearl|Powdered pearl
+Monster heart|Monstrous heart
+Monster tooth|Monstrous tooth
+Dark steel ingot|Dark steel ingot
+Flawless ruby|Ruby flawless
+Dark steel plate|Dark steel plate
+Monster tongue|Monstrous tongue
+Dark iron ingot|Dark iron ingot
+Dark iron ore|Dark iron ore
+Meteorite silver ingot|Meteorite silver ingot
+Monster feather|Monstrous feather
+Diamond dust|Diamond dust
+Cured draconid leather|Draconide leather
+Dragon scales|Dragon scales
+Twine|Twine
+Infused shard|Infused shard
+Amethyst|Amethyst
+Meteorite silver plate|Meteorite silver plate
+Dimeritium ingot|Dwimeryte ingot
+Dimeritium ore|Dwimeryte ore
+Venom extract|Venom extract
+Cotton|Cotton
+Thread|Thread
+Emerald dust|Emerald dust
+Linen|Linen
+Silk|Silk
+Fiber|Fiber
+Timber|Timber
+Coal|Coal
+Oil|Oil
+Infused dust|Infused dust
+Sap|Sap
+Resin|Resin
+Dye remover|Dye Default
+Black armor dye|Dye Black
+Blue armor dye|Dye Blue
+Brown armor dye|Dye Brown
+Gray armor dye|Dye Gray
+Infused slyzard hide|Draconide infused leather
+Hunk of nickel|Nickel mineral
+Nickel ore|Nickel ore
+Unrefined copper ore|Copper mineral
+Malachite|Malachite mineral
+Copper ore|Copper ore
+Cupronickel ore|Cupronickel ore
+Green armor dye|Dye Green
+Copper ingot|Copper ingot
+Copper plate|Copper plate
+Green gold|Green gold mineral
+Green gold ore|Green gold ore
+Green gold ingot|Green gold ingot
+Green gold plate|Green gold plate
+Orichalcum|Orichalcum mineral
+Orichalcum ore|Orichalcum ore
+Orichalcum ingot|Orichalcum ingot
+Orichalcum plate|Orichalcum plate
+Enriched dimeritium ore|Dwimeryte enriched ore
+Enriched dimeritium ingot|Dwimeryte enriched ingot
+Enriched dimeritium plate|Dwimeryte enriched plate
+Acid extract|Acid extract
+Orange armor dye|Dye Orange
+Pink armor dye|Dye Pink
+Purple armor dye|Dye Purple
+Red armor dye|Dye Red
+Turquoise armor dye|Dye Turquoise
+Monster carapace|Monstrous carapace
+Wax|Wax
+White armor dye|Dye White
+Yellow armor dye|Dye Yellow
+Leather straps|Leather straps
+Monster pincer|Monstrous pincer
+Leather scraps|Leather squares
+Fur scrap|Fur square
+Monster spore|Monstrous spore
+Elven whetstone|Whetstone elven
+Monster vine|Monstrous vine
+Dwarven whetstone|Whetstone dwarven
+Monster wing|Monstrous wing
+Gnomish whetstone|Whetstone gnomish
+Cured leather|Leather
+Elven armorer's tools|Smithing tools elven
+Dwarven armorer's tools|Smithing tools dwarven
+Gnomish armorer's tools|Smithing tools gnomish
+Endrega armor plates|Endriag chitin plates
+Gold nugget|Gold mineral
+Chitinous shell|Chitin scale
+Iron ore|Iron ore
+Pearl|Pearl
+Nails|Nails
+Diamond|Diamond
+Amber dust|Amber dust
+Iron ingot|Iron ingot
+Dye solution|Dye Solution
+Ruby|Ruby
+Monster egg|Monstrous egg
+Wire|Wire
+Sapphire|Sapphire
+Steel ingot|Steel ingot
+Glowing ore|Glowing ore
+Glowing ore ingot|Glowing ingot
+Steel plates|Steel plate
+Black pearl|Black pearl
+Silver|Silver mineral
+Hardened timber|Hardened timber
+Hardened leather|Hardened leather

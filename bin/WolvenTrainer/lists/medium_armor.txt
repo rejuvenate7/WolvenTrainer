@@ -1,0 +1,250 @@
+New Moon gauntlets|Thief Gloves No Medallion
+Grandmaster Wolven boots|NGP Wolf Boots 5
+Kaer Morhen armor|EP1 Standalone Starting Armor
+Manticore boots|NGP Red Wolf Boots 1
+Hunting boots|EP1 Standalone Starting Boots
+Hunting gauntlets|EP1 Standalone Starting Gloves
+Hunting trousers|EP1 Standalone Starting Pants
+Enhanced legendary Griffin trousers|Gryphon Pants 2
+Tracker's trousers|Pants 03_crafted
+Superior Wolven trousers|Wolf Pants 3
+Cavalry gauntlets|Gloves 02
+Nekker hide boots|Nekker Boots
+Superior Wolven boots|Wolf Boots 3
+Tracker's trousers|Pants 03
+Sapper's trousers|Heavy pants 02_crafted
+Salmian brigandine|Medium armor 01
+Kaer Morhen armor|EP2 Standalone Starting Armor
+Hunting boots|EP2 Standalone Starting Boots
+Hunting gauntlets|EP2 Standalone Starting Gloves
+Hunting trousers|EP2 Standalone Starting Pants
+Cidarian cavalry armor|Medium armor 02
+Redanian halberdier's armor|Medium armor 03
+Angrenian cuirass|Medium armor 04
+Belhaven brigandine|Medium armor 05
+Eternal Fire executioner's armor|Medium armor 11
+Kaedweni cuirass|Medium armor 07
+Witch hunter's armor|Medium armor 10
+Reaver's boots|Heavy boots 03_crafted
+Toussaint Ducal Guard Officer's armor|NGP Guard Lvl2 Armor 3
+Tracker's boots|Boots 03
+Toussaint Ducal Guard Captain's armor|NGP Guard Lvl2 A Armor 3
+Sapper's trousers|Heavy pants 02
+Knight's gauntlets|Heavy gloves 02
+Wolven armor|Wolf Armor
+Enhanced Wolven armor|Wolf Armor 1
+Superior Wolven armor|Wolf Armor 2
+Mastercrafted Wolven armor|Wolf Armor 3
+Toussaint Ducal Guard Officer's gauntlets|NGP Guard Lvl2 Gloves 3
+Witch hunter's armor|q108 Medium armor 10
+Toussaint Ducal Guard Captain's gauntlets|NGP Guard Lvl2 A Gloves 3
+Wolven gauntlets|Wolf Gloves 1
+Hunting gauntlets|Starting Gloves
+Hunting trousers|Starting Pants
+Enhanced Wolven gauntlets|Wolf Gloves 2
+Mastercrafted legendary Griffin gauntlets|Gryphon Gloves 4
+Mastercrafted legendary Griffin trousers|Gryphon Pants 4
+Mastercrafted legendary Griffin boots|Gryphon Boots 4
+Hunting boots|Starting Boots
+Toussaint Ducal Guard Officer's trousers|NGP Guard Lvl2 Pants 3
+Toussaint Ducal Guard Captain's trousers|NGP Guard Lvl2 A Pants 3
+Legendary Wolven armor|NGP Wolf Armor
+Enhanced legendary Wolven armor|NGP Wolf Armor 1
+New Moon boots|Thief Boots Y
+Mastercrafted Wolven gauntlets|Wolf Gloves 4
+Mastercrafted Wolven trousers|Wolf Pants 4
+Mastercrafted Wolven boots|Wolf Boots 4
+Tracker's boots|Boots 032
+Superior legendary Wolven armor|NGP Wolf Armor 2
+Swordsman's boots|Boots 06
+Kaer Morhen armor|Starting Armor
+Mastercrafted legendary Wolven armor|NGP Wolf Armor 3
+Legendary Wolven boots|NGP Wolf Boots 1
+Enhanced legendary Wolven boots|NGP Wolf Boots 2
+Wolven trousers|Wolf Pants 1
+Nilfgaardian Armor|NGP DLC5 Nilfgaardian Armor
+Nilfgaardian Boots|NGP DLC5 Nilfgaardian Boots
+Nilfgaardian Gauntlets|NGP DLC5 Nilfgaardian Gloves
+Nilfgaardian Trousers|NGP DLC5 Nilfgaardian Pants
+Superior legendary Wolven boots|NGP Wolf Boots 3
+Mastercrafted legendary Wolven boots|NGP Wolf Boots 4
+Legendary Wolven gauntlets|NGP Wolf Gloves 1
+Enhanced Wolven trousers|Wolf Pants 2
+Enhanced legendary Wolven gauntlets|NGP Wolf Gloves 2
+Wolven boots|Wolf Boots 1
+Toussaint Ducal Guard Officer's boots|NGP Guard Lvl2 Boots 3
+Superior legendary Wolven gauntlets|NGP Wolf Gloves 3
+Toussaint Ducal Guard Captain's boots|NGP Guard Lvl2 A Boots 3
+Mastercrafted legendary Wolven gauntlets|NGP Wolf Gloves 4
+Enhanced Wolven boots|Wolf Boots 2
+Legendary Wolven trousers|NGP Wolf Pants 1
+New Moon trousers|Thief Pants Y
+Toussaint Ducal Guard Officer's armor|Guard Lvl2 Armor 1
+Toussaint Ducal Guard Officer's boots|Guard Lvl2 Boots 1
+Toussaint Ducal Guard Officer's gauntlets|Guard Lvl2 Gloves 1
+Toussaint Ducal Guard Officer's trousers|Guard Lvl2 Pants 1
+Toussaint Ducal Guard Officer's armor|Guard Lvl2 Armor 2
+Toussaint Ducal Guard Officer's boots|Guard Lvl2 Boots 2
+Toussaint Ducal Guard Officer's gauntlets|Guard Lvl2 Gloves 2
+Legendary Manticore armor|Red Wolf Armor 1
+Legendary Manticore gauntlets|Red Wolf Gloves 1
+Legendary Manticore trousers|Red Wolf Pants 1
+Legendary Manticore boots|Red Wolf Boots 1
+Enhanced legendary Wolven trousers|NGP Wolf Pants 2
+Toussaint Ducal Guard Officer's trousers|Guard Lvl2 Pants 2
+Toussaint Ducal Guard Officer's armor|Guard Lvl2 Armor 3
+Reaver's boots|Heavy boots 03
+Toussaint Ducal Guard Officer's boots|Guard Lvl2 Boots 3
+Toussaint Ducal Guard Officer's gauntlets|Guard Lvl2 Gloves 3
+Toussaint Ducal Guard Officer's trousers|Guard Lvl2 Pants 3
+Toussaint Ducal Guard Captain's armor|Guard Lvl2 A Armor 1
+Toussaint Ducal Guard Captain's boots|Guard Lvl2 A Boots 1
+Toussaint Ducal Guard Captain's gauntlets|Guard Lvl2 A Gloves 1
+Toussaint Ducal Guard Captain's trousers|Guard Lvl2 A Pants 1
+Toussaint Ducal Guard Captain's armor|Guard Lvl2 A Armor 2
+Toussaint Ducal Guard Captain's boots|Guard Lvl2 A Boots 2
+Grandmaster legendary Griffin armor|Gryphon Armor 4
+Superior legendary Griffin gauntlets|Gryphon Gloves 3
+Grandmaster legendary Griffin gauntlets|Gryphon Gloves 5
+Superior legendary Griffin trousers|Gryphon Pants 3
+Grandmaster legendary Griffin trousers|Gryphon Pants 5
+Superior legendary Griffin boots|Gryphon Boots 3
+Grandmaster legendary Griffin boots|Gryphon Boots 5
+Toussaint Ducal Guard Captain's gauntlets|Guard Lvl2 A Gloves 2
+Toussaint Ducal Guard Captain's trousers|Guard Lvl2 A Pants 2
+Thyssen armor|Thyssen armor
+Oathbreaker Armor|Oathbreaker armor
+Toussaint Ducal Guard Captain's armor|Guard Lvl2 A Armor 3
+Superior legendary Wolven trousers|NGP Wolf Pants 3
+Toussaint Ducal Guard Captain's boots|Guard Lvl2 A Boots 3
+Toussaint Ducal Guard Captain's gauntlets|Guard Lvl2 A Gloves 3
+Toussaint Ducal Guard Captain's trousers|Guard Lvl2 A Pants 3
+New Moon trousers|Thief Pants
+Mastercrafted legendary Wolven trousers|NGP Wolf Pants 4
+Condottiere's boots|Heavy boots 07
+Nilfgaardian Boots|DLC5 Nilfgaardian Boots
+New Moon trousers|Thief Pants No Medallion
+Superior Wolven gauntlets|Wolf Gloves 3
+New Moon boots|Thief Boots
+Salmian brigandine|Medium armor 01r
+Cidarian cavalry armor|Medium armor 02r
+Redanian halberdier's armor|Medium armor 03r
+New Moon trousers|Thief Pants B
+Angrenian cuirass|Medium armor 04r
+Hunting trousers|Autogen Pants
+Kaedweni cuirass|Medium armor 07r
+Legendary Griffin armor|Gryphon Armor
+Witch hunter's armor|Medium armor 10r
+Legendary forgotten Wolven armor|Netflix Armor
+Mastercrafted legendary forgotten Wolven armor|Netflix Armor 1
+Grandmaster legendary forgotten Wolven armor|Netflix Armor 2
+Mastercrafted legendary forgotten Wolven gauntlets|Netflix Gloves 1
+Grandmaster legendary forgotten Wolven gauntlets|Netflix Gloves 2
+Legendary forgotten Wolven gauntlets|Netflix Gloves
+Mastercrafted legendary forgotten Wolven trousers|Netflix Pants 1
+Grandmaster legendary forgotten Wolven trousers|Netflix Pants 2
+Hunting gauntlets|Autogen Gloves
+Legendary forgotten Wolven trousers|Netflix Pants
+Forgotten Wolven armor|NGP Netflix Armor
+Eternal Fire executioner's armor|Medium armor 11r
+Mastercrafted forgotten Wolven armor|NGP Netflix Armor 1
+Grandmaster forgotten Wolven armor|NGP Netflix Armor 2
+Mastercrafted forgotten Wolven boots|NGP Netflix Boots 1
+Grandmaster forgotten Wolven boots|NGP Netflix Boots 2
+Mastercrafted legendary forgotten Wolven boots|Netflix Boots 1
+Forgotten Wolven boots|NGP Netflix Boots
+Mastercrafted forgotten Wolven gauntlets|NGP Netflix Gloves 1
+Hunting boots|Autogen Boots
+Grandmaster forgotten Wolven gauntlets|NGP Netflix Gloves 2
+Forgotten Wolven gauntlets|NGP Netflix Gloves
+Grandmaster legendary forgotten Wolven boots|Netflix Boots 2
+Mastercrafted forgotten Wolven trousers|NGP Netflix Pants 1
+Legendary forgotten Wolven boots|Netflix Boots
+Grandmaster forgotten Wolven trousers|NGP Netflix Pants 2
+Forgotten Wolven trousers|NGP Netflix Pants
+Legendary Viper armor|EP1 Witcher Armor
+New Moon armor|Thief Armor
+Viper armor|NGP EP1 Witcher Armor
+New Moon armor|Thief Armor B
+Legendary Viper boots|EP1 Witcher Boots
+New Moon armor|Thief Armor Y
+Viper boots|NGP EP1 Witcher Boots
+Warrior's leather jacket|Starting Armor 1
+Armor of a Thousand Flowers|NGP Dol Blathanna Armor
+Legendary Viper gauntlets|EP1 Witcher Gloves
+Boots of a Thousand Flowers|NGP Dol Blathanna Boots
+Gauntlets of a Thousand Flowers|NGP Dol Blathanna Gloves
+Trousers of a Thousand Flowers|NGP Dol Blathanna Pants
+New Moon armor|Thief Armor No Medallion
+Viper gauntlets|NGP EP1 Witcher Gloves
+White Tiger of the West armor|NGP White Tiger Armor
+White Tiger of the West boots|NGP White Tiger Boots
+White Tiger of the West vambraces|NGP White Tiger Gloves
+White Tiger of the West trousers|NGP White Tiger Pants
+New Moon boots|Thief Boots No Medallion
+Belhaven brigandine|Medium armor 05r
+Legendary Viper trousers|EP1 Witcher Pants
+Kaer Morhen armor|Autogen Armor
+Viper trousers|NGP EP1 Witcher Pants
+Nilfgaardian Trousers|DLC5 Nilfgaardian Pants
+Armor of a Thousand Flowers|Dol Blathanna Armor
+Gauntlets of a Thousand Flowers|Dol Blathanna Gloves
+Trousers of a Thousand Flowers|Dol Blathanna Pants
+Boots of a Thousand Flowers|Dol Blathanna Boots
+New Moon gauntlets|Thief Gloves B
+Nilfgaardian Armor|DLC5 Nilfgaardian Armor
+Grandmaster Griffin armor|NGP Gryphon Armor 4
+White Tiger of the West armor|White Tiger Armor
+White Tiger of the West vambraces|White Tiger Gloves
+Grandmaster legendary Wolven armor|Wolf Armor 4
+Grandmaster legendary Wolven trousers|Wolf Pants 5
+Grandmaster legendary Wolven gauntlets|Wolf Gloves 5
+Grandmaster legendary Wolven boots|Wolf Boots 5
+Salmian brigandine|Medium armor 01_crafted
+Grandmaster Wolven armor|NGP Wolf Armor 4
+Cidarian cavalry armor|Medium armor 02_crafted
+Manticore armor|NGP Red Wolf Armor 1
+Redanian halberdier's armor|Medium armor 03_crafted
+White Tiger of the West trousers|White Tiger Pants
+White Tiger of the West boots|White Tiger Boots
+Angrenian cuirass|Medium armor 04_crafted
+Grandmaster Griffin gauntlets|NGP Gryphon Gloves 5
+Enhanced legendary Griffin armor|Gryphon Armor 1
+New Moon boots|Thief Boots B
+New Moon gauntlets|Thief Gloves
+Grandmaster Wolven gauntlets|NGP Wolf Gloves 5
+Superior legendary Griffin armor|Gryphon Armor 2
+Condottiere's boots|Heavy boots 07_crafted
+Manticore gauntlets|NGP Red Wolf Gloves 1
+Griffin armor|NGP Gryphon Armor
+Enhanced Griffin armor|NGP Gryphon Armor 1
+Superior Griffin armor|NGP Gryphon Armor 2
+Mastercrafted Griffin armor|NGP Gryphon Armor 3
+Griffin gauntlets|NGP Gryphon Gloves 1
+Enhanced Griffin gauntlets|NGP Gryphon Gloves 2
+Superior Griffin gauntlets|NGP Gryphon Gloves 3
+Mastercrafted Griffin gauntlets|NGP Gryphon Gloves 4
+Griffin trousers|NGP Gryphon Pants 1
+Enhanced Griffin trousers|NGP Gryphon Pants 2
+Thyssen armor|Thyssen armor crafted
+Superior Griffin trousers|NGP Gryphon Pants 3
+Mastercrafted legendary Griffin armor|Gryphon Armor 3
+Mastercrafted Griffin trousers|NGP Gryphon Pants 4
+Nilfgaardian Gauntlets|DLC5 Nilfgaardian Gloves
+Griffin boots|NGP Gryphon Boots 1
+Grandmaster Griffin trousers|NGP Gryphon Pants 5
+Enhanced Griffin boots|NGP Gryphon Boots 2
+Legendary Griffin gauntlets|Gryphon Gloves 1
+Superior Griffin boots|NGP Gryphon Boots 3
+Enhanced legendary Griffin gauntlets|Gryphon Gloves 2
+Mastercrafted Griffin boots|NGP Gryphon Boots 4
+Cavalry gauntlets|Gloves 02_crafted
+Grandmaster Wolven trousers|NGP Wolf Pants 5
+New Moon gauntlets|Thief Gloves Y
+Manticore trousers|NGP Red Wolf Pants 1
+Legendary Griffin boots|Gryphon Boots 1
+Tracker's boots|Boots 03_crafted
+Enhanced legendary Griffin boots|Gryphon Boots 2
+Grandmaster Griffin boots|NGP Gryphon Boots 5
+Knight's gauntlets|Heavy gloves 02_crafted
+Legendary Griffin trousers|Gryphon Pants 1
