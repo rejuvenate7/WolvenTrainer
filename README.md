@@ -68,8 +68,3 @@ Rusty Witcher 3 Debugger (https://github.com/SpontanCombust/rusty_witcher_debugg
 Dear ImGui (https://github.com/ocornut/imgui)<br>
 pugixml (https://github.com/zeux/pugixml)<br>
 SDL3 (https://github.com/libsdl-org/SDL)<br>
-
-## Changelog
-Initial Release<br>
-
-Version 1.0<br>
