@@ -8,7 +8,7 @@ https://www.nexusmods.com/witcher3/mods/11154<br>
 Install ASI Loader (https://github.com/ThirteenAG/Ultimate-ASI-Loader/releases/latest/download/Ultimate-ASI-Loader_x64.zip)<br>
 Copy d8input.dll to install directory > bin > x64 and x64_dx12<br>
 d8input.dll should be in the same folder as witcher3.exe<br>
-Install Wolven Trainer<br>
+Install Wolven Trainer (download from releases on GitHub)<br>
 Extract the contents of .zip file and drag and drop all files into your Witcher 3 install directory. Replace if prompted.<br>
 Install Community Patch - Shared Imports (https://www.nexusmods.com/witcher3/mods/2110)<br>
 
