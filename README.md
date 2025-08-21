@@ -1,3 +1,5 @@
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/8f972065-d609-41d8-a6ee-cd774a7dbbe8" />
+
 # Wolven Trainer
 A powerful trainer for The Witcher 3: Wild Hunt<br>
 https://www.nexusmods.com/witcher3/mods/11154<br>
